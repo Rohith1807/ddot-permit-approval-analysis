@@ -1,0 +1,21 @@
+Activity,TotalPermits,ValidApprovals,AverageDays,MedianDays,P90Days,SameDay
+Repair Water Service Lateral,792,791,42.02149178255373,36.0,78.0,41
+Boring Test Pit (Single),717,716,46.28072625698324,39.0,81.5,0
+Boring Test Pit (Each Add'l),713,712,46.43258426966292,39.0,81.89999999999998,0
+Repair Gas Main Line,507,507,1.621301775147929,0.0,1.0,333
+Gas Connection (Trench),432,432,15.925925925925926,13.0,29.0,1
+Repair Gas Service (excavation),178,178,1.7191011235955056,0.0,2.0,123
+Gas Service Abandonment,110,110,14.554545454545455,12.5,21.400000000000034,1
+Repair Water Main Line,79,79,9.645569620253164,1.0,32.0,33
+Clean Out (Sewer),78,78,6.102564102564102,0.0,26.0,42
+Valves (Excavation),76,76,14.171052631578947,1.0,37.0,31
+Electric Connection (Trench),73,73,24.65753424657534,16.0,47.39999999999999,0
+Repair Sewer Service Lateral,72,72,1.1111111111111112,0.0,1.0,41
+Fire Hydrant(s),54,54,16.333333333333332,1.0,42.50000000000004,16
+Manhole Installation,53,53,40.0188679245283,25.0,88.20000000000006,1
+Cathodic Protection,47,47,18.659574468085108,11.0,26.39999999999999,0
+Electric ML Conduit (Trench),45,45,20.91111111111111,17.0,44.6,0
+Multiple House Connections (Utility Co. ONLY),42,42,34.88095238095238,29.5,71.0,0
+"Water Meter Pit (to 2"" pipe)",33,33,24.181818181818183,25.0,47.2,0
+"Water Lateral Conn over 2"" Pipe (Trench)",31,31,42.67741935483871,32.0,75.0,0
+"Water Lateral Connection to 2"" (Trench)",31,31,26.0,25.0,48.0,0

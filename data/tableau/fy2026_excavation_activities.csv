@@ -1,0 +1,4444 @@
+PermitNumber,ExcavationActivity,BusinessDaysToApproval
+PA480439,Repair Gas Main Line,8.0
+PA480522,Repair Gas Service (excavation),0.0
+PA480556,Repair Gas Main Line,0.0
+PA480562,Repair Gas Main Line,0.0
+PA480575,Repair Gas Service (excavation),0.0
+PA480582,Gas Connection (Trench),17.0
+PA480584,Gas Connection (Trench),34.0
+PA480587,Gas Connection (Trench),16.0
+PA480608,Gas Connection (Trench),15.0
+PA480609,Repair Gas Main Line,1.0
+PA480614,Gas Connection (Trench),18.0
+PA480621,Repair Gas Main Line,1.0
+PA480622,Repair Gas Main Line,1.0
+PA480623,Repair Gas Main Line,1.0
+PA480693,Repair Gas Service (excavation),0.0
+PA480711,Repair Water Service Lateral,169.0
+PA480711,Boring Test Pit (Each Add'l),169.0
+PA480711,Boring Test Pit (Single),169.0
+PA480718,Repair Gas Main Line,1.0
+PA480719,Repair Gas Main Line,1.0
+PA480720,Repair Gas Main Line,1.0
+PA480729,Repair Gas Service (excavation),1.0
+PA480783,Repair Gas Main Line,0.0
+PA480784,Repair Gas Main Line,0.0
+PA480785,Repair Gas Service (excavation),0.0
+PA480795,Repair Gas Main Line,0.0
+PA480801,Repair Gas Service (excavation),0.0
+PA480804,Repair Gas Service (excavation),0.0
+PA480844,Repair Gas Main Line,0.0
+PA480855,Repair Gas Main Line,0.0
+PA480861,Repair Gas Main Line,0.0
+PA480863,Repair Gas Main Line,0.0
+PA480864,Repair Gas Main Line,0.0
+PA480867,Repair Gas Main Line,0.0
+PA480869,Repair Gas Main Line,1.0
+PA480905,Repair Gas Main Line,0.0
+PA480909,Repair Gas Main Line,0.0
+PA480922,Repair Gas Main Line,0.0
+PA480930,Repair Gas Main Line,0.0
+PA480937,Repair Gas Main Line,0.0
+PA480946,Repair Gas Service (excavation),0.0
+PA480949,Gas Connection (Trench),6.0
+PA480880,Gas Connection (Trench),14.0
+PA480881,Gas Connection (Trench),14.0
+PA480882,Gas Connection (Trench),12.0
+PA480883,Gas Connection (Trench),12.0
+PA480953,Repair Gas Main Line,13.0
+PA480966,Repair Gas Service (excavation),1.0
+PA480982,Repair Gas Service (excavation),0.0
+PA480998,Repair Gas Main Line,0.0
+PA481015,Repair Gas Main Line,1.0
+PA481020,Repair Gas Main Line,1.0
+PA481021,Repair Gas Main Line,1.0
+PA481024,Repair Gas Main Line,1.0
+PA481025,Repair Gas Main Line,1.0
+PA481030,Repair Gas Main Line,1.0
+PA481031,Repair Gas Main Line,1.0
+PA481033,Repair Gas Main Line,1.0
+PA481051,Repair Gas Main Line,0.0
+PA481059,Repair Gas Main Line,0.0
+PA481062,Repair Gas Main Line,0.0
+PA481076,Repair Gas Main Line,0.0
+PA481223,Gas Connection (Trench),11.0
+PA481225,Gas Connection (Trench),11.0
+PA481228,Gas Connection (Trench),9.0
+PA481232,Gas Connection (Trench),14.0
+PA481239,Gas Connection (Trench),14.0
+PA481245,Gas Connection (Trench),11.0
+PA481254,Gas Connection (Trench),9.0
+PA481260,Gas Connection (Trench),13.0
+PA481264,Gas Connection (Trench),12.0
+PA481276,Gas Connection (Trench),11.0
+PA481280,Gas Connection (Trench),11.0
+PA481285,Gas Connection (Trench),16.0
+PA481319,Repair Gas Main Line,0.0
+PA481323,Repair Gas Main Line,0.0
+PA481331,Repair Water Service Lateral,19.0
+PA481341,Repair Gas Service (excavation),1.0
+PA481376,Repair Gas Main Line,0.0
+PA481389,Repair Gas Main Line,0.0
+PA481397,Gas Connection (Trench),3.0
+PA481399,Gas Connection (Trench),12.0
+PA481404,Repair Gas Main Line,0.0
+PA481417,Repair Gas Service (excavation),0.0
+PA481454,Gas Connection (Trench),13.0
+PA481456,Gas Connection (Trench),10.0
+PA481459,Gas Connection (Trench),9.0
+PA481462,Gas Connection (Trench),15.0
+PA481463,Gas Connection (Trench),23.0
+PA481464,Gas Connection (Trench),29.0
+PA481468,Gas Connection (Trench),10.0
+PA481470,Gas Connection (Trench),2.0
+PA481448,Gas Connection (Trench),4.0
+PA481472,Gas Connection (Trench),10.0
+PA481481,Repair Gas Main Line,0.0
+PA481484,Repair Gas Main Line,0.0
+PA481498,Gas Connection (Trench),32.0
+PA481499,Repair Gas Main Line,1.0
+PA481501,Gas Connection (Trench),5.0
+PA481502,Gas Connection (Trench),20.0
+PA481503,Gas Connection (Trench),12.0
+PA481504,Gas Connection (Trench),15.0
+PA481505,Gas Connection (Trench),10.0
+PA481507,Gas Connection (Trench),10.0
+PA481508,Gas Connection (Trench),20.0
+PA481509,Gas Connection (Trench),14.0
+PA481510,Gas Connection (Trench),15.0
+PA481511,Gas Connection (Trench),2.0
+PA481512,Gas Connection (Trench),8.0
+PA481514,Gas Connection (Trench),6.0
+PA481521,Repair Gas Main Line,0.0
+PA481524,Repair Gas Main Line,0.0
+PA481569,Repair Gas Main Line,1.0
+PA481611,Repair Gas Main Line,1.0
+PA481613,Repair Gas Main Line,1.0
+PA481620,Repair Gas Service (excavation),1.0
+PA481623,Repair Gas Main Line,1.0
+PA481654,Gas Connection (Trench),4.0
+PA481660,Gas Connection (Trench),6.0
+PA481663,Repair Water Service Lateral,185.0
+PA481663,Boring Test Pit (Each Add'l),185.0
+PA481663,Boring Test Pit (Single),185.0
+PA481674,Gas Connection (Trench),18.0
+PA481679,Gas Connection (Trench),17.0
+PA481714,Repair Water Service Lateral,185.0
+PA481714,Boring Test Pit (Each Add'l),185.0
+PA481714,Boring Test Pit (Single),185.0
+PA481728,Gas Connection (Trench),3.0
+PA481739,Gas Connection (Trench),12.0
+PA481749,Gas Connection (Trench),8.0
+PA481752,Gas Connection (Trench),10.0
+PA481760,Gas Connection (Trench),17.0
+PA481766,Gas Connection (Trench),6.0
+PA481790,Gas Connection (Trench),12.0
+PA481807,Gas Connection (Trench),12.0
+PA481809,Gas Connection (Trench),5.0
+PA481810,Gas Connection (Trench),21.0
+PA481811,Gas Connection (Trench),6.0
+PA481812,Gas Connection (Trench),9.0
+PA481813,Gas Connection (Trench),24.0
+PA481815,Gas Connection (Trench),5.0
+PA481816,Gas Connection (Trench),9.0
+PA481817,Gas Connection (Trench),2.0
+PA481818,Gas Connection (Trench),8.0
+PA481820,Gas Connection (Trench),8.0
+PA481821,Gas Connection (Trench),6.0
+PA481822,Gas Connection (Trench),8.0
+PA481823,Gas Connection (Trench),17.0
+PA481824,Gas Connection (Trench),10.0
+PA481825,Gas Connection (Trench),14.0
+PA481827,Gas Connection (Trench),4.0
+PA481841,Repair Water Service Lateral,184.0
+PA481841,Boring Test Pit (Each Add'l),184.0
+PA481841,Boring Test Pit (Single),184.0
+PA481842,Repair Water Service Lateral,160.0
+PA481842,Boring Test Pit (Each Add'l),160.0
+PA481842,Boring Test Pit (Single),160.0
+PA481852,Repair Gas Service (excavation),0.0
+PA481869,Gas Connection (Trench),19.0
+PA481870,Gas Connection (Trench),19.0
+PA481871,Gas Connection (Trench),5.0
+PA481872,Gas Connection (Trench),12.0
+PA481873,Repair Gas Service (excavation),0.0
+PA481876,Gas Connection (Trench),6.0
+PA481884,Gas Connection (Trench),11.0
+PA481885,Gas Connection (Trench),12.0
+PA481886,Repair Gas Service (excavation),0.0
+PA481950,Repair Gas Service (excavation),0.0
+PA481970,Repair Gas Main Line,0.0
+PA481971,Repair Gas Main Line,0.0
+PA481982,Repair Gas Main Line,0.0
+PA481986,Gas Connection (Trench),8.0
+PA481993,Gas Connection (Trench),5.0
+PA481994,Repair Gas Main Line,0.0
+PA481997,Gas Connection (Trench),8.0
+PA482000,Gas Connection (Trench),7.0
+PA482002,Gas Connection (Trench),4.0
+PA482008,Gas Connection (Trench),3.0
+PA482014,Gas Connection (Trench),1.0
+PA482016,Gas Connection (Trench),24.0
+PA482017,Gas Connection (Trench),10.0
+PA482020,Gas Connection (Trench),10.0
+PA482025,Gas Connection (Trench),4.0
+PA482027,Gas Connection (Trench),13.0
+PA482030,Gas Connection (Trench),25.0
+PA482032,Gas Connection (Trench),5.0
+PA482033,Gas Connection (Trench),13.0
+PA482034,Repair Gas Main Line,0.0
+PA482035,Gas Connection (Trench),5.0
+PA482036,Gas Connection (Trench),23.0
+PA482037,Gas Connection (Trench),14.0
+PA482041,Repair Gas Service (excavation),0.0
+PA482043,Repair Gas Service (excavation),1.0
+PA482047,Repair Gas Service (excavation),1.0
+PA482048,Repair Gas Service (excavation),1.0
+PA482068,Repair Gas Main Line,0.0
+PA482072,Repair Gas Main Line,0.0
+PA482087,Repair Gas Main Line,0.0
+PA482108,Repair Water Service Lateral,104.0
+PA482108,Boring Test Pit (Each Add'l),104.0
+PA482108,Boring Test Pit (Single),104.0
+PA482110,Repair Gas Main Line,0.0
+PA482116,Repair Gas Main Line,2.0
+PA482125,Repair Gas Main Line,2.0
+PA481506,Gas Connection (Trench),9.0
+PA482143,Repair Gas Main Line,1.0
+PA482146,Repair Gas Service (excavation),10.0
+PA482199,Repair Gas Service (excavation),1.0
+PA482208,Repair Gas Main Line,1.0
+PA482212,Repair Gas Main Line,1.0
+PA482215,Repair Gas Main Line,2.0
+PA482217,Repair Gas Main Line,2.0
+PA482237,Repair Gas Main Line,0.0
+PA482239,Repair Sewer Main Line,1.0
+PA482242,Repair Gas Main Line,1.0
+PA482246,Repair Gas Main Line,0.0
+PA482253,Repair Gas Main Line,0.0
+PA482274,Repair Gas Main Line,0.0
+PA482283,Repair Gas Service (excavation),0.0
+PA482293,Repair Gas Main Line,0.0
+PA482294,Repair Gas Main Line,0.0
+PA482327,Repair Gas Main Line,0.0
+PA482331,Repair Gas Main Line,0.0
+PA482356,Repair Gas Main Line,0.0
+PA482361,Repair Water Service Lateral,155.0
+PA482361,Boring Test Pit (Each Add'l),155.0
+PA482361,Boring Test Pit (Single),155.0
+PA482363,Repair Gas Main Line,0.0
+PA482369,Repair Gas Main Line,0.0
+PA482373,Repair Gas Main Line,0.0
+PA482378,Repair Gas Main Line,0.0
+PA482417,Repair Gas Main Line,0.0
+PA482444,Repair Gas Main Line,0.0
+PA482458,Repair Gas Main Line,1.0
+PA482459,"Storm Lateral Conn to 4"" (Trench)",47.0
+PA482459,Manhole Installation,47.0
+PA482459,"Sewer Lateral Connection over 4"" Pipe (Trench)",47.0
+PA482460,Repair Gas Main Line,1.0
+PA482462,Repair Gas Main Line,1.0
+PA482464,Repair Gas Main Line,1.0
+PA482465,Repair Gas Main Line,1.0
+PA482468,Repair Gas Main Line,1.0
+PA482516,Repair Gas Service (excavation),1.0
+PA482540,Repair Gas Main Line,1.0
+PA482268,Repair Water Service Lateral,123.0
+PA482268,Boring Test Pit (Each Add'l),123.0
+PA482268,Boring Test Pit (Single),123.0
+PA482605,Repair Gas Main Line,1.0
+PA482609,Repair Gas Main Line,1.0
+PA482561,Repair Gas Main Line,12.0
+PA482626,Repair Water Service Lateral,103.0
+PA482626,Boring Test Pit (Each Add'l),103.0
+PA482626,Boring Test Pit (Single),103.0
+PA482700,Repair Gas Main Line,0.0
+PA482707,Repair Gas Main Line,0.0
+PA482247,Repair Water Service Lateral,160.0
+PA482247,Boring Test Pit (Each Add'l),160.0
+PA482247,Boring Test Pit (Single),160.0
+PA482248,Repair Water Service Lateral,102.0
+PA482248,Boring Test Pit (Each Add'l),102.0
+PA482248,Boring Test Pit (Single),102.0
+PA482251,Repair Water Service Lateral,153.0
+PA482251,Boring Test Pit (Each Add'l),153.0
+PA482251,Boring Test Pit (Single),153.0
+PA482254,Repair Water Service Lateral,153.0
+PA482254,Boring Test Pit (Each Add'l),153.0
+PA482254,Boring Test Pit (Single),153.0
+PA482258,Repair Water Service Lateral,153.0
+PA482258,Boring Test Pit (Each Add'l),153.0
+PA482258,Boring Test Pit (Single),153.0
+PA482730,Repair Gas Main Line,0.0
+PA482750,Repair Gas Main Line,0.0
+PA482754,Repair Gas Main Line,0.0
+PA482756,Repair Gas Main Line,0.0
+PA482761,Repair Gas Main Line,0.0
+PA482764,Repair Gas Main Line,0.0
+PA482250,Repair Water Service Lateral,102.0
+PA482250,Boring Test Pit (Each Add'l),102.0
+PA482250,Boring Test Pit (Single),102.0
+PA482820,Repair Gas Main Line,0.0
+PA482821,Gas Connection (Trench),6.0
+PA482867,Repair Gas Main Line,0.0
+PA482874,Gas Connection (Trench),5.0
+PA482914,Repair Gas Main Line,0.0
+PA482915,Repair Gas Main Line,0.0
+PA482916,Repair Gas Service (excavation),0.0
+PA482944,Repair Gas Service (excavation),0.0
+PA482968,Repair Gas Main Line,1.0
+PA482969,Repair Gas Main Line,1.0
+PA482971,Repair Gas Main Line,1.0
+PA483013,Repair Gas Main Line,0.0
+PA483108,Repair Gas Main Line,1.0
+PA482104,Repair Water Service Lateral,85.0
+PA482104,Boring Test Pit (Each Add'l),85.0
+PA482104,Boring Test Pit (Single),85.0
+PA483131,Repair Gas Main Line,1.0
+PA483158,Repair Gas Main Line,1.0
+PA482249,Repair Water Service Lateral,102.0
+PA482249,Boring Test Pit (Each Add'l),102.0
+PA482249,Boring Test Pit (Single),102.0
+PA482261,Repair Water Service Lateral,153.0
+PA482261,Boring Test Pit (Each Add'l),153.0
+PA482261,Boring Test Pit (Single),153.0
+PA482263,Repair Water Service Lateral,160.0
+PA482263,Boring Test Pit (Each Add'l),160.0
+PA482263,Boring Test Pit (Single),160.0
+PA483186,Repair Gas Service (excavation),0.0
+PA483188,Repair Gas Service (excavation),0.0
+PA483190,Repair Gas Main Line,0.0
+PA483202,Repair Gas Main Line,0.0
+PA483211,Repair Gas Main Line,0.0
+PA483301,Repair Gas Main Line,0.0
+PA483305,Repair Gas Main Line,0.0
+PA483329,Repair Gas Main Line,0.0
+PA483332,Repair Gas Main Line,0.0
+PA483393,Repair Gas Main Line,1.0
+PA483374,Repair Gas Main Line,0.0
+PA483390,Repair Gas Main Line,1.0
+PA483410,Repair Gas Main Line,0.0
+PA483466,Repair Gas Main Line,0.0
+PA483472,Repair Gas Service (excavation),0.0
+PA483476,Repair Gas Service (excavation),0.0
+PA483479,Repair Gas Main Line,2.0
+PA483519,Repair Gas Service (excavation),1.0
+PA483506,Repair Gas Main Line,0.0
+PA483507,Repair Gas Main Line,2.0
+PA483548,Repair Gas Service (excavation),0.0
+PA483549,Repair Gas Main Line,0.0
+PA483551,Repair Gas Main Line,0.0
+PA483586,Repair Gas Service (excavation),0.0
+PA483588,Repair Gas Main Line,0.0
+PA483589,Repair Gas Main Line,0.0
+PA483594,Repair Gas Main Line,0.0
+PA483632,Repair Gas Main Line,0.0
+PA483633,Repair Gas Main Line,0.0
+PA483642,Repair Gas Main Line,0.0
+PA483644,Repair Gas Main Line,0.0
+PA483662,Repair Gas Main Line,0.0
+PA483663,Repair Gas Main Line,0.0
+PA483740,Repair Gas Main Line,0.0
+PA483744,Repair Gas Main Line,0.0
+PA483800,Repair Gas Main Line,0.0
+PA483795,Repair Water Service Lateral,16.0
+PA483795,Boring Test Pit (Each Add'l),16.0
+PA483795,Boring Test Pit (Single),16.0
+PA484062,Repair Water Service Lateral,81.0
+PA484062,Boring Test Pit (Each Add'l),81.0
+PA484062,Boring Test Pit (Single),81.0
+PA483524,Manhole Installation,178.0
+PA483524,"Sewer Lateral Connection over 4"" Pipe (Trench)",178.0
+PA484302,Manhole Installation,188.0
+PA484302,"Water Lateral Conn over 2"" Pipe (Trench)",188.0
+PA484302,"Storm Lateral Conn over 4"" (Trench)",188.0
+PA484302,Vault(s) L'XW'XH',188.0
+PA484302,"Sewer Lateral Connection over 4"" Pipe (Trench)",188.0
+PA484494,Gas Connection (Trench),21.0
+PA481747,DDOT Permit - DOEE Review,38.0
+PA484777,Repair Water Service Lateral,93.0
+PA484777,Boring Test Pit (Each Add'l),93.0
+PA484777,Boring Test Pit (Single),93.0
+PA485058,Repair Gas Main Line,102.0
+PA485275,Gas Connection (Trench),149.0
+PA485282,Water Proofing in Public Space,169.0
+PA485078,Repair Water Service Lateral,44.0
+PA485078,Boring Test Pit (Each Add'l),44.0
+PA485078,Boring Test Pit (Single),44.0
+PA485080,Repair Water Service Lateral,45.0
+PA485080,Boring Test Pit (Each Add'l),45.0
+PA485080,Boring Test Pit (Single),45.0
+PA485085,Repair Water Service Lateral,73.0
+PA485085,Boring Test Pit (Each Add'l),73.0
+PA485085,Boring Test Pit (Single),73.0
+PA485089,Repair Water Service Lateral,45.0
+PA485089,Boring Test Pit (Each Add'l),45.0
+PA485089,Boring Test Pit (Single),45.0
+PA485090,Repair Water Service Lateral,45.0
+PA485090,Boring Test Pit (Each Add'l),45.0
+PA485090,Boring Test Pit (Single),45.0
+PA485316,Repair Water Service Lateral,47.0
+PA485316,Boring Test Pit (Each Add'l),47.0
+PA485316,Boring Test Pit (Single),47.0
+PA485320,Repair Water Service Lateral,40.0
+PA485320,Boring Test Pit (Each Add'l),40.0
+PA485320,Boring Test Pit (Single),40.0
+PA485383,Gas Service Abandonment,125.0
+PA485485,Repair Water Service Lateral,24.0
+PA485517,Repair Water Service Lateral,139.0
+PA485517,Boring Test Pit (Each Add'l),139.0
+PA485517,Boring Test Pit (Single),139.0
+PA485519,Repair Water Service Lateral,114.0
+PA485519,Boring Test Pit (Each Add'l),114.0
+PA485519,Boring Test Pit (Single),114.0
+PA485521,Repair Water Service Lateral,114.0
+PA485521,Boring Test Pit (Each Add'l),114.0
+PA485521,Boring Test Pit (Single),114.0
+PA485522,Repair Water Service Lateral,114.0
+PA485522,Boring Test Pit (Each Add'l),114.0
+PA485522,Boring Test Pit (Single),114.0
+PA485523,Repair Water Service Lateral,139.0
+PA485523,Boring Test Pit (Each Add'l),139.0
+PA485523,Boring Test Pit (Single),139.0
+PA485524,Repair Water Service Lateral,139.0
+PA485524,Boring Test Pit (Each Add'l),139.0
+PA485524,Boring Test Pit (Single),139.0
+PA485537,HANDHOLE,183.0
+PA485537,Telecom ML Conduits (Trench),183.0
+PA485548,Repair Gas Main Line,0.0
+PA485554,Repair Gas Main Line,0.0
+PA485418,Repair Water Service Lateral,67.0
+PA485418,Boring Test Pit (Each Add'l),67.0
+PA485418,Boring Test Pit (Single),67.0
+PA485614,Repair Gas Service (excavation),0.0
+PA485622,Repair Gas Main Line,0.0
+PA485623,Repair Gas Service (excavation),0.0
+PA485625,Repair Gas Main Line,0.0
+PA485643,Repair Gas Main Line,0.0
+PA485659,Gas Service Abandonment,0.0
+PA485662,Repair Gas Main Line,0.0
+PA485674,Repair Water Service Lateral,63.0
+PA485674,Boring Test Pit (Each Add'l),63.0
+PA485674,Boring Test Pit (Single),63.0
+PA485597,Repair Gas Service (excavation),0.0
+PA485606,Repair Gas Service (excavation),0.0
+PA485610,Repair Gas Main Line,0.0
+PA485801,Repair Gas Main Line,0.0
+PA485805,Repair Gas Main Line,0.0
+PA485809,Repair Gas Main Line,0.0
+PA485885,Repair Gas Service (excavation),1.0
+PA485898,Repair Gas Main Line,1.0
+PA485913,Repair Gas Main Line,1.0
+PA485928,"Water Lateral Conn over 2"" Pipe (Trench)",152.0
+PA485928,Fire Hydrant(s),152.0
+PA485928,Multiple House Connections (Utility Co. ONLY),152.0
+PA485928,Repair Water Main Line,152.0
+PA485928,Valves (Excavation),152.0
+PA485930,Repair Gas Main Line,1.0
+PA485999,Repair Gas Main Line,0.0
+PA486033,Repair Gas Main Line,0.0
+PA486062,Repair Gas Main Line,1.0
+PA486078,Repair Gas Main Line,0.0
+PA486116,Repair Water Service Lateral,9.0
+PA486116,Boring Test Pit (Each Add'l),9.0
+PA486116,Boring Test Pit (Single),9.0
+PA486119,Repair Gas Main Line,0.0
+PA486125,Repair Gas Main Line,0.0
+PA486130,Repair Gas Main Line,1.0
+PA486131,Repair Gas Service (excavation),1.0
+PA486132,Repair Gas Service (excavation),76.0
+PA486084,Repair Gas Main Line,0.0
+PA486096,Repair Gas Main Line,0.0
+PA486155,Repair Gas Service (excavation),0.0
+PA486158,Repair Gas Service (excavation),0.0
+PA486173,Repair Gas Service (excavation),0.0
+PA486189,Repair Gas Main Line,0.0
+PA486207,Electric Connection (Trench),56.0
+PA486278,Repair Gas Main Line,0.0
+PA485326,Repair Water Service Lateral,48.0
+PA485326,Boring Test Pit (Each Add'l),48.0
+PA485326,Boring Test Pit (Single),48.0
+PA486355,Cathodic Protection,125.0
+PA486360,Boring Test Pit (Each Add'l),175.0
+PA486360,Boring Test Pit (Single),175.0
+PA486379,Cathodic Protection,127.0
+PA486398,Repair Gas Main Line,0.0
+PA486401,Repair Gas Main Line,0.0
+PA486402,Repair Gas Main Line,1.0
+PA486403,Repair Gas Main Line,1.0
+PA486451,Repair Gas Main Line,0.0
+PA484360,Repair Water Service Lateral,56.0
+PA484360,Boring Test Pit (Each Add'l),56.0
+PA484360,Boring Test Pit (Single),56.0
+PA486540,Repair Gas Main Line,0.0
+PA486568,Repair Gas Main Line,0.0
+PA486574,Repair Gas Main Line,0.0
+PA486609,Repair Gas Main Line,1.0
+PA486592,Repair Gas Main Line,0.0
+PA486603,Repair Gas Main Line,0.0
+PA486607,Repair Gas Main Line,0.0
+PA486613,Repair Gas Service (excavation),1.0
+PA486615,Repair Gas Main Line,1.0
+PA486692,Repair Gas Service (excavation),0.0
+PA486701,Repair Gas Main Line,1.0
+PA486707,Repair Gas Main Line,0.0
+PA486878,Repair Gas Main Line,0.0
+PA486889,Repair Gas Main Line,0.0
+PA486893,Repair Gas Main Line,0.0
+PA486896,Repair Gas Main Line,0.0
+PA486906,Repair Gas Main Line,0.0
+PA486921,Repair Gas Main Line,0.0
+PA486927,Repair Gas Main Line,1.0
+PA486946,Repair Gas Main Line,1.0
+PA486948,Repair Gas Main Line,1.0
+PA486952,Repair Gas Main Line,1.0
+PA486964,Repair Gas Main Line,1.0
+PA486973,Repair Gas Service (excavation),1.0
+PA487030,Repair Gas Main Line,0.0
+PA487046,Repair Gas Main Line,0.0
+PA487052,Repair Gas Service (excavation),0.0
+PA487053,Repair Gas Service (excavation),0.0
+PA487066,Repair Gas Main Line,1.0
+PA487078,Repair Gas Service (excavation),1.0
+PA487080,Repair Gas Service (excavation),1.0
+PA487095,Repair Gas Service (excavation),0.0
+PA487096,Repair Gas Main Line,0.0
+PA487099,Repair Gas Main Line,0.0
+PA487102,Repair Gas Main Line,0.0
+PA487104,Repair Gas Main Line,0.0
+PA487105,Repair Gas Main Line,0.0
+PA487112,Repair Gas Main Line,0.0
+PA487115,Repair Gas Main Line,0.0
+PA487116,DDOT Permit - DOEE Review,14.0
+PA487120,Repair Gas Main Line,0.0
+PA487122,Repair Gas Main Line,0.0
+PA487125,Repair Gas Service (excavation),0.0
+PA487126,Repair Gas Main Line,0.0
+PA487155,Repair Gas Main Line,0.0
+PA487159,Repair Gas Main Line,0.0
+PA487162,Repair Gas Main Line,1.0
+PA487163,Repair Gas Main Line,1.0
+PA487171,Repair Gas Service (excavation),1.0
+PA487173,Repair Gas Main Line,1.0
+PA487177,Repair Gas Service (excavation),1.0
+PA487183,Repair Gas Main Line,1.0
+PA487186,Repair Gas Service (excavation),1.0
+PA487244,Repair Gas Main Line,0.0
+PA487265,Repair Gas Service (excavation),0.0
+PA487273,Repair Gas Main Line,0.0
+PA487275,Repair Gas Service (excavation),0.0
+PA487238,Repair Gas Main Line,0.0
+PA487277,Repair Gas Main Line,0.0
+PA487280,Repair Gas Service (excavation),1.0
+PA487312,Repair Gas Main Line,0.0
+PA487313,Repair Gas Service (excavation),0.0
+PA487322,Repair Water Service Lateral,20.0
+PA487322,Boring Test Pit (Each Add'l),20.0
+PA487322,Boring Test Pit (Single),20.0
+PA487325,Repair Water Service Lateral,22.0
+PA487325,Boring Test Pit (Each Add'l),22.0
+PA487325,Boring Test Pit (Single),22.0
+PA487284,HANDHOLE,139.0
+PA487284,Telecom ML Conduits (Trench),139.0
+PA487299,Repair Gas Service (excavation),0.0
+PA487310,Repair Gas Main Line,0.0
+PA487311,Repair Gas Service (excavation),0.0
+PA487456,Repair Water Service Lateral,73.0
+PA487456,Boring Test Pit (Each Add'l),73.0
+PA487456,Boring Test Pit (Single),73.0
+PA487538,Repair Water Service Lateral,20.0
+PA487538,Boring Test Pit (Each Add'l),20.0
+PA487538,Boring Test Pit (Single),20.0
+PA487548,Repair Water Service Lateral,18.0
+PA487548,Boring Test Pit (Each Add'l),18.0
+PA487548,Boring Test Pit (Single),18.0
+PA487914,Gas Main Line (Trench),125.0
+PA487914,Gas Connection (Trench),125.0
+PA488138,Repair Water Service Lateral,46.0
+PA488138,Boring Test Pit (Each Add'l),46.0
+PA488138,Boring Test Pit (Single),46.0
+PA488400,Manhole Installation,103.0
+PA488400,Telecom ML Conduits (Trench),103.0
+PA488410,Manhole Installation,130.0
+PA488410,Telecom ML Conduits (Trench),130.0
+PA488414,Repair Water Service Lateral,43.0
+PA488414,Boring Test Pit (Each Add'l),43.0
+PA488414,Boring Test Pit (Single),43.0
+PA488423,Repair Water Service Lateral,42.0
+PA488423,Boring Test Pit (Each Add'l),42.0
+PA488423,Boring Test Pit (Single),42.0
+PA488429,Repair Water Service Lateral,12.0
+PA488429,Boring Test Pit (Each Add'l),12.0
+PA488429,Boring Test Pit (Single),12.0
+PA488432,Repair Water Service Lateral,12.0
+PA488432,Boring Test Pit (Each Add'l),12.0
+PA488432,Boring Test Pit (Single),12.0
+PA488433,Repair Water Service Lateral,42.0
+PA488433,Boring Test Pit (Each Add'l),42.0
+PA488433,Boring Test Pit (Single),42.0
+PA488470,Manhole Installation,110.0
+PA488470,Telecom ML Conduits (Trench),110.0
+PA488475,Repair Water Service Lateral,41.0
+PA488475,Boring Test Pit (Each Add'l),41.0
+PA488475,Boring Test Pit (Single),41.0
+PA488476,Repair Water Service Lateral,41.0
+PA488476,Boring Test Pit (Each Add'l),41.0
+PA488476,Boring Test Pit (Single),41.0
+PA488477,Repair Water Service Lateral,41.0
+PA488477,Boring Test Pit (Each Add'l),41.0
+PA488477,Boring Test Pit (Single),41.0
+PA488479,Repair Water Service Lateral,11.0
+PA488479,Boring Test Pit (Each Add'l),11.0
+PA488479,Boring Test Pit (Single),11.0
+PA488480,Repair Water Service Lateral,11.0
+PA488480,Boring Test Pit (Each Add'l),11.0
+PA488480,Boring Test Pit (Single),11.0
+PA488481,Repair Water Service Lateral,11.0
+PA488481,Boring Test Pit (Each Add'l),11.0
+PA488481,Boring Test Pit (Single),11.0
+PA488573,Repair Water Service Lateral,55.0
+PA488573,Boring Test Pit (Each Add'l),55.0
+PA488573,Boring Test Pit (Single),55.0
+PA488575,Repair Water Service Lateral,73.0
+PA488575,Boring Test Pit (Each Add'l),73.0
+PA488575,Boring Test Pit (Single),73.0
+PA488579,Repair Water Service Lateral,40.0
+PA488579,Boring Test Pit (Each Add'l),40.0
+PA488579,Boring Test Pit (Single),40.0
+PA488582,Repair Water Service Lateral,73.0
+PA488582,Boring Test Pit (Each Add'l),73.0
+PA488582,Boring Test Pit (Single),73.0
+PA488604,Repair Water Service Lateral,124.0
+PA488604,Boring Test Pit (Each Add'l),124.0
+PA488604,Boring Test Pit (Single),124.0
+PA488622,Repair Water Service Lateral,55.0
+PA488622,Boring Test Pit (Each Add'l),55.0
+PA488622,Boring Test Pit (Single),55.0
+PA488624,Repair Water Service Lateral,98.0
+PA488624,Boring Test Pit (Each Add'l),98.0
+PA488624,Boring Test Pit (Single),98.0
+PA488628,Repair Water Service Lateral,40.0
+PA488628,Boring Test Pit (Each Add'l),40.0
+PA488628,Boring Test Pit (Single),40.0
+PA488626,Repair Water Service Lateral,55.0
+PA488626,Boring Test Pit (Each Add'l),55.0
+PA488626,Boring Test Pit (Single),55.0
+PA488689,Repair Water Service Lateral,34.0
+PA488689,Boring Test Pit (Each Add'l),34.0
+PA488689,Boring Test Pit (Single),34.0
+PA488986,Repair Water Service Lateral,36.0
+PA488986,Boring Test Pit (Each Add'l),36.0
+PA488986,Boring Test Pit (Single),36.0
+PA488990,Repair Water Service Lateral,51.0
+PA488990,Boring Test Pit (Each Add'l),51.0
+PA488990,Boring Test Pit (Single),51.0
+PA488991,Repair Water Service Lateral,69.0
+PA488991,Boring Test Pit (Each Add'l),69.0
+PA488991,Boring Test Pit (Single),69.0
+PA488996,Repair Water Service Lateral,25.0
+PA488996,Boring Test Pit (Each Add'l),25.0
+PA488996,Boring Test Pit (Single),25.0
+PA488999,Repair Water Service Lateral,120.0
+PA488999,Boring Test Pit (Each Add'l),120.0
+PA488999,Boring Test Pit (Single),120.0
+PA489003,Repair Water Service Lateral,36.0
+PA489003,Boring Test Pit (Each Add'l),36.0
+PA489003,Boring Test Pit (Single),36.0
+PA489006,Repair Water Service Lateral,131.0
+PA489006,Boring Test Pit (Each Add'l),131.0
+PA489006,Boring Test Pit (Single),131.0
+PA489007,Repair Water Service Lateral,36.0
+PA489007,Boring Test Pit (Each Add'l),36.0
+PA489007,Boring Test Pit (Single),36.0
+PA489009,Repair Water Service Lateral,36.0
+PA489009,Boring Test Pit (Each Add'l),36.0
+PA489009,Boring Test Pit (Single),36.0
+PA489010,Repair Water Service Lateral,51.0
+PA489010,Boring Test Pit (Each Add'l),51.0
+PA489010,Boring Test Pit (Single),51.0
+PA489012,Repair Water Service Lateral,51.0
+PA489012,Boring Test Pit (Each Add'l),51.0
+PA489012,Boring Test Pit (Single),51.0
+PA489015,Repair Water Service Lateral,51.0
+PA489015,Boring Test Pit (Each Add'l),51.0
+PA489015,Boring Test Pit (Single),51.0
+PA489017,Repair Water Service Lateral,51.0
+PA489017,Boring Test Pit (Each Add'l),51.0
+PA489017,Boring Test Pit (Single),51.0
+PA489021,Repair Water Service Lateral,69.0
+PA489021,Boring Test Pit (Each Add'l),69.0
+PA489021,Boring Test Pit (Single),69.0
+PA489022,Repair Water Service Lateral,36.0
+PA489022,Boring Test Pit (Each Add'l),36.0
+PA489022,Boring Test Pit (Single),36.0
+PA489045,Repair Water Service Lateral,50.0
+PA489045,Boring Test Pit (Each Add'l),50.0
+PA489045,Boring Test Pit (Single),50.0
+PA489071,Repair Water Service Lateral,35.0
+PA489071,Boring Test Pit (Each Add'l),35.0
+PA489071,Boring Test Pit (Single),35.0
+PA489054,Repair Water Service Lateral,35.0
+PA489054,Boring Test Pit (Each Add'l),35.0
+PA489054,Boring Test Pit (Single),35.0
+PA489064,Repair Water Service Lateral,68.0
+PA489064,Boring Test Pit (Each Add'l),68.0
+PA489064,Boring Test Pit (Single),68.0
+PA489066,Repair Water Service Lateral,35.0
+PA489066,Boring Test Pit (Each Add'l),35.0
+PA489066,Boring Test Pit (Single),35.0
+PA489068,Repair Water Service Lateral,35.0
+PA489068,Boring Test Pit (Each Add'l),35.0
+PA489068,Boring Test Pit (Single),35.0
+PA489081,Repair Water Service Lateral,68.0
+PA489081,Boring Test Pit (Each Add'l),68.0
+PA489081,Boring Test Pit (Single),68.0
+PA489095,Repair Water Service Lateral,80.0
+PA489095,Boring Test Pit (Each Add'l),80.0
+PA489095,Boring Test Pit (Single),80.0
+PA489141,Repair Water Service Lateral,81.0
+PA489141,Boring Test Pit (Each Add'l),81.0
+PA489141,Boring Test Pit (Single),81.0
+PA489151,DDOT Permit - DOEE Review,10.0
+PA489172,Repair Water Service Lateral,105.0
+PA489172,Boring Test Pit (Each Add'l),105.0
+PA489172,Boring Test Pit (Single),105.0
+PA489173,Repair Water Service Lateral,105.0
+PA489173,Boring Test Pit (Each Add'l),105.0
+PA489173,Boring Test Pit (Single),105.0
+PA489174,Repair Water Service Lateral,105.0
+PA489174,Boring Test Pit (Each Add'l),105.0
+PA489174,Boring Test Pit (Single),105.0
+PA489177,Repair Water Service Lateral,105.0
+PA489177,Boring Test Pit (Each Add'l),105.0
+PA489177,Boring Test Pit (Single),105.0
+PA489204,Repair Water Service Lateral,80.0
+PA489204,Boring Test Pit (Each Add'l),80.0
+PA489204,Boring Test Pit (Single),80.0
+PA489164,Repair Water Service Lateral,105.0
+PA489164,Boring Test Pit (Each Add'l),105.0
+PA489164,Boring Test Pit (Single),105.0
+PA489194,DDOT Permit - DOEE Review,9.0
+PA489232,Repair Water Service Lateral,105.0
+PA489232,Boring Test Pit (Each Add'l),105.0
+PA489232,Boring Test Pit (Single),105.0
+PA489295,Repair Water Service Lateral,104.0
+PA489295,Boring Test Pit (Each Add'l),104.0
+PA489295,Boring Test Pit (Single),104.0
+PA489300,Repair Water Service Lateral,104.0
+PA489300,Boring Test Pit (Each Add'l),104.0
+PA489300,Boring Test Pit (Single),104.0
+PA489304,Repair Water Service Lateral,104.0
+PA489304,Boring Test Pit (Each Add'l),104.0
+PA489304,Boring Test Pit (Single),104.0
+PA489348,Repair Water Service Lateral,104.0
+PA489348,Boring Test Pit (Each Add'l),104.0
+PA489348,Boring Test Pit (Single),104.0
+PA489368,Repair Water Service Lateral,80.0
+PA489368,Boring Test Pit (Each Add'l),80.0
+PA489368,Boring Test Pit (Single),80.0
+PA489372,Repair Water Service Lateral,104.0
+PA489372,Boring Test Pit (Each Add'l),104.0
+PA489372,Boring Test Pit (Single),104.0
+PA489387,Repair Water Service Lateral,103.0
+PA489387,Boring Test Pit (Each Add'l),103.0
+PA489387,Boring Test Pit (Single),103.0
+PA489437,Repair Water Service Lateral,83.0
+PA489437,Boring Test Pit (Each Add'l),83.0
+PA489437,Boring Test Pit (Single),83.0
+PA489514,Repair Water Service Lateral,77.0
+PA489514,Boring Test Pit (Each Add'l),77.0
+PA489514,Boring Test Pit (Single),77.0
+PA489565,Repair Water Service Lateral,30.0
+PA489565,Boring Test Pit (Each Add'l),30.0
+PA489565,Boring Test Pit (Single),30.0
+PA489569,Repair Water Service Lateral,60.0
+PA489569,Boring Test Pit (Each Add'l),60.0
+PA489569,Boring Test Pit (Single),60.0
+PA489521,Repair Water Service Lateral,77.0
+PA489521,Boring Test Pit (Each Add'l),77.0
+PA489521,Boring Test Pit (Single),77.0
+PA489623,Repair Water Service Lateral,101.0
+PA489623,Boring Test Pit (Each Add'l),101.0
+PA489623,Boring Test Pit (Single),101.0
+PA489632,Repair Water Service Lateral,77.0
+PA489632,Boring Test Pit (Each Add'l),77.0
+PA489632,Boring Test Pit (Single),77.0
+PA489634,Repair Water Service Lateral,59.0
+PA489634,Boring Test Pit (Each Add'l),59.0
+PA489634,Boring Test Pit (Single),59.0
+PA489718,Repair Water Service Lateral,58.0
+PA489718,Boring Test Pit (Each Add'l),58.0
+PA489718,Boring Test Pit (Single),58.0
+PA489720,Repair Water Service Lateral,26.0
+PA489720,Boring Test Pit (Each Add'l),26.0
+PA489720,Boring Test Pit (Single),26.0
+PA489722,Repair Water Service Lateral,100.0
+PA489722,Boring Test Pit (Each Add'l),100.0
+PA489722,Boring Test Pit (Single),100.0
+PA489724,Repair Water Service Lateral,100.0
+PA489724,Boring Test Pit (Each Add'l),100.0
+PA489724,Boring Test Pit (Single),100.0
+PA489725,Repair Water Service Lateral,76.0
+PA489725,Boring Test Pit (Each Add'l),76.0
+PA489725,Boring Test Pit (Single),76.0
+PA489828,Repair Water Service Lateral,25.0
+PA489828,Boring Test Pit (Each Add'l),25.0
+PA489828,Boring Test Pit (Single),25.0
+PA489851,Repair Water Service Lateral,99.0
+PA489851,Boring Test Pit (Each Add'l),99.0
+PA489851,Boring Test Pit (Single),99.0
+PA489814,Gas Service Abandonment,82.0
+PA489818,Repair Water Service Lateral,99.0
+PA489818,Boring Test Pit (Each Add'l),99.0
+PA489818,Boring Test Pit (Single),99.0
+PA489938,Repair Water Service Lateral,54.0
+PA489938,Boring Test Pit (Each Add'l),54.0
+PA489938,Boring Test Pit (Single),54.0
+PA489940,Repair Water Service Lateral,51.0
+PA489940,Boring Test Pit (Each Add'l),51.0
+PA489940,Boring Test Pit (Single),51.0
+PA489942,Repair Water Service Lateral,51.0
+PA489942,Boring Test Pit (Each Add'l),51.0
+PA489942,Boring Test Pit (Single),51.0
+PA489948,Repair Water Service Lateral,54.0
+PA489948,Boring Test Pit (Each Add'l),54.0
+PA489948,Boring Test Pit (Single),54.0
+PA489960,Repair Water Service Lateral,51.0
+PA489960,Boring Test Pit (Each Add'l),51.0
+PA489960,Boring Test Pit (Single),51.0
+PA489922,Repair Water Service Lateral,51.0
+PA489922,Boring Test Pit (Each Add'l),51.0
+PA489922,Boring Test Pit (Single),51.0
+PA489923,Repair Water Service Lateral,51.0
+PA489923,Boring Test Pit (Each Add'l),51.0
+PA489923,Boring Test Pit (Single),51.0
+PA489963,Repair Water Service Lateral,51.0
+PA489963,Boring Test Pit (Each Add'l),51.0
+PA489963,Boring Test Pit (Single),51.0
+PA489998,Repair Water Service Lateral,51.0
+PA489998,Boring Test Pit (Each Add'l),51.0
+PA489998,Boring Test Pit (Single),51.0
+PA490001,Repair Water Service Lateral,51.0
+PA490001,Boring Test Pit (Each Add'l),51.0
+PA490001,Boring Test Pit (Single),51.0
+PA490009,Gas Main Line (Trench),91.0
+PA490031,Repair Water Service Lateral,50.0
+PA490031,Boring Test Pit (Each Add'l),50.0
+PA490031,Boring Test Pit (Single),50.0
+PA490048,Repair Water Service Lateral,93.0
+PA490048,Boring Test Pit (Each Add'l),93.0
+PA490048,Boring Test Pit (Single),93.0
+PA490049,Repair Water Service Lateral,112.0
+PA490049,Boring Test Pit (Each Add'l),112.0
+PA490049,Boring Test Pit (Single),112.0
+PA490051,Repair Water Service Lateral,50.0
+PA490051,Boring Test Pit (Each Add'l),50.0
+PA490051,Boring Test Pit (Single),50.0
+PA490073,Repair Water Service Lateral,25.0
+PA490073,Boring Test Pit (Each Add'l),25.0
+PA490073,Boring Test Pit (Single),25.0
+PA490078,Repair Water Service Lateral,58.0
+PA490078,Boring Test Pit (Each Add'l),58.0
+PA490078,Boring Test Pit (Single),58.0
+PA490079,Repair Water Service Lateral,70.0
+PA490079,Boring Test Pit (Each Add'l),70.0
+PA490079,Boring Test Pit (Single),70.0
+PA490080,Repair Water Service Lateral,78.0
+PA490080,Boring Test Pit (Each Add'l),78.0
+PA490080,Boring Test Pit (Single),78.0
+PA490086,Clean Out (Sewer),0.0
+PA490094,Repair Water Service Lateral,50.0
+PA490094,Boring Test Pit (Each Add'l),50.0
+PA490094,Boring Test Pit (Single),50.0
+PA490102,Repair Water Service Lateral,50.0
+PA490102,Boring Test Pit (Each Add'l),50.0
+PA490102,Boring Test Pit (Single),50.0
+PA490134,Repair Water Service Lateral,97.0
+PA490134,Boring Test Pit (Each Add'l),97.0
+PA490134,Boring Test Pit (Single),97.0
+PA490135,Repair Water Service Lateral,97.0
+PA490135,Boring Test Pit (Each Add'l),97.0
+PA490135,Boring Test Pit (Single),97.0
+PA490137,Repair Water Service Lateral,97.0
+PA490137,Boring Test Pit (Each Add'l),97.0
+PA490137,Boring Test Pit (Single),97.0
+PA490204,Repair Water Service Lateral,49.0
+PA490204,Boring Test Pit (Each Add'l),49.0
+PA490204,Boring Test Pit (Single),49.0
+PA490205,Repair Water Service Lateral,49.0
+PA490205,Boring Test Pit (Each Add'l),49.0
+PA490205,Boring Test Pit (Single),49.0
+PA490209,Repair Water Service Lateral,49.0
+PA490209,Boring Test Pit (Each Add'l),49.0
+PA490209,Boring Test Pit (Single),49.0
+PA490195,Monitoring Well (Single),105.0
+PA490195,Monitoring Well (Each Add'l),105.0
+PA490200,Repair Water Service Lateral,49.0
+PA490200,Boring Test Pit (Each Add'l),49.0
+PA490200,Boring Test Pit (Single),49.0
+PA490201,Repair Water Service Lateral,49.0
+PA490201,Boring Test Pit (Each Add'l),49.0
+PA490201,Boring Test Pit (Single),49.0
+PA490203,Repair Water Service Lateral,111.0
+PA490203,Boring Test Pit (Each Add'l),111.0
+PA490203,Boring Test Pit (Single),111.0
+PA490213,Repair Water Service Lateral,49.0
+PA490213,Boring Test Pit (Each Add'l),49.0
+PA490213,Boring Test Pit (Single),49.0
+PA490214,Repair Water Service Lateral,49.0
+PA490214,Boring Test Pit (Each Add'l),49.0
+PA490214,Boring Test Pit (Single),49.0
+PA489988,"Water Lateral Connection to 2"" (Trench)",59.0
+PA489988,"Water Meter Pit (to 2"" pipe)",59.0
+PA489988,Clean Out (Sewer),59.0
+PA489988,Water Service Lateral Abandonment (Trench),59.0
+PA490238,Repair Water Service Lateral,48.0
+PA490238,Boring Test Pit (Each Add'l),48.0
+PA490238,Boring Test Pit (Single),48.0
+PA490242,Repair Water Service Lateral,76.0
+PA490242,Boring Test Pit (Each Add'l),76.0
+PA490242,Boring Test Pit (Single),76.0
+PA490244,Repair Water Service Lateral,48.0
+PA490244,Boring Test Pit (Each Add'l),48.0
+PA490244,Boring Test Pit (Single),48.0
+PA490245,Repair Water Service Lateral,78.0
+PA490245,Boring Test Pit (Each Add'l),78.0
+PA490245,Boring Test Pit (Single),78.0
+PA490278,Repair Water Service Lateral,48.0
+PA490278,Boring Test Pit (Each Add'l),48.0
+PA490278,Boring Test Pit (Single),48.0
+PA490280,Repair Water Service Lateral,48.0
+PA490280,Boring Test Pit (Each Add'l),48.0
+PA490280,Boring Test Pit (Single),48.0
+PA490281,Repair Water Service Lateral,48.0
+PA490281,Boring Test Pit (Each Add'l),48.0
+PA490281,Boring Test Pit (Single),48.0
+PA490276,Repair Water Service Lateral,76.0
+PA490276,Boring Test Pit (Each Add'l),76.0
+PA490276,Boring Test Pit (Single),76.0
+PA490284,Repair Water Service Lateral,48.0
+PA490284,Boring Test Pit (Each Add'l),48.0
+PA490284,Boring Test Pit (Single),48.0
+PA490286,Repair Water Service Lateral,48.0
+PA490286,Boring Test Pit (Each Add'l),48.0
+PA490286,Boring Test Pit (Single),48.0
+PA490313,Manhole Installation,91.0
+PA490321,Repair Water Service Lateral,39.0
+PA490321,Boring Test Pit (Each Add'l),39.0
+PA490321,Boring Test Pit (Single),39.0
+PA490325,Repair Water Service Lateral,34.0
+PA490325,Boring Test Pit (Each Add'l),34.0
+PA490325,Boring Test Pit (Single),34.0
+PA490377,Repair Water Service Lateral,49.0
+PA490377,Boring Test Pit (Each Add'l),49.0
+PA490377,Boring Test Pit (Single),49.0
+PA490385,Repair Water Service Lateral,74.0
+PA490385,Boring Test Pit (Each Add'l),74.0
+PA490385,Boring Test Pit (Single),74.0
+PA490392,Repair Water Service Lateral,46.0
+PA490392,Boring Test Pit (Each Add'l),46.0
+PA490392,Boring Test Pit (Single),46.0
+PA490405,Repair Water Service Lateral,46.0
+PA490405,Boring Test Pit (Each Add'l),46.0
+PA490405,Boring Test Pit (Single),46.0
+PA490410,Repair Water Service Lateral,46.0
+PA490410,Boring Test Pit (Each Add'l),46.0
+PA490410,Boring Test Pit (Single),46.0
+PA490420,Repair Water Service Lateral,46.0
+PA490420,Boring Test Pit (Each Add'l),46.0
+PA490420,Boring Test Pit (Single),46.0
+PA490432,Repair Water Service Lateral,46.0
+PA490432,Boring Test Pit (Each Add'l),46.0
+PA490432,Boring Test Pit (Single),46.0
+PA490442,Repair Water Service Lateral,5.0
+PA490376,Repair Water Service Lateral,19.0
+PA490376,Boring Test Pit (Each Add'l),19.0
+PA490376,Boring Test Pit (Single),19.0
+PA490664,Repair Water Service Lateral,72.0
+PA490664,Boring Test Pit (Each Add'l),72.0
+PA490664,Boring Test Pit (Single),72.0
+PA490694,"Water Lateral Conn over 2"" Pipe (Trench)",75.0
+PA490694,Fire Hydrant(s),75.0
+PA490694,Multiple House Connections (Utility Co. ONLY),75.0
+PA490694,Repair Water Main Line,75.0
+PA490694,Valves (Excavation),75.0
+PA490732,Repair Water Service Lateral,43.0
+PA490732,Boring Test Pit (Each Add'l),43.0
+PA490732,Boring Test Pit (Single),43.0
+PA490721,Repair Water Service Lateral,71.0
+PA490721,Boring Test Pit (Each Add'l),71.0
+PA490721,Boring Test Pit (Single),71.0
+PA490727,Repair Water Service Lateral,43.0
+PA490727,Boring Test Pit (Each Add'l),43.0
+PA490727,Boring Test Pit (Single),43.0
+PA490718,Repair Water Service Lateral,71.0
+PA490718,Boring Test Pit (Each Add'l),71.0
+PA490718,Boring Test Pit (Single),71.0
+PA490675,"Water Lateral Connection to 2"" (Trench)",26.0
+PA490675,"Sewer Lateral Connection to 4"" (Trench)",26.0
+PA490675,Clean Out (Sewer),26.0
+PA490675,"Water Meter Pit (to 2"" pipe)",26.0
+PA490715,Gas Connection (Trench),13.0
+PA490692,"Water Lateral Conn over 2"" Pipe (Trench)",75.0
+PA490692,Fire Hydrant(s),75.0
+PA490692,Multiple House Connections (Utility Co. ONLY),75.0
+PA490692,Repair Water Main Line,75.0
+PA490692,Valves (Excavation),75.0
+PA490702,Gas Connection (Trench),37.0
+PA490793,Sewer Service Lateral Abandonment,26.0
+PA490793,"Storm Lateral Conn over 4"" (Trench)",26.0
+PA490793,"Sewer Lateral Connection to 4"" (Trench)",26.0
+PA490793,Water Service Lateral Abandonment (Trench),26.0
+PA490793,Clean Out (Sewer),26.0
+PA490793,"Water Lateral Connection to 2"" (Trench)",26.0
+PA490793,"Water Meter Pit (to 2"" pipe)",26.0
+PA490501,Boring Test Pit (Each Add'l),27.0
+PA490501,Boring Test Pit (Single),27.0
+PA490650,Boring Test Pit (Each Add'l),26.0
+PA490650,Boring Test Pit (Single),26.0
+PA490964,Repair Water Service Lateral,88.0
+PA490964,Boring Test Pit (Each Add'l),88.0
+PA490964,Boring Test Pit (Single),88.0
+PA490965,Repair Water Service Lateral,64.0
+PA490965,Boring Test Pit (Each Add'l),64.0
+PA490965,Boring Test Pit (Single),64.0
+PA490977,Repair Water Service Lateral,87.0
+PA490977,Boring Test Pit (Each Add'l),87.0
+PA490977,Boring Test Pit (Single),87.0
+PA490981,Repair Water Service Lateral,63.0
+PA490981,Boring Test Pit (Each Add'l),63.0
+PA490981,Boring Test Pit (Single),63.0
+PA490982,Repair Water Service Lateral,87.0
+PA490982,Boring Test Pit (Each Add'l),87.0
+PA490982,Boring Test Pit (Single),87.0
+PA490984,Repair Water Service Lateral,87.0
+PA490984,Boring Test Pit (Each Add'l),87.0
+PA490984,Boring Test Pit (Single),87.0
+PA490986,Repair Water Service Lateral,87.0
+PA490986,Boring Test Pit (Each Add'l),87.0
+PA490986,Boring Test Pit (Single),87.0
+PA490994,Sewer Service Lateral Abandonment,22.0
+PA490994,Manhole Installation,22.0
+PA490994,"Water Lateral Conn over 2"" Pipe (Trench)",22.0
+PA490994,Water ML (Trench),22.0
+PA490994,Storm Main Line (trench),22.0
+PA490994,Catch Basin(s),22.0
+PA490994,Water Service Lateral Abandonment (Trench),22.0
+PA490994,Vault(s) L'XW'XH',22.0
+PA490994,"Sewer Lateral Connection over 4"" Pipe (Trench)",22.0
+PA490996,Repair Water Service Lateral,63.0
+PA490996,Boring Test Pit (Each Add'l),63.0
+PA490996,Boring Test Pit (Single),63.0
+PA490999,Repair Water Service Lateral,87.0
+PA490999,Boring Test Pit (Each Add'l),87.0
+PA490999,Boring Test Pit (Single),87.0
+PA491004,Repair Water Service Lateral,62.0
+PA491004,Boring Test Pit (Each Add'l),62.0
+PA491004,Boring Test Pit (Single),62.0
+PA491027,Repair Water Service Lateral,87.0
+PA491027,Boring Test Pit (Each Add'l),87.0
+PA491027,Boring Test Pit (Single),87.0
+PA491029,Repair Water Service Lateral,62.0
+PA491029,Boring Test Pit (Each Add'l),62.0
+PA491029,Boring Test Pit (Single),62.0
+PA491032,Repair Water Service Lateral,63.0
+PA491032,Boring Test Pit (Each Add'l),63.0
+PA491032,Boring Test Pit (Single),63.0
+PA491036,Repair Water Service Lateral,87.0
+PA491036,Boring Test Pit (Each Add'l),87.0
+PA491036,Boring Test Pit (Single),87.0
+PA491037,Repair Water Service Lateral,87.0
+PA491037,Boring Test Pit (Each Add'l),87.0
+PA491037,Boring Test Pit (Single),87.0
+PA480717,Repair Water Service Lateral,171.0
+PA480717,Boring Test Pit (Each Add'l),171.0
+PA480717,Boring Test Pit (Single),171.0
+PA491055,Repair Water Service Lateral,86.0
+PA491055,Boring Test Pit (Each Add'l),86.0
+PA491055,Boring Test Pit (Single),86.0
+PA491058,Repair Water Service Lateral,61.0
+PA491058,Boring Test Pit (Each Add'l),61.0
+PA491058,Boring Test Pit (Single),61.0
+PA491060,Repair Water Service Lateral,62.0
+PA491060,Boring Test Pit (Each Add'l),62.0
+PA491060,Boring Test Pit (Single),62.0
+PA491061,Repair Water Service Lateral,25.0
+PA491061,Boring Test Pit (Each Add'l),25.0
+PA491061,Boring Test Pit (Single),25.0
+PA491072,Repair Water Service Lateral,61.0
+PA491072,Boring Test Pit (Each Add'l),61.0
+PA491072,Boring Test Pit (Single),61.0
+PA491074,Repair Water Service Lateral,62.0
+PA491074,Boring Test Pit (Each Add'l),62.0
+PA491074,Boring Test Pit (Single),62.0
+PA491081,Repair Water Service Lateral,86.0
+PA491081,Boring Test Pit (Each Add'l),86.0
+PA491081,Boring Test Pit (Single),86.0
+PA491205,Repair Water Service Lateral,27.0
+PA491205,Boring Test Pit (Each Add'l),27.0
+PA491205,Boring Test Pit (Single),27.0
+PA491206,Repair Water Service Lateral,60.0
+PA491206,Boring Test Pit (Each Add'l),60.0
+PA491206,Boring Test Pit (Single),60.0
+PA491211,Gas Main Line (Trench),86.0
+PA491212,Gas Connection (Trench),65.0
+PA491213,Gas Main Line (Trench),12.0
+PA491226,Repair Water Service Lateral,83.0
+PA491226,Boring Test Pit (Each Add'l),83.0
+PA491226,Boring Test Pit (Single),83.0
+PA491227,Repair Water Service Lateral,83.0
+PA491227,Boring Test Pit (Each Add'l),83.0
+PA491227,Boring Test Pit (Single),83.0
+PA491229,Repair Water Service Lateral,83.0
+PA491229,Boring Test Pit (Each Add'l),83.0
+PA491229,Boring Test Pit (Single),83.0
+PA491234,Cathodic Protection,92.0
+PA491326,Repair Water Service Lateral,57.0
+PA491326,Boring Test Pit (Each Add'l),57.0
+PA491326,Boring Test Pit (Single),57.0
+PA491327,Repair Water Service Lateral,58.0
+PA491327,Boring Test Pit (Each Add'l),58.0
+PA491327,Boring Test Pit (Single),58.0
+PA491330,Repair Water Service Lateral,82.0
+PA491330,Boring Test Pit (Each Add'l),82.0
+PA491330,Boring Test Pit (Single),82.0
+PA491337,Repair Water Service Lateral,58.0
+PA491337,Boring Test Pit (Each Add'l),58.0
+PA491337,Boring Test Pit (Single),58.0
+PA491341,Repair Water Service Lateral,82.0
+PA491341,Boring Test Pit (Each Add'l),82.0
+PA491341,Boring Test Pit (Single),82.0
+PA491410,Repair Water Service Lateral,56.0
+PA491410,Boring Test Pit (Each Add'l),56.0
+PA491410,Boring Test Pit (Single),56.0
+PA491423,Repair Water Service Lateral,80.0
+PA491423,Boring Test Pit (Each Add'l),80.0
+PA491423,Boring Test Pit (Single),80.0
+PA491491,Repair Water Service Lateral,80.0
+PA491491,Boring Test Pit (Each Add'l),80.0
+PA491491,Boring Test Pit (Single),80.0
+PA491612,Repair Water Service Lateral,14.0
+PA491612,Boring Test Pit (Each Add'l),14.0
+PA491612,Boring Test Pit (Single),14.0
+PA491621,Repair Water Service Lateral,15.0
+PA491621,Boring Test Pit (Each Add'l),15.0
+PA491621,Boring Test Pit (Single),15.0
+PA491625,Repair Water Service Lateral,43.0
+PA491625,Boring Test Pit (Each Add'l),43.0
+PA491625,Boring Test Pit (Single),43.0
+PA491754,Repair Water Service Lateral,53.0
+PA491754,Boring Test Pit (Each Add'l),53.0
+PA491754,Boring Test Pit (Single),53.0
+PA491755,Repair Water Service Lateral,78.0
+PA491755,Boring Test Pit (Each Add'l),78.0
+PA491755,Boring Test Pit (Single),78.0
+PA491776,Repair Gas Main Line,58.0
+PA491781,Repair Water Service Lateral,77.0
+PA491781,Boring Test Pit (Each Add'l),77.0
+PA491781,Boring Test Pit (Single),77.0
+PA491855,Repair Water Service Lateral,76.0
+PA491855,Boring Test Pit (Each Add'l),76.0
+PA491855,Boring Test Pit (Single),76.0
+PA491948,Repair Water Service Lateral,50.0
+PA491948,Boring Test Pit (Each Add'l),50.0
+PA491948,Boring Test Pit (Single),50.0
+PA492000,Repair Water Service Lateral,25.0
+PA492000,Boring Test Pit (Each Add'l),25.0
+PA492000,Boring Test Pit (Single),25.0
+PA492001,Repair Water Service Lateral,38.0
+PA492001,Boring Test Pit (Each Add'l),38.0
+PA492001,Boring Test Pit (Single),38.0
+PA492037,Repair Water Service Lateral,73.0
+PA492037,Boring Test Pit (Each Add'l),73.0
+PA492037,Boring Test Pit (Single),73.0
+PA492049,Repair Water Service Lateral,48.0
+PA492049,Boring Test Pit (Each Add'l),48.0
+PA492049,Boring Test Pit (Single),48.0
+PA492054,Repair Water Service Lateral,49.0
+PA492054,Boring Test Pit (Each Add'l),49.0
+PA492054,Boring Test Pit (Single),49.0
+PA492154,Repair Water Service Lateral,40.0
+PA492154,Boring Test Pit (Each Add'l),40.0
+PA492154,Boring Test Pit (Single),40.0
+PA492210,Gas Main Line (Trench),45.0
+PA492291,Repair Electric Service (excavation),67.0
+PA492305,Repair Water Service Lateral,44.0
+PA492305,Boring Test Pit (Each Add'l),44.0
+PA492305,Boring Test Pit (Single),44.0
+PA492307,Repair Water Service Lateral,44.0
+PA492307,Boring Test Pit (Each Add'l),44.0
+PA492307,Boring Test Pit (Single),44.0
+PA492308,Repair Water Service Lateral,44.0
+PA492308,Boring Test Pit (Each Add'l),44.0
+PA492308,Boring Test Pit (Single),44.0
+PA492309,Repair Water Service Lateral,44.0
+PA492309,Boring Test Pit (Each Add'l),44.0
+PA492309,Boring Test Pit (Single),44.0
+PA492469,Repair Water Service Lateral,33.0
+PA492469,Boring Test Pit (Each Add'l),33.0
+PA492469,Boring Test Pit (Single),33.0
+PA492483,Repair Water Service Lateral,42.0
+PA492483,Boring Test Pit (Each Add'l),42.0
+PA492483,Boring Test Pit (Single),42.0
+PA492492,Repair Water Service Lateral,33.0
+PA492492,Boring Test Pit (Each Add'l),33.0
+PA492492,Boring Test Pit (Single),33.0
+PA492514,Repair Water Service Lateral,42.0
+PA492514,Boring Test Pit (Each Add'l),42.0
+PA492514,Boring Test Pit (Single),42.0
+PA492515,Repair Water Service Lateral,42.0
+PA492515,Boring Test Pit (Each Add'l),42.0
+PA492515,Boring Test Pit (Single),42.0
+PA492516,Repair Water Service Lateral,42.0
+PA492516,Boring Test Pit (Each Add'l),42.0
+PA492516,Boring Test Pit (Single),42.0
+PA492517,Repair Water Service Lateral,42.0
+PA492517,Boring Test Pit (Each Add'l),42.0
+PA492517,Boring Test Pit (Single),42.0
+PA492527,Repair Water Service Lateral,41.0
+PA492527,Boring Test Pit (Each Add'l),41.0
+PA492527,Boring Test Pit (Single),41.0
+PA492529,Repair Water Service Lateral,41.0
+PA492529,Boring Test Pit (Each Add'l),41.0
+PA492529,Boring Test Pit (Single),41.0
+PA492519,Repair Water Service Lateral,50.0
+PA492519,Boring Test Pit (Each Add'l),50.0
+PA492519,Boring Test Pit (Single),50.0
+PA492521,Repair Water Service Lateral,42.0
+PA492521,Boring Test Pit (Each Add'l),42.0
+PA492521,Boring Test Pit (Single),42.0
+PA492523,Repair Water Service Lateral,42.0
+PA492523,Boring Test Pit (Each Add'l),42.0
+PA492523,Boring Test Pit (Single),42.0
+PA492524,Repair Water Service Lateral,41.0
+PA492524,Boring Test Pit (Each Add'l),41.0
+PA492524,Boring Test Pit (Single),41.0
+PA492525,Repair Water Service Lateral,41.0
+PA492525,Boring Test Pit (Each Add'l),41.0
+PA492525,Boring Test Pit (Single),41.0
+PA492526,Repair Water Service Lateral,41.0
+PA492526,Boring Test Pit (Each Add'l),41.0
+PA492526,Boring Test Pit (Single),41.0
+PA492564,Gas Connection (Trench),27.0
+PA492591,Repair Water Service Lateral,41.0
+PA492591,Boring Test Pit (Each Add'l),41.0
+PA492591,Boring Test Pit (Single),41.0
+PA492592,Repair Water Service Lateral,41.0
+PA492592,Boring Test Pit (Each Add'l),41.0
+PA492592,Boring Test Pit (Single),41.0
+PA492597,Repair Water Service Lateral,49.0
+PA492597,Boring Test Pit (Each Add'l),49.0
+PA492597,Boring Test Pit (Single),49.0
+PA492598,Repair Water Service Lateral,41.0
+PA492598,Boring Test Pit (Each Add'l),41.0
+PA492598,Boring Test Pit (Single),41.0
+PA492537,Gas Connection (Trench),90.0
+PA492593,Repair Water Service Lateral,41.0
+PA492593,Boring Test Pit (Each Add'l),41.0
+PA492593,Boring Test Pit (Single),41.0
+PA492595,Repair Water Service Lateral,79.0
+PA492595,Boring Test Pit (Each Add'l),79.0
+PA492595,Boring Test Pit (Single),79.0
+PA492601,Repair Water Service Lateral,41.0
+PA492601,Boring Test Pit (Each Add'l),41.0
+PA492601,Boring Test Pit (Single),41.0
+PA492627,Repair Water Service Lateral,41.0
+PA492627,Boring Test Pit (Each Add'l),41.0
+PA492627,Boring Test Pit (Single),41.0
+PA492628,Repair Water Service Lateral,41.0
+PA492628,Boring Test Pit (Each Add'l),41.0
+PA492628,Boring Test Pit (Single),41.0
+PA492630,Repair Water Service Lateral,49.0
+PA492630,Boring Test Pit (Each Add'l),49.0
+PA492630,Boring Test Pit (Single),49.0
+PA492643,Electric Connection (Trench),45.0
+PA492643,Manhole Installation,45.0
+PA492644,Electric Connection (Trench),45.0
+PA492645,Electric Connection (Trench),45.0
+PA492646,Electric Connection (Trench),45.0
+PA492647,Electric Connection (Trench),45.0
+PA492647,Manhole Installation,45.0
+PA492650,Repair Water Service Lateral,35.0
+PA492650,Boring Test Pit (Each Add'l),35.0
+PA492650,Boring Test Pit (Single),35.0
+PA492652,Repair Water Service Lateral,35.0
+PA492652,Boring Test Pit (Each Add'l),35.0
+PA492652,Boring Test Pit (Single),35.0
+PA492654,Repair Water Service Lateral,35.0
+PA492654,Boring Test Pit (Each Add'l),35.0
+PA492654,Boring Test Pit (Single),35.0
+PA492670,HANDHOLE,68.0
+PA492670,Telecom ML Conduits (Trench),68.0
+PA492670,Telecom  Connection (Trench),68.0
+PA492693,Repair Water Service Lateral,40.0
+PA492693,Boring Test Pit (Each Add'l),40.0
+PA492693,Boring Test Pit (Single),40.0
+PA492766,HANDHOLE,64.0
+PA492771,HANDHOLE,62.0
+PA492774,Electric Connection (Trench),41.0
+PA492599,Repair Water Service Lateral,41.0
+PA492599,Boring Test Pit (Each Add'l),41.0
+PA492599,Boring Test Pit (Single),41.0
+PA492916,Repair Water Service Lateral,37.0
+PA492916,Boring Test Pit (Each Add'l),37.0
+PA492916,Boring Test Pit (Single),37.0
+PA492926,Telecom ML Conduits (Trench),53.0
+PA492943,Electric ML Conduit (Trench),65.0
+PA492968,Multiple House Connections (Utility Co. ONLY),62.0
+PA492981,Repair Water Service Lateral,57.0
+PA492981,Boring Test Pit (Each Add'l),57.0
+PA492981,Boring Test Pit (Single),57.0
+PA492936,Manhole Installation,77.0
+PA492936,"Water Lateral Conn over 2"" Pipe (Trench)",77.0
+PA492936,Catch Basin(s),77.0
+PA492936,"Storm Lateral Conn over 4"" (Trench)",77.0
+PA492936,Fire Hydrant(s),77.0
+PA493005,Repair Water Service Lateral,59.0
+PA493005,Boring Test Pit (Each Add'l),59.0
+PA493005,Boring Test Pit (Single),59.0
+PA493079,Repair Water Service Lateral,77.0
+PA493079,Boring Test Pit (Each Add'l),77.0
+PA493079,Boring Test Pit (Single),77.0
+PA493097,Repair Water Service Lateral,77.0
+PA493097,Boring Test Pit (Each Add'l),77.0
+PA493097,Boring Test Pit (Single),77.0
+PA493147,Gas Connection (Trench),53.0
+PA493148,Gas Connection (Trench),39.0
+PA493156,Gas Connection (Trench),39.0
+PA493239,Gas Main Line (Trench),18.0
+PA493239,Multiple House Connections (Utility Co. ONLY),18.0
+PA493250,Gas Connection (Trench),50.0
+PA493264,Gas Main Line (Trench),18.0
+PA493264,Multiple House Connections (Utility Co. ONLY),18.0
+PA493291,Gas Connection (Trench),41.0
+PA493300,Gas Connection (Trench),49.0
+PA493300,Gas Main/Line Abandonment,49.0
+PA493308,Gas Connection (Trench),42.0
+PA493309,Gas Connection (Trench),38.0
+PA493312,Gas Connection (Trench),47.0
+PA493358,"Water Lateral Connection to 2"" (Trench)",48.0
+PA493358,"Water Meter Pit (to 2"" pipe)",48.0
+PA493358,Clean Out (Sewer),48.0
+PA493358,Water Service Lateral Abandonment (Trench),48.0
+PA493361,"Water Lateral Connection to 2"" (Trench)",48.0
+PA493361,"Water Meter Pit (to 2"" pipe)",48.0
+PA493361,Clean Out (Sewer),48.0
+PA493361,Water Service Lateral Abandonment (Trench),48.0
+PA493372,Multiple House Connections (Utility Co. ONLY),71.0
+PA493376,Multiple House Connections (Utility Co. ONLY),51.0
+PA493381,Multiple House Connections (Utility Co. ONLY),71.0
+PA493424,Gas Connection (Trench),39.0
+PA493595,Multiple House Connections (Utility Co. ONLY),15.0
+PA493634,Electric Connection (Trench),45.0
+PA493626,Electric Connection (Trench),77.0
+PA493626,Manhole Installation,77.0
+PA493626,Manhole Removal/Abandonment,77.0
+PA493671,Repair Water Service Lateral,35.0
+PA493671,Boring Test Pit (Each Add'l),35.0
+PA493671,Boring Test Pit (Single),35.0
+PA493655,Repair Water Service Lateral,42.0
+PA493655,Boring Test Pit (Each Add'l),42.0
+PA493655,Boring Test Pit (Single),42.0
+PA493662,Repair Water Service Lateral,35.0
+PA493662,Boring Test Pit (Each Add'l),35.0
+PA493662,Boring Test Pit (Single),35.0
+PA493684,Repair Water Service Lateral,36.0
+PA493684,Boring Test Pit (Each Add'l),36.0
+PA493684,Boring Test Pit (Single),36.0
+PA493693,Manhole Installation,53.0
+PA493693,Sewer Service Lateral Abandonment,53.0
+PA493693,Storm Service Lateral Abandonment,53.0
+PA493693,"Water Lateral Conn over 2"" Pipe (Trench)",53.0
+PA493693,"Water Meter Manhole (over 2"" pipe)",53.0
+PA493693,"Storm Lateral Conn over 4"" (Trench)",53.0
+PA493693,Water Service Lateral Abandonment (Trench),53.0
+PA493693,Vault(s) L'XW'XH',53.0
+PA493693,"Sewer Lateral Connection over 4"" Pipe (Trench)",53.0
+PA493698,Repair Water Service Lateral,19.0
+PA493698,Boring Test Pit (Each Add'l),19.0
+PA493698,Boring Test Pit (Single),19.0
+PA493724,Gas Connection (Trench),37.0
+PA493732,Gas Connection (Trench),37.0
+PA493747,Gas Service Abandonment,11.0
+PA493747,Gas Connection (Trench),11.0
+PA493749,Multiple House Connections (Utility Co. ONLY),68.0
+PA493773,Gas Connection (Trench),68.0
+PA493821,Multiple House Connections (Utility Co. ONLY),13.0
+PA493832,Multiple House Connections (Utility Co. ONLY),48.0
+PA493836,Multiple House Connections (Utility Co. ONLY),38.0
+PA493996,Repair Water Service Lateral,26.0
+PA493996,Boring Test Pit (Each Add'l),26.0
+PA493996,Boring Test Pit (Single),26.0
+PA494015,Repair Water Service Lateral,34.0
+PA494015,Boring Test Pit (Each Add'l),34.0
+PA494015,Boring Test Pit (Single),34.0
+PA494068,Gas Connection (Trench),44.0
+PA494283,Repair Water Service Lateral,33.0
+PA494283,Boring Test Pit (Each Add'l),33.0
+PA494283,Boring Test Pit (Single),33.0
+PA494315,Repair Water Service Lateral,33.0
+PA494315,Boring Test Pit (Each Add'l),33.0
+PA494315,Boring Test Pit (Single),33.0
+PA494332,Repair Water Service Lateral,33.0
+PA494332,Boring Test Pit (Each Add'l),33.0
+PA494332,Boring Test Pit (Single),33.0
+PA494333,Repair Water Service Lateral,41.0
+PA494333,Boring Test Pit (Each Add'l),41.0
+PA494333,Boring Test Pit (Single),41.0
+PA494334,Repair Water Service Lateral,33.0
+PA494334,Boring Test Pit (Each Add'l),33.0
+PA494334,Boring Test Pit (Single),33.0
+PA494335,Repair Water Service Lateral,36.0
+PA494335,Boring Test Pit (Each Add'l),36.0
+PA494335,Boring Test Pit (Single),36.0
+PA494336,Repair Water Service Lateral,36.0
+PA494336,Boring Test Pit (Each Add'l),36.0
+PA494336,Boring Test Pit (Single),36.0
+PA494338,Repair Water Service Lateral,33.0
+PA494338,Boring Test Pit (Each Add'l),33.0
+PA494338,Boring Test Pit (Single),33.0
+PA494341,Repair Water Service Lateral,32.0
+PA494341,Boring Test Pit (Each Add'l),32.0
+PA494341,Boring Test Pit (Single),32.0
+PA494342,HANDHOLE,66.0
+PA494345,Telecom ML Conduits (Trench),66.0
+PA494380,Repair Water Service Lateral,34.0
+PA494380,Boring Test Pit (Each Add'l),34.0
+PA494380,Boring Test Pit (Single),34.0
+PA494387,Repair Water Service Lateral,32.0
+PA494387,Boring Test Pit (Each Add'l),32.0
+PA494387,Boring Test Pit (Single),32.0
+PA494389,Repair Water Service Lateral,32.0
+PA494389,Boring Test Pit (Each Add'l),32.0
+PA494389,Boring Test Pit (Single),32.0
+PA494390,Repair Water Service Lateral,32.0
+PA494390,Boring Test Pit (Each Add'l),32.0
+PA494390,Boring Test Pit (Single),32.0
+PA494391,Repair Water Service Lateral,32.0
+PA494391,Boring Test Pit (Each Add'l),32.0
+PA494391,Boring Test Pit (Single),32.0
+PA494393,Repair Water Service Lateral,31.0
+PA494393,Boring Test Pit (Each Add'l),31.0
+PA494393,Boring Test Pit (Single),31.0
+PA494394,Repair Water Service Lateral,75.0
+PA494394,Boring Test Pit (Each Add'l),75.0
+PA494394,Boring Test Pit (Single),75.0
+PA494395,Repair Water Service Lateral,32.0
+PA494395,Boring Test Pit (Each Add'l),32.0
+PA494395,Boring Test Pit (Single),32.0
+PA494396,Repair Water Service Lateral,40.0
+PA494396,Boring Test Pit (Each Add'l),40.0
+PA494396,Boring Test Pit (Single),40.0
+PA494401,Repair Water Service Lateral,40.0
+PA494401,Boring Test Pit (Each Add'l),40.0
+PA494401,Boring Test Pit (Single),40.0
+PA494418,Repair Water Service Lateral,32.0
+PA494418,Boring Test Pit (Each Add'l),32.0
+PA494418,Boring Test Pit (Single),32.0
+PA494421,Repair Water Service Lateral,32.0
+PA494421,Boring Test Pit (Each Add'l),32.0
+PA494421,Boring Test Pit (Single),32.0
+PA494424,Repair Water Service Lateral,32.0
+PA494424,Boring Test Pit (Each Add'l),32.0
+PA494424,Boring Test Pit (Single),32.0
+PA494427,Repair Water Service Lateral,32.0
+PA494427,Boring Test Pit (Each Add'l),32.0
+PA494427,Boring Test Pit (Single),32.0
+PA494430,Repair Water Service Lateral,75.0
+PA494430,Boring Test Pit (Each Add'l),75.0
+PA494430,Boring Test Pit (Single),75.0
+PA494433,Repair Water Service Lateral,32.0
+PA494433,Boring Test Pit (Each Add'l),32.0
+PA494433,Boring Test Pit (Single),32.0
+PA494437,Repair Water Service Lateral,32.0
+PA494437,Boring Test Pit (Each Add'l),32.0
+PA494437,Boring Test Pit (Single),32.0
+PA494438,Repair Water Service Lateral,75.0
+PA494438,Boring Test Pit (Each Add'l),75.0
+PA494438,Boring Test Pit (Single),75.0
+PA494440,Repair Water Service Lateral,32.0
+PA494440,Boring Test Pit (Each Add'l),32.0
+PA494440,Boring Test Pit (Single),32.0
+PA494441,Repair Water Service Lateral,74.0
+PA494441,Boring Test Pit (Each Add'l),74.0
+PA494441,Boring Test Pit (Single),74.0
+PA494442,Repair Water Service Lateral,40.0
+PA494442,Boring Test Pit (Each Add'l),40.0
+PA494442,Boring Test Pit (Single),40.0
+PA494443,Repair Water Service Lateral,75.0
+PA494443,Boring Test Pit (Each Add'l),75.0
+PA494443,Boring Test Pit (Single),75.0
+PA494444,Repair Water Service Lateral,32.0
+PA494444,Boring Test Pit (Each Add'l),32.0
+PA494444,Boring Test Pit (Single),32.0
+PA494448,Repair Water Service Lateral,75.0
+PA494448,Boring Test Pit (Each Add'l),75.0
+PA494448,Boring Test Pit (Single),75.0
+PA494449,Repair Water Service Lateral,53.0
+PA494449,Boring Test Pit (Each Add'l),53.0
+PA494449,Boring Test Pit (Single),53.0
+PA494450,Repair Water Service Lateral,32.0
+PA494450,Boring Test Pit (Each Add'l),32.0
+PA494450,Boring Test Pit (Single),32.0
+PA494451,Repair Water Service Lateral,32.0
+PA494451,Boring Test Pit (Each Add'l),32.0
+PA494451,Boring Test Pit (Single),32.0
+PA494452,Repair Water Service Lateral,40.0
+PA494452,Boring Test Pit (Each Add'l),40.0
+PA494452,Boring Test Pit (Single),40.0
+PA494446,Repair Water Service Lateral,40.0
+PA494446,Boring Test Pit (Each Add'l),40.0
+PA494446,Boring Test Pit (Single),40.0
+PA494447,Repair Water Service Lateral,40.0
+PA494447,Boring Test Pit (Each Add'l),40.0
+PA494447,Boring Test Pit (Single),40.0
+PA494453,Repair Water Service Lateral,75.0
+PA494453,Boring Test Pit (Each Add'l),75.0
+PA494453,Boring Test Pit (Single),75.0
+PA494454,Repair Water Service Lateral,32.0
+PA494454,Boring Test Pit (Each Add'l),32.0
+PA494454,Boring Test Pit (Single),32.0
+PA494455,Repair Water Service Lateral,32.0
+PA494455,Boring Test Pit (Each Add'l),32.0
+PA494455,Boring Test Pit (Single),32.0
+PA494512,Repair Water Service Lateral,65.0
+PA494512,Boring Test Pit (Each Add'l),65.0
+PA494512,Boring Test Pit (Single),65.0
+PA494515,Repair Water Service Lateral,31.0
+PA494515,Boring Test Pit (Each Add'l),31.0
+PA494515,Boring Test Pit (Single),31.0
+PA494519,Repair Water Service Lateral,31.0
+PA494519,Boring Test Pit (Each Add'l),31.0
+PA494519,Boring Test Pit (Single),31.0
+PA494522,Repair Water Service Lateral,74.0
+PA494522,Boring Test Pit (Each Add'l),74.0
+PA494522,Boring Test Pit (Single),74.0
+PA494525,Repair Water Service Lateral,39.0
+PA494525,Boring Test Pit (Each Add'l),39.0
+PA494525,Boring Test Pit (Single),39.0
+PA494526,Repair Water Service Lateral,73.0
+PA494526,Boring Test Pit (Each Add'l),73.0
+PA494526,Boring Test Pit (Single),73.0
+PA494527,Repair Water Service Lateral,30.0
+PA494527,Boring Test Pit (Each Add'l),30.0
+PA494527,Boring Test Pit (Single),30.0
+PA494529,Repair Water Service Lateral,73.0
+PA494529,Boring Test Pit (Each Add'l),73.0
+PA494529,Boring Test Pit (Single),73.0
+PA494482,Gas Main Line (Trench),12.0
+PA494482,Multiple House Connections (Utility Co. ONLY),12.0
+PA494490,Repair Water Service Lateral,23.0
+PA494490,Boring Test Pit (Each Add'l),23.0
+PA494490,Boring Test Pit (Single),23.0
+PA494491,Repair Water Service Lateral,23.0
+PA494491,Boring Test Pit (Each Add'l),23.0
+PA494491,Boring Test Pit (Single),23.0
+PA494501,Boring Test Pit (Each Add'l),31.0
+PA494501,Repair Water Main Line,31.0
+PA494501,Boring Test Pit (Single),31.0
+PA494530,Repair Water Service Lateral,30.0
+PA494530,Boring Test Pit (Each Add'l),30.0
+PA494530,Boring Test Pit (Single),30.0
+PA494533,Gas Main Line (Trench),46.0
+PA494556,Repair Water Service Lateral,38.0
+PA494556,Boring Test Pit (Each Add'l),38.0
+PA494556,Boring Test Pit (Single),38.0
+PA494564,Repair Water Service Lateral,30.0
+PA494564,Boring Test Pit (Each Add'l),30.0
+PA494564,Boring Test Pit (Single),30.0
+PA494565,Repair Water Service Lateral,73.0
+PA494565,Boring Test Pit (Each Add'l),73.0
+PA494565,Boring Test Pit (Single),73.0
+PA494570,Repair Water Service Lateral,30.0
+PA494570,Boring Test Pit (Each Add'l),30.0
+PA494570,Boring Test Pit (Single),30.0
+PA494572,Repair Water Service Lateral,73.0
+PA494572,Boring Test Pit (Each Add'l),73.0
+PA494572,Boring Test Pit (Single),73.0
+PA494580,Repair Water Service Lateral,30.0
+PA494580,Boring Test Pit (Each Add'l),30.0
+PA494580,Boring Test Pit (Single),30.0
+PA494607,Sewer ML (Trench),47.0
+PA494607,Manhole Installation,47.0
+PA494607,"Sewer Lateral Connection over 4"" Pipe (Trench)",47.0
+PA494611,Repair Water Service Lateral,45.0
+PA494611,Boring Test Pit (Each Add'l),45.0
+PA494611,Boring Test Pit (Single),45.0
+PA494617,Repair Water Service Lateral,38.0
+PA494617,Boring Test Pit (Each Add'l),38.0
+PA494617,Boring Test Pit (Single),38.0
+PA494628,Repair Water Service Lateral,73.0
+PA494628,Boring Test Pit (Each Add'l),73.0
+PA494628,Boring Test Pit (Single),73.0
+PA494652,Gas Service Abandonment,18.0
+PA494652,Gas Connection (Trench),18.0
+PA494653,Gas Connection (Trench),18.0
+PA494654,Multiple House Connections (Utility Co. ONLY),18.0
+PA494655,Multiple House Connections (Utility Co. ONLY),72.0
+PA494663,Gas Main Line (Trench),31.0
+PA494663,Multiple House Connections (Utility Co. ONLY),31.0
+PA494663,Repair Gas Main Line,31.0
+PA494801,DDOT Permit - DOEE Review,29.0
+PA494702,Repair Water Service Lateral,28.0
+PA494702,Boring Test Pit (Each Add'l),28.0
+PA494702,Boring Test Pit (Single),28.0
+PA494714,Repair Water Service Lateral,44.0
+PA494714,Boring Test Pit (Each Add'l),44.0
+PA494714,Boring Test Pit (Single),44.0
+PA494737,Repair Water Service Lateral,63.0
+PA494737,Boring Test Pit (Each Add'l),63.0
+PA494737,Boring Test Pit (Single),63.0
+PA494763,Repair Water Service Lateral,44.0
+PA494763,Boring Test Pit (Each Add'l),44.0
+PA494763,Boring Test Pit (Single),44.0
+PA494765,Repair Water Service Lateral,53.0
+PA494765,Boring Test Pit (Each Add'l),53.0
+PA494765,Boring Test Pit (Single),53.0
+PA494766,Gas Connection (Trench),18.0
+PA494803,Repair Water Service Lateral,72.0
+PA494803,Boring Test Pit (Each Add'l),72.0
+PA494803,Boring Test Pit (Single),72.0
+PA494804,Repair Water Service Lateral,29.0
+PA494804,Boring Test Pit (Each Add'l),29.0
+PA494804,Boring Test Pit (Single),29.0
+PA494805,Repair Water Service Lateral,28.0
+PA494805,Boring Test Pit (Each Add'l),28.0
+PA494805,Boring Test Pit (Single),28.0
+PA494829,Gas Main Line (Trench),33.0
+PA494829,Gas Main/Line Abandonment,33.0
+PA494835,Gas Main Line (Trench),33.0
+PA494835,Gas Main/Line Abandonment,33.0
+PA494847,Repair Water Service Lateral,28.0
+PA494847,Boring Test Pit (Each Add'l),28.0
+PA494847,Boring Test Pit (Single),28.0
+PA494853,Repair Water Service Lateral,62.0
+PA494853,Boring Test Pit (Each Add'l),62.0
+PA494853,Boring Test Pit (Single),62.0
+PA494854,Repair Water Service Lateral,71.0
+PA494854,Boring Test Pit (Each Add'l),71.0
+PA494854,Boring Test Pit (Single),71.0
+PA494855,Repair Water Service Lateral,28.0
+PA494855,Boring Test Pit (Each Add'l),28.0
+PA494855,Boring Test Pit (Single),28.0
+PA494857,Repair Water Service Lateral,36.0
+PA494857,Boring Test Pit (Each Add'l),36.0
+PA494857,Boring Test Pit (Single),36.0
+PA494858,Repair Water Service Lateral,43.0
+PA494858,Boring Test Pit (Each Add'l),43.0
+PA494858,Boring Test Pit (Single),43.0
+PA494870,Repair Water Service Lateral,28.0
+PA494870,Boring Test Pit (Each Add'l),28.0
+PA494870,Boring Test Pit (Single),28.0
+PA494871,Repair Water Service Lateral,43.0
+PA494871,Boring Test Pit (Each Add'l),43.0
+PA494871,Boring Test Pit (Single),43.0
+PA494874,Repair Water Service Lateral,28.0
+PA494874,Boring Test Pit (Each Add'l),28.0
+PA494874,Boring Test Pit (Single),28.0
+PA494876,Repair Water Service Lateral,43.0
+PA494876,Boring Test Pit (Each Add'l),43.0
+PA494876,Boring Test Pit (Single),43.0
+PA494840,Gas Main Line (Trench),33.0
+PA494840,Gas Main/Line Abandonment,33.0
+PA494844,Gas Main/Line Abandonment,33.0
+PA494908,HANDHOLE,51.0
+PA494908,Telecom ML Conduits (Trench),51.0
+PA494923,Gas Connection (Trench),9.0
+PA494929,Gas Connection (Trench),42.0
+PA494938,Electric Connection (Trench),48.0
+PA494940,Repair Water Service Lateral,70.0
+PA494940,Boring Test Pit (Each Add'l),70.0
+PA494940,Boring Test Pit (Single),70.0
+PA494943,Repair Water Service Lateral,35.0
+PA494943,Boring Test Pit (Each Add'l),35.0
+PA494943,Boring Test Pit (Single),35.0
+PA494945,Repair Water Service Lateral,27.0
+PA494945,Boring Test Pit (Each Add'l),27.0
+PA494945,Boring Test Pit (Single),27.0
+PA494968,Repair Water Service Lateral,27.0
+PA494968,Boring Test Pit (Each Add'l),27.0
+PA494968,Boring Test Pit (Single),27.0
+PA494950,Repair Water Service Lateral,27.0
+PA494950,Boring Test Pit (Each Add'l),27.0
+PA494950,Boring Test Pit (Single),27.0
+PA494952,Repair Water Service Lateral,27.0
+PA494952,Boring Test Pit (Each Add'l),27.0
+PA494952,Boring Test Pit (Single),27.0
+PA494953,Repair Water Service Lateral,30.0
+PA494953,Boring Test Pit (Each Add'l),30.0
+PA494953,Boring Test Pit (Single),30.0
+PA494954,Repair Water Service Lateral,29.0
+PA494954,Boring Test Pit (Each Add'l),29.0
+PA494954,Boring Test Pit (Single),29.0
+PA494955,Repair Water Service Lateral,27.0
+PA494955,Boring Test Pit (Each Add'l),27.0
+PA494955,Boring Test Pit (Single),27.0
+PA494957,Repair Water Service Lateral,32.0
+PA494957,Boring Test Pit (Each Add'l),32.0
+PA494957,Boring Test Pit (Single),32.0
+PA494961,Repair Water Service Lateral,59.0
+PA494961,Boring Test Pit (Each Add'l),59.0
+PA494961,Boring Test Pit (Single),59.0
+PA494963,Repair Water Service Lateral,27.0
+PA494963,Boring Test Pit (Each Add'l),27.0
+PA494963,Boring Test Pit (Single),27.0
+PA494965,Repair Water Service Lateral,27.0
+PA494965,Boring Test Pit (Each Add'l),27.0
+PA494965,Boring Test Pit (Single),27.0
+PA494966,Repair Water Service Lateral,27.0
+PA494966,Boring Test Pit (Each Add'l),27.0
+PA494966,Boring Test Pit (Single),27.0
+PA494967,Repair Water Service Lateral,30.0
+PA494967,Boring Test Pit (Each Add'l),30.0
+PA494967,Boring Test Pit (Single),30.0
+PA494949,Repair Water Service Lateral,70.0
+PA494949,Boring Test Pit (Each Add'l),70.0
+PA494949,Boring Test Pit (Single),70.0
+PA494969,Repair Water Service Lateral,61.0
+PA494969,Boring Test Pit (Each Add'l),61.0
+PA494969,Boring Test Pit (Single),61.0
+PA494975,Repair Water Service Lateral,61.0
+PA494975,Boring Test Pit (Each Add'l),61.0
+PA494975,Boring Test Pit (Single),61.0
+PA494978,Repair Water Service Lateral,61.0
+PA494978,Boring Test Pit (Each Add'l),61.0
+PA494978,Boring Test Pit (Single),61.0
+PA494984,Repair Water Service Lateral,61.0
+PA494984,Boring Test Pit (Each Add'l),61.0
+PA494984,Boring Test Pit (Single),61.0
+PA494985,Repair Water Service Lateral,61.0
+PA494985,Boring Test Pit (Each Add'l),61.0
+PA494985,Boring Test Pit (Single),61.0
+PA494971,Repair Water Service Lateral,29.0
+PA494971,Boring Test Pit (Each Add'l),29.0
+PA494971,Boring Test Pit (Single),29.0
+PA494972,Repair Water Service Lateral,27.0
+PA494972,Boring Test Pit (Each Add'l),27.0
+PA494972,Boring Test Pit (Single),27.0
+PA494973,Repair Water Service Lateral,42.0
+PA494973,Boring Test Pit (Each Add'l),42.0
+PA494973,Boring Test Pit (Single),42.0
+PA493962,Water Proofing in Public Space,55.0
+PA495049,Repair Water Service Lateral,25.0
+PA495049,Boring Test Pit (Each Add'l),25.0
+PA495049,Boring Test Pit (Single),25.0
+PA495050,Repair Water Service Lateral,25.0
+PA495050,Boring Test Pit (Each Add'l),25.0
+PA495050,Boring Test Pit (Single),25.0
+PA495054,Repair Water Service Lateral,25.0
+PA495054,Boring Test Pit (Each Add'l),25.0
+PA495054,Boring Test Pit (Single),25.0
+PA495059,Repair Water Service Lateral,41.0
+PA495059,Boring Test Pit (Each Add'l),41.0
+PA495059,Boring Test Pit (Single),41.0
+PA495064,Repair Water Service Lateral,60.0
+PA495064,Boring Test Pit (Each Add'l),60.0
+PA495064,Boring Test Pit (Single),60.0
+PA495065,Repair Water Service Lateral,41.0
+PA495065,Boring Test Pit (Each Add'l),41.0
+PA495065,Boring Test Pit (Single),41.0
+PA495075,Repair Water Service Lateral,25.0
+PA495075,Boring Test Pit (Each Add'l),25.0
+PA495075,Boring Test Pit (Single),25.0
+PA495076,Repair Water Service Lateral,59.0
+PA495076,Boring Test Pit (Each Add'l),59.0
+PA495076,Boring Test Pit (Single),59.0
+PA495078,Repair Water Service Lateral,25.0
+PA495078,Boring Test Pit (Each Add'l),25.0
+PA495078,Boring Test Pit (Single),25.0
+PA495033,Repair Water Service Lateral,34.0
+PA495033,Boring Test Pit (Each Add'l),34.0
+PA495033,Boring Test Pit (Single),34.0
+PA495034,Repair Water Service Lateral,23.0
+PA495034,Boring Test Pit (Each Add'l),23.0
+PA495034,Boring Test Pit (Single),23.0
+PA495035,Repair Water Service Lateral,40.0
+PA495035,Boring Test Pit (Each Add'l),40.0
+PA495035,Boring Test Pit (Single),40.0
+PA495073,Repair Water Service Lateral,59.0
+PA495073,Boring Test Pit (Each Add'l),59.0
+PA495073,Boring Test Pit (Single),59.0
+PA495074,Repair Water Service Lateral,59.0
+PA495074,Boring Test Pit (Each Add'l),59.0
+PA495074,Boring Test Pit (Single),59.0
+PA493053,Repair Gas Main Line,28.0
+PA495079,Repair Water Service Lateral,40.0
+PA495079,Boring Test Pit (Each Add'l),40.0
+PA495079,Boring Test Pit (Single),40.0
+PA495080,Repair Water Service Lateral,25.0
+PA495080,Boring Test Pit (Each Add'l),25.0
+PA495080,Boring Test Pit (Single),25.0
+PA495135,Electric Connection (Trench),12.0
+PA495137,"Water Lateral Connection to 2"" (Trench)",25.0
+PA495137,"Water Meter Pit (to 2"" pipe)",25.0
+PA495145,Repair Water Service Lateral,59.0
+PA495145,Boring Test Pit (Each Add'l),59.0
+PA495145,Boring Test Pit (Single),59.0
+PA495149,Repair Water Service Lateral,25.0
+PA495149,Boring Test Pit (Each Add'l),25.0
+PA495149,Boring Test Pit (Single),25.0
+PA495155,Repair Water Service Lateral,20.0
+PA495155,Boring Test Pit (Each Add'l),20.0
+PA495155,Boring Test Pit (Single),20.0
+PA495157,Repair Water Service Lateral,59.0
+PA495157,Boring Test Pit (Each Add'l),59.0
+PA495157,Boring Test Pit (Single),59.0
+PA495166,Repair Water Service Lateral,66.0
+PA495166,Boring Test Pit (Each Add'l),66.0
+PA495166,Boring Test Pit (Single),66.0
+PA495169,Repair Water Service Lateral,58.0
+PA495169,Boring Test Pit (Each Add'l),58.0
+PA495169,Boring Test Pit (Single),58.0
+PA495170,Repair Water Service Lateral,24.0
+PA495170,Boring Test Pit (Each Add'l),24.0
+PA495170,Boring Test Pit (Single),24.0
+PA495082,Cathodic Protection,14.0
+PA495084,Cathodic Protection,2.0
+PA495085,Electric Connection (Trench),39.0
+PA495085,Manhole Installation,39.0
+PA495097,Gas Service Abandonment,54.0
+PA495097,Gas Connection (Trench),54.0
+PA495111,Gas Connection (Trench),16.0
+PA495120,Gas Connection (Trench),14.0
+PA495126,Gas Connection (Trench),21.0
+PA495128,Gas Connection (Trench),10.0
+PA495156,Repair Water Service Lateral,40.0
+PA495156,Boring Test Pit (Each Add'l),40.0
+PA495156,Boring Test Pit (Single),40.0
+PA495171,Repair Water Service Lateral,39.0
+PA495171,Boring Test Pit (Each Add'l),39.0
+PA495171,Boring Test Pit (Single),39.0
+PA495173,Repair Water Service Lateral,24.0
+PA495173,Boring Test Pit (Each Add'l),24.0
+PA495173,Boring Test Pit (Single),24.0
+PA495174,Repair Water Service Lateral,29.0
+PA495174,Boring Test Pit (Each Add'l),29.0
+PA495174,Boring Test Pit (Single),29.0
+PA495176,Repair Water Service Lateral,24.0
+PA495176,Boring Test Pit (Each Add'l),24.0
+PA495176,Boring Test Pit (Single),24.0
+PA495184,Gas Connection (Trench),31.0
+PA495188,Gas Connection (Trench),10.0
+PA495191,Gas Connection (Trench),9.0
+PA495202,Repair Water Service Lateral,39.0
+PA495202,Boring Test Pit (Each Add'l),39.0
+PA495202,Boring Test Pit (Single),39.0
+PA495194,Electric Connection (Trench),21.0
+PA495196,Gas Connection (Trench),19.0
+PA495197,Gas Connection (Trench),17.0
+PA495198,Repair Water Service Lateral,23.0
+PA495198,Boring Test Pit (Each Add'l),23.0
+PA495198,Boring Test Pit (Single),23.0
+PA495199,Gas Connection (Trench),7.0
+PA495204,Repair Water Service Lateral,24.0
+PA495204,Boring Test Pit (Each Add'l),24.0
+PA495204,Boring Test Pit (Single),24.0
+PA495206,Gas Connection (Trench),12.0
+PA495214,Repair Water Service Lateral,24.0
+PA495214,Boring Test Pit (Each Add'l),24.0
+PA495214,Boring Test Pit (Single),24.0
+PA495216,Repair Water Service Lateral,24.0
+PA495216,Boring Test Pit (Each Add'l),24.0
+PA495216,Boring Test Pit (Single),24.0
+PA495217,Repair Water Service Lateral,16.0
+PA495217,Boring Test Pit (Each Add'l),16.0
+PA495217,Boring Test Pit (Single),16.0
+PA495225,Electric Connection (Trench),37.0
+PA495225,Manhole Installation,37.0
+PA495226,Gas Service Abandonment,7.0
+PA495227,Gas Service Abandonment,8.0
+PA495240,Repair Water Service Lateral,24.0
+PA495240,Boring Test Pit (Each Add'l),24.0
+PA495240,Boring Test Pit (Single),24.0
+PA495242,Repair Water Service Lateral,58.0
+PA495242,Boring Test Pit (Each Add'l),58.0
+PA495242,Boring Test Pit (Single),58.0
+PA495243,Repair Water Service Lateral,66.0
+PA495243,Boring Test Pit (Each Add'l),66.0
+PA495243,Boring Test Pit (Single),66.0
+PA495244,Repair Water Service Lateral,66.0
+PA495244,Boring Test Pit (Each Add'l),66.0
+PA495244,Boring Test Pit (Single),66.0
+PA495245,Repair Water Service Lateral,8.0
+PA495246,Repair Water Service Lateral,24.0
+PA495246,Boring Test Pit (Each Add'l),24.0
+PA495246,Boring Test Pit (Single),24.0
+PA495247,Repair Water Service Lateral,24.0
+PA495247,Boring Test Pit (Each Add'l),24.0
+PA495247,Boring Test Pit (Single),24.0
+PA495250,Repair Water Service Lateral,24.0
+PA495250,Boring Test Pit (Each Add'l),24.0
+PA495250,Boring Test Pit (Single),24.0
+PA495251,Repair Water Service Lateral,66.0
+PA495251,Boring Test Pit (Each Add'l),66.0
+PA495251,Boring Test Pit (Single),66.0
+PA495252,Repair Water Service Lateral,23.0
+PA495252,Boring Test Pit (Each Add'l),23.0
+PA495252,Boring Test Pit (Single),23.0
+PA495253,Repair Water Service Lateral,23.0
+PA495253,Boring Test Pit (Each Add'l),23.0
+PA495253,Boring Test Pit (Single),23.0
+PA495257,Repair Water Service Lateral,23.0
+PA495257,Boring Test Pit (Each Add'l),23.0
+PA495257,Boring Test Pit (Single),23.0
+PA495258,Repair Water Service Lateral,27.0
+PA495258,Boring Test Pit (Each Add'l),27.0
+PA495258,Boring Test Pit (Single),27.0
+PA495259,Repair Water Service Lateral,23.0
+PA495259,Boring Test Pit (Each Add'l),23.0
+PA495259,Boring Test Pit (Single),23.0
+PA494925,Gas Connection (Trench),16.0
+PA495163,Sewer Service Lateral Abandonment,33.0
+PA495163,"Water Lateral Conn over 2"" Pipe (Trench)",33.0
+PA495163,Water Service Lateral Abandonment (Trench),33.0
+PA495163,Vault(s) L'XW'XH',33.0
+PA495163,"Water Meter Pit (to 2"" pipe)",33.0
+PA495163,"Sewer Lateral Connection over 4"" Pipe (Trench)",33.0
+PA495187,Gas Connection (Trench),13.0
+PA495273,Gas Connection (Trench),18.0
+PA495275,Gas Connection (Trench),14.0
+PA495276,Electric ML Conduit (Trench),44.0
+PA495293,Repair Water Service Lateral,57.0
+PA495293,Boring Test Pit (Each Add'l),57.0
+PA495293,Boring Test Pit (Single),57.0
+PA495294,Gas Connection (Trench),12.0
+PA495295,Repair Water Service Lateral,38.0
+PA495295,Boring Test Pit (Each Add'l),38.0
+PA495295,Boring Test Pit (Single),38.0
+PA495296,Gas Connection (Trench),12.0
+PA495303,Gas Connection (Trench),16.0
+PA495310,Gas Connection (Trench),29.0
+PA495313,Gas Connection (Trench),16.0
+PA495317,Gas Connection (Trench),16.0
+PA495319,Repair Water Service Lateral,27.0
+PA495324,Repair Water Service Lateral,27.0
+PA495325,"Water Lateral Connection to 2"" (Trench)",44.0
+PA495325,"Water Meter Pit (to 2"" pipe)",44.0
+PA495325,Water Service Lateral Abandonment (Trench),44.0
+PA495336,Repair Water Service Lateral,22.0
+PA495336,Boring Test Pit (Each Add'l),22.0
+PA495336,Boring Test Pit (Single),22.0
+PA495337,Repair Water Service Lateral,22.0
+PA495337,Boring Test Pit (Each Add'l),22.0
+PA495337,Boring Test Pit (Single),22.0
+PA495338,Repair Water Service Lateral,37.0
+PA495338,Boring Test Pit (Each Add'l),37.0
+PA495338,Boring Test Pit (Single),37.0
+PA495265,Gas Connection (Trench),17.0
+PA495268,Gas Connection (Trench),16.0
+PA495270,Gas Connection (Trench),7.0
+PA495272,Gas Connection (Trench),25.0
+PA495351,Repair Water Service Lateral,56.0
+PA495351,Boring Test Pit (Each Add'l),56.0
+PA495351,Boring Test Pit (Single),56.0
+PA495352,Repair Water Service Lateral,56.0
+PA495352,Boring Test Pit (Each Add'l),56.0
+PA495352,Boring Test Pit (Single),56.0
+PA495367,Repair Water Service Lateral,56.0
+PA495367,Boring Test Pit (Each Add'l),56.0
+PA495367,Boring Test Pit (Single),56.0
+PA495369,Telecom ML Conduits (Trench),29.0
+PA495371,Boring Test Pit (Single),14.0
+PA495358,Repair Water Service Lateral,37.0
+PA495358,Boring Test Pit (Each Add'l),37.0
+PA495358,Boring Test Pit (Single),37.0
+PA495402,Repair Water Service Lateral,37.0
+PA495402,Boring Test Pit (Each Add'l),37.0
+PA495402,Boring Test Pit (Single),37.0
+PA495403,Repair Water Service Lateral,37.0
+PA495403,Boring Test Pit (Each Add'l),37.0
+PA495403,Boring Test Pit (Single),37.0
+PA495405,Repair Water Service Lateral,56.0
+PA495405,Boring Test Pit (Each Add'l),56.0
+PA495405,Boring Test Pit (Single),56.0
+PA495406,Repair Water Service Lateral,56.0
+PA495406,Boring Test Pit (Each Add'l),56.0
+PA495406,Boring Test Pit (Single),56.0
+PA495407,Repair Water Service Lateral,56.0
+PA495407,Boring Test Pit (Each Add'l),56.0
+PA495407,Boring Test Pit (Single),56.0
+PA495409,Repair Water Service Lateral,59.0
+PA495409,Boring Test Pit (Each Add'l),59.0
+PA495409,Boring Test Pit (Single),59.0
+PA495415,Repair Water Service Lateral,37.0
+PA495415,Boring Test Pit (Each Add'l),37.0
+PA495415,Boring Test Pit (Single),37.0
+PA495417,Repair Water Service Lateral,22.0
+PA495417,Boring Test Pit (Each Add'l),22.0
+PA495417,Boring Test Pit (Single),22.0
+PA495422,Repair Water Service Lateral,36.0
+PA495422,Boring Test Pit (Each Add'l),36.0
+PA495422,Boring Test Pit (Single),36.0
+PA495423,Repair Water Service Lateral,36.0
+PA495423,Boring Test Pit (Each Add'l),36.0
+PA495423,Boring Test Pit (Single),36.0
+PA495408,Repair Water Service Lateral,37.0
+PA495408,Boring Test Pit (Each Add'l),37.0
+PA495408,Boring Test Pit (Single),37.0
+PA495316,Gas Connection (Trench),12.0
+PA495429,Electric Connection (Trench),16.0
+PA495430,HANDHOLE,28.0
+PA495504,Repair Water Service Lateral,21.0
+PA495504,Boring Test Pit (Each Add'l),21.0
+PA495504,Boring Test Pit (Single),21.0
+PA495506,Repair Water Service Lateral,36.0
+PA495506,Boring Test Pit (Each Add'l),36.0
+PA495506,Boring Test Pit (Single),36.0
+PA495451,Electric Connection (Trench),33.0
+PA495499,DDOT Permit - DOEE Review,18.0
+PA495515,"Water Lateral Conn over 2"" Pipe (Trench)",22.0
+PA495515,"Storm Lateral Conn over 4"" (Trench)",22.0
+PA495515,Water Service Lateral Abandonment (Trench),22.0
+PA495515,Clean Out (Sewer),22.0
+PA495515,"Water Lateral Connection to 2"" (Trench)",22.0
+PA495515,"Water Meter Pit (to 2"" pipe)",22.0
+PA495524,Electric Connection (Trench),12.0
+PA495551,Gas Connection (Trench),9.0
+PA495552,Electric Connection (Trench),19.0
+PA495555,Repair Water Service Lateral,20.0
+PA495555,Boring Test Pit (Each Add'l),20.0
+PA495555,Boring Test Pit (Single),20.0
+PA495561,Repair Water Service Lateral,54.0
+PA495561,Boring Test Pit (Each Add'l),54.0
+PA495561,Boring Test Pit (Single),54.0
+PA495568,Electric ML Conduit (Trench),54.0
+PA495584,Gas Service Abandonment,8.0
+PA495586,Gas Service Abandonment,13.0
+PA495588,Gas Service Abandonment,14.0
+PA495589,Gas Service Abandonment,25.0
+PA495591,Gas Connection (Trench),24.0
+PA495592,Gas Service Abandonment,32.0
+PA495593,Gas Service Abandonment,12.0
+PA495602,Gas Service Abandonment,14.0
+PA495610,Gas Service Abandonment,8.0
+PA495613,Gas Service Abandonment,14.0
+PA495626,Repair Water Service Lateral,15.0
+PA495626,Boring Test Pit (Each Add'l),15.0
+PA495626,Boring Test Pit (Single),15.0
+PA495670,Repair Water Service Lateral,34.0
+PA495670,Boring Test Pit (Each Add'l),34.0
+PA495670,Boring Test Pit (Single),34.0
+PA495641,Repair Water Service Lateral,15.0
+PA495641,Boring Test Pit (Each Add'l),15.0
+PA495641,Boring Test Pit (Single),15.0
+PA495679,Repair Water Service Lateral,53.0
+PA495679,Boring Test Pit (Each Add'l),53.0
+PA495679,Boring Test Pit (Single),53.0
+PA495680,Repair Water Service Lateral,53.0
+PA495680,Boring Test Pit (Each Add'l),53.0
+PA495680,Boring Test Pit (Single),53.0
+PA495699,Repair Water Service Lateral,18.0
+PA495699,Boring Test Pit (Each Add'l),18.0
+PA495699,Boring Test Pit (Single),18.0
+PA495674,Repair Water Service Lateral,53.0
+PA495674,Boring Test Pit (Each Add'l),53.0
+PA495674,Boring Test Pit (Single),53.0
+PA495703,"Water Lateral Connection to 2"" (Trench)",33.0
+PA495703,"Water Meter Pit (to 2"" pipe)",33.0
+PA495703,Water Service Lateral Abandonment (Trench),33.0
+PA495729,Gas Connection (Trench),13.0
+PA495744,"Water Lateral Conn over 2"" Pipe (Trench)",29.0
+PA495744,Fire Hydrant(s),29.0
+PA495744,Multiple House Connections (Utility Co. ONLY),29.0
+PA495744,Repair Water Main Line,29.0
+PA495744,Valves (Excavation),29.0
+PA495746,"Water Lateral Conn over 2"" Pipe (Trench)",49.0
+PA495746,Fire Hydrant(s),49.0
+PA495746,Multiple House Connections (Utility Co. ONLY),49.0
+PA495746,Repair Water Main Line,49.0
+PA495746,Valves (Excavation),49.0
+PA495749,"Water Lateral Conn over 2"" Pipe (Trench)",30.0
+PA495749,Fire Hydrant(s),30.0
+PA495749,Multiple House Connections (Utility Co. ONLY),30.0
+PA495749,Repair Water Main Line,30.0
+PA495749,Valves (Excavation),30.0
+PA495754,Telecom ML Conduits (Trench),27.0
+PA495768,Monitoring Well (Single),40.0
+PA495800,Repair Gas Main Line,0.0
+PA495803,Gas Connection (Trench),29.0
+PA495810,Gas Connection (Trench),20.0
+PA495813,Gas Service Abandonment,13.0
+PA495817,Gas Service Abandonment,7.0
+PA495818,Gas Service Abandonment,7.0
+PA495828,Gas Service Abandonment,7.0
+PA495833,Gas Service Abandonment,20.0
+PA495836,Repair Water Service Lateral,21.0
+PA495836,Boring Test Pit (Each Add'l),21.0
+PA495836,Boring Test Pit (Single),21.0
+PA495839,Repair Water Service Lateral,13.0
+PA495839,Boring Test Pit (Each Add'l),13.0
+PA495839,Boring Test Pit (Single),13.0
+PA495841,Gas Service Abandonment,14.0
+PA495847,Gas Service Abandonment,12.0
+PA495851,Gas Service Abandonment,14.0
+PA495852,Repair Water Service Lateral,13.0
+PA495852,Boring Test Pit (Single),13.0
+PA495853,Repair Water Service Lateral,13.0
+PA495853,Boring Test Pit (Each Add'l),13.0
+PA495853,Boring Test Pit (Single),13.0
+PA495855,Gas Service Abandonment,28.0
+PA495858,Repair Water Service Lateral,14.0
+PA495858,Boring Test Pit (Each Add'l),14.0
+PA495858,Boring Test Pit (Single),14.0
+PA495859,Repair Water Service Lateral,14.0
+PA495859,Boring Test Pit (Each Add'l),14.0
+PA495859,Boring Test Pit (Single),14.0
+PA495860,Gas Service Abandonment,12.0
+PA495863,Gas Service Abandonment,30.0
+PA495865,Gas Service Abandonment,31.0
+PA495867,Gas Service Abandonment,11.0
+PA495870,Gas Service Abandonment,14.0
+PA495873,Gas Service Abandonment,14.0
+PA495881,Gas Service Abandonment,5.0
+PA495878,Repair Water Service Lateral,14.0
+PA495878,Boring Test Pit (Each Add'l),14.0
+PA495878,Boring Test Pit (Single),14.0
+PA495904,Boring Test Pit (Single),48.0
+PA495914,Repair Gas Main Line,0.0
+PA495935,Repair Water Service Lateral,28.0
+PA495935,Boring Test Pit (Each Add'l),28.0
+PA495935,Boring Test Pit (Single),28.0
+PA495970,Repair Water Service Lateral,21.0
+PA495970,Boring Test Pit (Each Add'l),21.0
+PA495970,Boring Test Pit (Single),21.0
+PA495976,Repair Water Service Lateral,13.0
+PA495976,Boring Test Pit (Each Add'l),13.0
+PA495976,Boring Test Pit (Single),13.0
+PA495992,Repair Water Service Lateral,36.0
+PA495992,Boring Test Pit (Each Add'l),36.0
+PA495992,Boring Test Pit (Single),36.0
+PA495996,Repair Water Service Lateral,13.0
+PA495996,Boring Test Pit (Each Add'l),13.0
+PA495996,Boring Test Pit (Single),13.0
+PA495997,Repair Water Service Lateral,34.0
+PA495997,Boring Test Pit (Each Add'l),34.0
+PA495997,Boring Test Pit (Single),34.0
+PA495999,Repair Water Service Lateral,17.0
+PA495999,Boring Test Pit (Each Add'l),17.0
+PA495999,Boring Test Pit (Single),17.0
+PA496000,Repair Water Service Lateral,13.0
+PA496000,Boring Test Pit (Each Add'l),13.0
+PA496000,Boring Test Pit (Single),13.0
+PA496009,Repair Gas Main Line,0.0
+PA496010,Boring Test Pit (Single),13.0
+PA496012,Boring Test Pit (Single),13.0
+PA495942,Manhole Installation,51.0
+PA495942,"Water Lateral Conn over 2"" Pipe (Trench)",51.0
+PA495942,Storm Main Line (trench),51.0
+PA495942,"Storm Lateral Conn over 4"" (Trench)",51.0
+PA495942,Clean Out (Sewer),51.0
+PA495942,"Water Lateral Connection to 2"" (Trench)",51.0
+PA495942,"Water Meter Pit (to 2"" pipe)",51.0
+PA495942,"Sewer Lateral Connection over 4"" Pipe (Trench)",51.0
+PA495979,Repair Sewer Service Lateral,18.0
+PA496021,Repair Water Service Lateral,35.0
+PA496021,Boring Test Pit (Each Add'l),35.0
+PA496021,Boring Test Pit (Single),35.0
+PA496062,Repair Water Service Lateral,49.0
+PA496062,Boring Test Pit (Each Add'l),49.0
+PA496062,Boring Test Pit (Single),49.0
+PA496064,Repair Water Service Lateral,18.0
+PA496068,Repair Water Service Lateral,53.0
+PA496071,Repair Water Service Lateral,19.0
+PA496072,Repair Water Service Lateral,15.0
+PA496072,Boring Test Pit (Each Add'l),15.0
+PA496072,Boring Test Pit (Single),15.0
+PA496040,Repair Water Service Lateral,9.0
+PA496040,Boring Test Pit (Each Add'l),9.0
+PA496040,Boring Test Pit (Single),9.0
+PA496041,Repair Water Service Lateral,40.0
+PA496041,Boring Test Pit (Each Add'l),40.0
+PA496041,Boring Test Pit (Single),40.0
+PA496047,Gas Connection (Trench),33.0
+PA496050,Gas Connection (Trench),12.0
+PA496054,Repair Water Service Lateral,16.0
+PA496074,Repair Water Service Lateral,26.0
+PA496096,Gas Connection (Trench),23.0
+PA496097,Gas Connection (Trench),7.0
+PA496101,Gas Connection (Trench),16.0
+PA496105,Gas Connection (Trench),16.0
+PA496106,DDOT Permit - DOEE Review,26.0
+PA496110,Repair Water Service Lateral,15.0
+PA496114,Gas Connection (Trench),12.0
+PA496121,Gas Connection (Trench),9.0
+PA496123,Repair Water Service Lateral,26.0
+PA496128,Gas Connection (Trench),13.0
+PA496131,Gas Connection (Trench),25.0
+PA496134,Gas Connection (Trench),4.0
+PA496135,"Water Lateral Connection to 2"" (Trench)",27.0
+PA496135,"Water Meter Pit (to 2"" pipe)",27.0
+PA496146,Gas Main Line (Trench),32.0
+PA496146,Gas Main/Line Abandonment,32.0
+PA496151,Gas Connection (Trench),27.0
+PA496153,Gas Connection (Trench),13.0
+PA496155,Gas Connection (Trench),20.0
+PA496157,Gas Connection (Trench),18.0
+PA496176,"Water Lateral Connection to 2"" (Trench)",27.0
+PA496176,"Water Meter Pit (to 2"" pipe)",27.0
+PA496179,Gas Main Line (Trench),16.0
+PA496180,Gas Main Line (Trench),25.0
+PA496180,Multiple House Connections (Utility Co. ONLY),25.0
+PA496180,Gas Main/Line Abandonment,25.0
+PA496182,Electric ML Conduit (Trench),11.0
+PA496092,Repair Gas Service (excavation),0.0
+PA496094,Repair Gas Main Line,0.0
+PA496218,Gas Connection (Trench),15.0
+PA496220,Gas Connection (Trench),13.0
+PA496221,Gas Connection (Trench),15.0
+PA496231,Boring Test Pit (Single),17.0
+PA496235,Boring Test Pit (Each Add'l),17.0
+PA496235,Boring Test Pit (Single),17.0
+PA496256,Manhole Installation,31.0
+PA496256,Electric ML Conduit (Trench),31.0
+PA496294,Gas Connection (Trench),13.0
+PA496298,Gas Connection (Trench),15.0
+PA496306,Electric ML Conduit (Trench),62.0
+PA496309,Electric ML Conduit (Trench),22.0
+PA495691,Repair Water Service Lateral,21.0
+PA495691,Boring Test Pit (Each Add'l),21.0
+PA495691,Boring Test Pit (Single),21.0
+PA495693,Repair Water Service Lateral,19.0
+PA495693,Boring Test Pit (Each Add'l),19.0
+PA495693,Boring Test Pit (Single),19.0
+PA495694,Repair Water Service Lateral,19.0
+PA495694,Boring Test Pit (Each Add'l),19.0
+PA495694,Boring Test Pit (Single),19.0
+PA495695,Repair Water Service Lateral,19.0
+PA495695,Boring Test Pit (Each Add'l),19.0
+PA495695,Boring Test Pit (Single),19.0
+PA495697,Repair Water Service Lateral,19.0
+PA495697,Boring Test Pit (Each Add'l),19.0
+PA495697,Boring Test Pit (Single),19.0
+PA495698,Repair Water Service Lateral,19.0
+PA495698,Boring Test Pit (Each Add'l),19.0
+PA495698,Boring Test Pit (Single),19.0
+PA495700,Repair Water Service Lateral,19.0
+PA495700,Boring Test Pit (Each Add'l),19.0
+PA495700,Boring Test Pit (Single),19.0
+PA495701,Repair Water Service Lateral,43.0
+PA495701,Boring Test Pit (Each Add'l),43.0
+PA495701,Boring Test Pit (Single),43.0
+PA495702,Repair Water Service Lateral,26.0
+PA495702,Boring Test Pit (Each Add'l),26.0
+PA495702,Boring Test Pit (Single),26.0
+PA496317,Repair Water Service Lateral,38.0
+PA496317,Boring Test Pit (Each Add'l),38.0
+PA496317,Boring Test Pit (Single),38.0
+PA496318,Repair Water Service Lateral,14.0
+PA496318,Boring Test Pit (Each Add'l),14.0
+PA496318,Boring Test Pit (Single),14.0
+PA496319,Repair Water Service Lateral,14.0
+PA496319,Boring Test Pit (Each Add'l),14.0
+PA496319,Boring Test Pit (Single),14.0
+PA496321,Repair Water Service Lateral,18.0
+PA496321,Boring Test Pit (Each Add'l),18.0
+PA496321,Boring Test Pit (Single),18.0
+PA496322,Repair Water Service Lateral,38.0
+PA496322,Boring Test Pit (Each Add'l),38.0
+PA496322,Boring Test Pit (Single),38.0
+PA496323,Repair Water Service Lateral,38.0
+PA496323,Boring Test Pit (Each Add'l),38.0
+PA496323,Boring Test Pit (Single),38.0
+PA496324,Repair Water Service Lateral,38.0
+PA496324,Boring Test Pit (Each Add'l),38.0
+PA496324,Boring Test Pit (Single),38.0
+PA496325,Repair Water Service Lateral,38.0
+PA496325,Boring Test Pit (Each Add'l),38.0
+PA496325,Boring Test Pit (Single),38.0
+PA496326,Repair Water Service Lateral,38.0
+PA496326,Boring Test Pit (Each Add'l),38.0
+PA496326,Boring Test Pit (Single),38.0
+PA496328,Repair Water Service Lateral,40.0
+PA496328,Boring Test Pit (Each Add'l),40.0
+PA496328,Boring Test Pit (Single),40.0
+PA496331,Repair Water Service Lateral,40.0
+PA496331,Boring Test Pit (Each Add'l),40.0
+PA496331,Boring Test Pit (Single),40.0
+PA496332,Repair Water Service Lateral,40.0
+PA496332,Boring Test Pit (Each Add'l),40.0
+PA496332,Boring Test Pit (Single),40.0
+PA496333,Repair Water Service Lateral,43.0
+PA496333,Boring Test Pit (Each Add'l),43.0
+PA496333,Boring Test Pit (Single),43.0
+PA496344,Repair Gas Main Line,0.0
+PA496347,Gas Connection (Trench),12.0
+PA496350,Gas Connection (Trench),13.0
+PA496351,Gas Connection (Trench),11.0
+PA496352,Repair Gas Service (excavation),0.0
+PA496353,Gas Connection (Trench),10.0
+PA496395,Cathodic Protection,12.0
+PA496398,Repair Gas Main Line,14.0
+PA496400,Repair Gas Service (excavation),9.0
+PA496403,Repair Gas Service (excavation),33.0
+PA496404,Gas Service Abandonment,9.0
+PA496405,Repair Water Service Lateral,66.0
+PA496405,Boring Test Pit (Each Add'l),66.0
+PA496405,Boring Test Pit (Single),66.0
+PA496406,Repair Gas Main Line,8.0
+PA496408,Repair Water Service Lateral,9.0
+PA496408,Boring Test Pit (Each Add'l),9.0
+PA496408,Boring Test Pit (Single),9.0
+PA496409,Gas Connection (Trench),32.0
+PA496411,Gas Connection (Trench),21.0
+PA496412,Repair Gas Main Line,10.0
+PA496413,Gas Connection (Trench),14.0
+PA496415,Repair Gas Main Line,9.0
+PA496417,Repair Water Service Lateral,17.0
+PA496417,Boring Test Pit (Each Add'l),17.0
+PA496417,Boring Test Pit (Single),17.0
+PA496419,Repair Gas Main Line,15.0
+PA496420,Repair Water Service Lateral,15.0
+PA496420,Boring Test Pit (Each Add'l),15.0
+PA496420,Boring Test Pit (Single),15.0
+PA496421,Gas Connection (Trench),22.0
+PA496424,Repair Water Service Lateral,17.0
+PA496424,Boring Test Pit (Each Add'l),17.0
+PA496424,Boring Test Pit (Single),17.0
+PA496425,Gas Service Abandonment,12.0
+PA496426,Repair Water Service Lateral,13.0
+PA496426,Boring Test Pit (Each Add'l),13.0
+PA496426,Boring Test Pit (Single),13.0
+PA496427,Gas Connection (Trench),23.0
+PA496428,Repair Gas Main Line,10.0
+PA496429,Repair Water Service Lateral,15.0
+PA496429,Boring Test Pit (Each Add'l),15.0
+PA496429,Boring Test Pit (Single),15.0
+PA496431,Repair Water Service Lateral,17.0
+PA496434,Boring Test Pit (Each Add'l),9.0
+PA496434,Boring Test Pit (Single),9.0
+PA496435,Boring Test Pit (Each Add'l),13.0
+PA496435,Boring Test Pit (Single),13.0
+PA496437,Boring Test Pit (Each Add'l),18.0
+PA496437,Boring Test Pit (Single),18.0
+PA496438,Boring Test Pit (Each Add'l),15.0
+PA496438,Boring Test Pit (Single),15.0
+PA496446,Boring Test Pit (Each Add'l),21.0
+PA496446,Boring Test Pit (Single),21.0
+PA496462,Electric Connection (Trench),16.0
+PA496466,Electric Connection (Trench),31.0
+PA496466,Manhole Installation,31.0
+PA496466,Electric ML Conduit (Trench),31.0
+PA496485,Repair Gas Main Line,11.0
+PA496498,Repair Water Service Lateral,20.0
+PA496518,Repair Water Service Lateral,16.0
+PA496539,Repair Water Service Lateral,16.0
+PA496539,Boring Test Pit (Each Add'l),16.0
+PA496539,Boring Test Pit (Single),16.0
+PA496543,Repair Water Service Lateral,20.0
+PA496543,Boring Test Pit (Each Add'l),20.0
+PA496543,Boring Test Pit (Single),20.0
+PA496551,Repair Water Service Lateral,54.0
+PA496551,Boring Test Pit (Each Add'l),54.0
+PA496551,Boring Test Pit (Single),54.0
+PA496552,Repair Water Service Lateral,8.0
+PA496552,Boring Test Pit (Each Add'l),8.0
+PA496552,Boring Test Pit (Single),8.0
+PA496566,Electric Connection (Trench),16.0
+PA496573,Bar & Test Boring,31.0
+PA496575,Repair Water Service Lateral,54.0
+PA496575,Boring Test Pit (Each Add'l),54.0
+PA496575,Boring Test Pit (Single),54.0
+PA496580,Repair Water Service Lateral,10.0
+PA496580,Boring Test Pit (Each Add'l),10.0
+PA496580,Boring Test Pit (Single),10.0
+PA496596,Electric Connection (Trench),16.0
+PA496600,Repair Water Service Lateral,11.0
+PA496600,Boring Test Pit (Each Add'l),11.0
+PA496600,Boring Test Pit (Single),11.0
+PA496606,Repair Water Service Lateral,20.0
+PA496606,Boring Test Pit (Each Add'l),20.0
+PA496606,Boring Test Pit (Single),20.0
+PA496610,Repair Water Service Lateral,54.0
+PA496610,Boring Test Pit (Each Add'l),54.0
+PA496610,Boring Test Pit (Single),54.0
+PA496542,Repair Gas Main Line,0.0
+PA496721,"Water Lateral Connection to 2"" (Trench)",42.0
+PA496653,Gas Connection (Trench),13.0
+PA496659,Gas Connection (Trench),20.0
+PA496663,Gas Connection (Trench),13.0
+PA496671,Gas Connection (Trench),0.0
+PA496678,Gas Connection (Trench),13.0
+PA496680,Gas Connection (Trench),10.0
+PA496681,Gas Connection (Trench),20.0
+PA496770,Gas Connection (Trench),13.0
+PA496780,Gas Connection (Trench),28.0
+PA496799,Electric Connection (Trench),11.0
+PA496804,Gas Connection (Trench),7.0
+PA496805,Gas Connection (Trench),20.0
+PA496807,Gas Connection (Trench),38.0
+PA496808,Gas Connection (Trench),12.0
+PA496809,Gas Connection (Trench),10.0
+PA496811,Electric Connection (Trench),53.0
+PA496842,Repair Water Service Lateral,53.0
+PA496842,Boring Test Pit (Each Add'l),53.0
+PA496842,Boring Test Pit (Single),53.0
+PA496847,Repair Water Service Lateral,63.0
+PA496847,Boring Test Pit (Each Add'l),63.0
+PA496847,Boring Test Pit (Single),63.0
+PA496852,Repair Water Service Lateral,13.0
+PA496852,Boring Test Pit (Each Add'l),13.0
+PA496852,Boring Test Pit (Single),13.0
+PA496853,Repair Water Service Lateral,14.0
+PA496853,Boring Test Pit (Each Add'l),14.0
+PA496853,Boring Test Pit (Single),14.0
+PA496815,Gas Connection (Trench),12.0
+PA496817,Gas Connection (Trench),12.0
+PA496818,Gas Connection (Trench),10.0
+PA496821,Gas Connection (Trench),9.0
+PA496822,Gas Connection (Trench),26.0
+PA496828,Repair Gas Service (excavation),0.0
+PA496829,Gas Connection (Trench),33.0
+PA496848,Repair Water Service Lateral,13.0
+PA496848,Boring Test Pit (Each Add'l),13.0
+PA496848,Boring Test Pit (Single),13.0
+PA496849,Repair Water Service Lateral,14.0
+PA496849,Boring Test Pit (Each Add'l),14.0
+PA496849,Boring Test Pit (Single),14.0
+PA496854,Repair Water Service Lateral,14.0
+PA496854,Boring Test Pit (Each Add'l),14.0
+PA496854,Boring Test Pit (Single),14.0
+PA496329,Repair Water Service Lateral,69.0
+PA496329,Boring Test Pit (Each Add'l),69.0
+PA496329,Boring Test Pit (Single),69.0
+PA496859,Water ML (Trench),37.0
+PA496859,Valves (Excavation),37.0
+PA496859,Manhole Installation,37.0
+PA496860,Manhole Installation,39.0
+PA496860,Valves (Excavation),39.0
+PA496860,Water ML (Trench),39.0
+PA496861,Water ML (Trench),37.0
+PA496861,Valves (Excavation),37.0
+PA496864,Manhole Installation,37.0
+PA496864,Valves (Excavation),37.0
+PA496864,Water ML (Trench),37.0
+PA496869,Telecom  Connection (Trench),16.0
+PA496870,Water ML (Trench),36.0
+PA496870,Valves (Excavation),36.0
+PA496879,Gas Connection (Trench),13.0
+PA496887,Gas Connection (Trench),13.0
+PA496896,Boring Test Pit (Each Add'l),17.0
+PA496896,Boring Test Pit (Single),17.0
+PA496919,Repair Electric Service (excavation),12.0
+PA496927,Repair Electric Service (excavation),18.0
+PA496938,Repair Gas Main Line,1.0
+PA496940,Repair Water Service Lateral,63.0
+PA496940,Boring Test Pit (Each Add'l),63.0
+PA496940,Boring Test Pit (Single),63.0
+PA496941,Repair Water Service Lateral,63.0
+PA496941,Boring Test Pit (Each Add'l),63.0
+PA496941,Boring Test Pit (Single),63.0
+PA496942,Repair Water Service Lateral,24.0
+PA496942,Boring Test Pit (Each Add'l),24.0
+PA496942,Boring Test Pit (Single),24.0
+PA496945,Repair Water Service Lateral,13.0
+PA496945,Boring Test Pit (Each Add'l),13.0
+PA496945,Boring Test Pit (Single),13.0
+PA496947,Repair Water Service Lateral,62.0
+PA496947,Boring Test Pit (Each Add'l),62.0
+PA496947,Boring Test Pit (Single),62.0
+PA496948,Repair Water Service Lateral,62.0
+PA496948,Boring Test Pit (Each Add'l),62.0
+PA496948,Boring Test Pit (Single),62.0
+PA496949,Repair Water Service Lateral,62.0
+PA496949,Boring Test Pit (Each Add'l),62.0
+PA496949,Boring Test Pit (Single),62.0
+PA496962,Repair Water Service Lateral,43.0
+PA496962,Boring Test Pit (Each Add'l),43.0
+PA496962,Boring Test Pit (Single),43.0
+PA496963,Repair Water Service Lateral,43.0
+PA496963,Boring Test Pit (Each Add'l),43.0
+PA496963,Boring Test Pit (Single),43.0
+PA496964,Repair Water Service Lateral,43.0
+PA496964,Boring Test Pit (Each Add'l),43.0
+PA496964,Boring Test Pit (Single),43.0
+PA496965,Repair Water Service Lateral,51.0
+PA496965,Boring Test Pit (Each Add'l),51.0
+PA496965,Boring Test Pit (Single),51.0
+PA496972,Boring Test Pit (Each Add'l),20.0
+PA496972,Boring Test Pit (Single),20.0
+PA496978,Repair Water Service Lateral,13.0
+PA496980,Repair Water Service Lateral,9.0
+PA496993,Boring Test Pit (Each Add'l),42.0
+PA496995,Gas Connection (Trench),65.0
+PA496996,Gas Connection (Trench),30.0
+PA496997,Gas Connection (Trench),20.0
+PA496998,Gas Connection (Trench),19.0
+PA496999,Gas Connection (Trench),10.0
+PA497000,Gas Connection (Trench),12.0
+PA497001,Gas Connection (Trench),3.0
+PA497005,Electric Connection (Trench),65.0
+PA497011,Electric Connection (Trench),51.0
+PA497012,Electric Connection (Trench),51.0
+PA497012,Manhole Installation,51.0
+PA497012,Electric ML Conduit (Trench),51.0
+PA497012,TAP HOLE,51.0
+PA497014,Electric Connection (Trench),10.0
+PA497018,Repair Sewer Service Lateral,33.0
+PA497023,Manhole Installation,20.0
+PA497023,Sewer ML (Trench),20.0
+PA497023,Clean Out (Sewer),20.0
+PA497023,"Water Lateral Connection to 2"" (Trench)",20.0
+PA497023,"Water Meter Pit (to 2"" pipe)",20.0
+PA497023,"Sewer Lateral Connection over 4"" Pipe (Trench)",20.0
+PA497036,Repair Water Service Lateral,43.0
+PA497036,Boring Test Pit (Each Add'l),43.0
+PA497036,Boring Test Pit (Single),43.0
+PA496987,Repair Gas Service (excavation),0.0
+PA497048,Repair Water Service Lateral,61.0
+PA497048,Boring Test Pit (Each Add'l),61.0
+PA497048,Boring Test Pit (Single),61.0
+PA497059,Repair Water Service Lateral,62.0
+PA497059,Boring Test Pit (Each Add'l),62.0
+PA497059,Boring Test Pit (Single),62.0
+PA497092,Repair Gas Main Line,0.0
+PA497094,Electric Connection (Trench),12.0
+PA497106,Repair Gas Main Line,0.0
+PA497115,Repair Gas Main Line,0.0
+PA497117,Repair Gas Main Line,0.0
+PA497139,Repair Gas Main Line,0.0
+PA497142,Repair Water Service Lateral,22.0
+PA497142,Boring Test Pit (Each Add'l),22.0
+PA497142,Boring Test Pit (Single),22.0
+PA497143,Gas Connection (Trench),9.0
+PA497148,Repair Gas Main Line,0.0
+PA497176,Gas Connection (Trench),14.0
+PA497197,Sewer Service Lateral Abandonment,58.0
+PA497197,Storm Service Lateral Abandonment,58.0
+PA497197,Water Service Lateral Abandonment (Trench),58.0
+PA497198,Gas Connection (Trench),12.0
+PA497200,Gas Connection (Trench),13.0
+PA497203,Gas Connection (Trench),10.0
+PA497204,Gas Connection (Trench),21.0
+PA497205,Repair Water Service Lateral,18.0
+PA497207,Gas Connection (Trench),13.0
+PA497208,Repair Water Service Lateral,7.0
+PA497209,Gas Connection (Trench),21.0
+PA497212,Gas Connection (Trench),28.0
+PA497218,Gas Connection (Trench),10.0
+PA497219,Gas Connection (Trench),13.0
+PA497221,Gas Connection (Trench),10.0
+PA497233,Telecom ML Conduits (Trench),63.0
+PA497238,Gas Connection (Trench),4.0
+PA497240,Gas Connection (Trench),12.0
+PA497241,Repair Gas Service (excavation),0.0
+PA497242,Gas Connection (Trench),28.0
+PA497244,Gas Connection (Trench),10.0
+PA497246,Gas Connection (Trench),10.0
+PA497183,Electric Connection (Trench),11.0
+PA497186,Gas Connection (Trench),4.0
+PA497188,Gas Connection (Trench),12.0
+PA497190,Gas Connection (Trench),13.0
+PA497193,Gas Connection (Trench),13.0
+PA497247,Gas Connection (Trench),14.0
+PA497249,Repair Gas Main Line,1.0
+PA497250,Gas Connection (Trench),14.0
+PA497252,Gas Connection (Trench),24.0
+PA497220,Repair Gas Main Line,0.0
+PA496950,Repair Water Service Lateral,33.0
+PA496950,Boring Test Pit (Each Add'l),33.0
+PA496950,Boring Test Pit (Single),33.0
+PA497052,Repair Water Service Lateral,33.0
+PA497052,Boring Test Pit (Each Add'l),33.0
+PA497052,Boring Test Pit (Single),33.0
+PA497053,Repair Water Service Lateral,33.0
+PA497053,Boring Test Pit (Each Add'l),33.0
+PA497053,Boring Test Pit (Single),33.0
+PA497056,Repair Water Service Lateral,64.0
+PA497056,Boring Test Pit (Each Add'l),64.0
+PA497056,Boring Test Pit (Single),64.0
+PA497058,Repair Water Service Lateral,64.0
+PA497058,Boring Test Pit (Each Add'l),64.0
+PA497058,Boring Test Pit (Single),64.0
+PA497064,Repair Water Service Lateral,35.0
+PA497064,Boring Test Pit (Each Add'l),35.0
+PA497064,Boring Test Pit (Single),35.0
+PA497065,Repair Water Service Lateral,35.0
+PA497065,Boring Test Pit (Each Add'l),35.0
+PA497065,Boring Test Pit (Single),35.0
+PA497067,Repair Water Service Lateral,35.0
+PA497067,Boring Test Pit (Each Add'l),35.0
+PA497067,Boring Test Pit (Single),35.0
+PA497068,Repair Water Service Lateral,35.0
+PA497068,Boring Test Pit (Each Add'l),35.0
+PA497068,Boring Test Pit (Single),35.0
+PA497069,Repair Water Service Lateral,61.0
+PA497069,Boring Test Pit (Each Add'l),61.0
+PA497069,Boring Test Pit (Single),61.0
+PA497072,Repair Water Service Lateral,61.0
+PA497072,Boring Test Pit (Each Add'l),61.0
+PA497072,Boring Test Pit (Single),61.0
+PA497049,Repair Water Service Lateral,36.0
+PA497049,Boring Test Pit (Each Add'l),36.0
+PA497049,Boring Test Pit (Single),36.0
+PA497050,Repair Water Service Lateral,33.0
+PA497050,Boring Test Pit (Each Add'l),33.0
+PA497050,Boring Test Pit (Single),33.0
+PA497060,Repair Water Service Lateral,62.0
+PA497060,Boring Test Pit (Each Add'l),62.0
+PA497060,Boring Test Pit (Single),62.0
+PA497061,Repair Water Service Lateral,35.0
+PA497061,Boring Test Pit (Each Add'l),35.0
+PA497061,Boring Test Pit (Single),35.0
+PA497062,Repair Water Service Lateral,35.0
+PA497062,Boring Test Pit (Each Add'l),35.0
+PA497062,Boring Test Pit (Single),35.0
+PA497074,Repair Water Service Lateral,34.0
+PA497074,Boring Test Pit (Each Add'l),34.0
+PA497074,Boring Test Pit (Single),34.0
+PA497076,Repair Water Service Lateral,34.0
+PA497076,Boring Test Pit (Each Add'l),34.0
+PA497076,Boring Test Pit (Single),34.0
+PA497077,Repair Water Service Lateral,35.0
+PA497077,Boring Test Pit (Each Add'l),35.0
+PA497077,Boring Test Pit (Single),35.0
+PA497078,Repair Water Service Lateral,34.0
+PA497078,Boring Test Pit (Each Add'l),34.0
+PA497078,Boring Test Pit (Single),34.0
+PA497178,Repair Water Service Lateral,32.0
+PA497178,Boring Test Pit (Each Add'l),32.0
+PA497178,Boring Test Pit (Single),32.0
+PA497275,Gas Connection (Trench),12.0
+PA497279,Gas Connection (Trench),12.0
+PA497282,Gas Connection (Trench),13.0
+PA497289,Gas Connection (Trench),11.0
+PA497299,Gas Connection (Trench),3.0
+PA497304,Electric Connection (Trench),17.0
+PA497310,Gas Connection (Trench),14.0
+PA497313,Gas Connection (Trench),3.0
+PA497317,Gas Connection (Trench),12.0
+PA497343,Electric Connection (Trench),10.0
+PA497346,Gas Connection (Trench),11.0
+PA497349,Gas Connection (Trench),7.0
+PA497350,Gas Connection (Trench),13.0
+PA497352,Repair Gas Main Line,0.0
+PA497353,Gas Connection (Trench),9.0
+PA497369,Gas Service Abandonment,13.0
+PA497371,Gas Service Abandonment,12.0
+PA497373,Gas Service Abandonment,20.0
+PA497377,Gas Service Abandonment,2.0
+PA497380,Gas Service Abandonment,8.0
+PA497382,Gas Service Abandonment,5.0
+PA497384,Gas Service Abandonment,10.0
+PA497386,Gas Service Abandonment,14.0
+PA497387,Gas Service Abandonment,18.0
+PA497389,Gas Service Abandonment,5.0
+PA497390,Gas Service Abandonment,3.0
+PA497395,Boring Test Pit (Each Add'l),33.0
+PA497395,Boring Test Pit (Single),33.0
+PA497400,Boring Test Pit (Each Add'l),23.0
+PA497400,Boring Test Pit (Single),23.0
+PA497329,Repair Gas Main Line,0.0
+PA497345,Repair Gas Main Line,0.0
+PA497424,Repair Water Service Lateral,37.0
+PA497430,Gas Service Abandonment,12.0
+PA497432,Gas Connection (Trench),8.0
+PA497435,Gas Connection (Trench),34.0
+PA497436,Gas Connection (Trench),14.0
+PA497438,Gas Connection (Trench),3.0
+PA497444,Electric ML Conduit (Trench),22.0
+PA497445,Gas Connection (Trench),2.0
+PA497447,Gas Connection (Trench),26.0
+PA497456,Repair Gas Main Line,0.0
+PA497457,Repair Gas Main Line,0.0
+PA497458,Repair Gas Main Line,0.0
+PA497460,Repair Gas Main Line,0.0
+PA497461,Repair Gas Main Line,0.0
+PA497462,Repair Gas Main Line,0.0
+PA497427,Repair Gas Main Line,0.0
+PA496953,Repair Water Service Lateral,62.0
+PA496953,Boring Test Pit (Each Add'l),62.0
+PA496953,Boring Test Pit (Single),62.0
+PA497051,Repair Water Service Lateral,33.0
+PA497051,Boring Test Pit (Each Add'l),33.0
+PA497051,Boring Test Pit (Single),33.0
+PA497054,Repair Water Service Lateral,64.0
+PA497054,Boring Test Pit (Each Add'l),64.0
+PA497054,Boring Test Pit (Single),64.0
+PA497055,Repair Water Service Lateral,64.0
+PA497055,Boring Test Pit (Each Add'l),64.0
+PA497055,Boring Test Pit (Single),64.0
+PA497057,Repair Water Service Lateral,64.0
+PA497057,Boring Test Pit (Each Add'l),64.0
+PA497057,Boring Test Pit (Single),64.0
+PA497066,Repair Water Service Lateral,62.0
+PA497066,Boring Test Pit (Each Add'l),62.0
+PA497066,Boring Test Pit (Single),62.0
+PA497070,Repair Water Service Lateral,61.0
+PA497070,Boring Test Pit (Each Add'l),61.0
+PA497070,Boring Test Pit (Single),61.0
+PA497071,Repair Water Service Lateral,35.0
+PA497071,Boring Test Pit (Each Add'l),35.0
+PA497071,Boring Test Pit (Single),35.0
+PA497073,Repair Water Service Lateral,34.0
+PA497073,Boring Test Pit (Each Add'l),34.0
+PA497073,Boring Test Pit (Single),34.0
+PA497075,Repair Water Service Lateral,61.0
+PA497075,Boring Test Pit (Each Add'l),61.0
+PA497075,Boring Test Pit (Single),61.0
+PA497470,Repair Gas Main Line,0.0
+PA497473,Telecom ML Conduits (Trench),15.0
+PA497474,Manhole Installation,13.0
+PA497474,Electric ML Conduit (Trench),13.0
+PA497475,Gas Regulating Station,22.0
+PA497478,Repair Electric Service (excavation),2.0
+PA497479,Repair Electric Service (excavation),11.0
+PA497481,HANDHOLE,38.0
+PA497481,Telecom ML Conduits (Trench),38.0
+PA497483,Repair Water Service Lateral,47.0
+PA497483,Boring Test Pit (Each Add'l),47.0
+PA497483,Boring Test Pit (Single),47.0
+PA497490,Repair Water Service Lateral,39.0
+PA497490,Boring Test Pit (Each Add'l),39.0
+PA497490,Boring Test Pit (Single),39.0
+PA497491,Repair Water Service Lateral,39.0
+PA497491,Boring Test Pit (Each Add'l),39.0
+PA497491,Boring Test Pit (Single),39.0
+PA497492,Storm Service Lateral Abandonment,18.0
+PA497492,Water Service Lateral Abandonment (Trench),18.0
+PA497517,Repair Gas Main Line,0.0
+PA497518,Repair Gas Main Line,0.0
+PA497519,Repair Water Service Lateral,18.0
+PA497519,Boring Test Pit (Each Add'l),18.0
+PA497519,Boring Test Pit (Single),18.0
+PA497520,Repair Water Service Lateral,18.0
+PA497520,Boring Test Pit (Each Add'l),18.0
+PA497520,Boring Test Pit (Single),18.0
+PA497522,Repair Water Service Lateral,33.0
+PA497522,Boring Test Pit (Each Add'l),33.0
+PA497522,Boring Test Pit (Single),33.0
+PA497523,Repair Water Service Lateral,18.0
+PA497523,Boring Test Pit (Each Add'l),18.0
+PA497523,Boring Test Pit (Single),18.0
+PA497525,Repair Gas Main Line,0.0
+PA497527,Repair Gas Main Line,0.0
+PA497530,Repair Gas Main Line,0.0
+PA497554,Monitoring Well (Single),15.0
+PA497582,DDOT Permit - DOEE Review,18.0
+PA497584,Repair Gas Main Line,0.0
+PA497586,Repair Gas Main Line,0.0
+PA497589,Electric Connection (Trench),15.0
+PA497591,Repair Gas Main Line,0.0
+PA497594,Repair Gas Main Line,0.0
+PA497595,Repair Gas Main Line,0.0
+PA497514,Repair Gas Service (excavation),0.0
+PA497588,Manhole Installation,12.0
+PA497588,Sewer Service Lateral Abandonment,12.0
+PA497588,"Water Lateral Conn over 2"" Pipe (Trench)",12.0
+PA497588,"Storm Lateral Conn over 4"" (Trench)",12.0
+PA497588,Water Service Lateral Abandonment (Trench),12.0
+PA497588,"Sewer Lateral Connection over 4"" Pipe (Trench)",12.0
+PA497646,Electric Connection (Trench),26.0
+PA497668,Gas Connection (Trench),15.0
+PA497625,Gas Connection (Trench),4.0
+PA497626,Gas Connection (Trench),8.0
+PA497627,Gas Connection (Trench),4.0
+PA497628,Gas Connection (Trench),13.0
+PA497629,Gas Connection (Trench),6.0
+PA497630,Gas Connection (Trench),6.0
+PA497681,Repair Gas Main Line,1.0
+PA497689,Repair Gas Main Line,1.0
+PA497692,Repair Gas Main Line,1.0
+PA497693,Repair Water Service Lateral,56.0
+PA497693,Boring Test Pit (Each Add'l),56.0
+PA497693,Boring Test Pit (Single),56.0
+PA497695,Repair Water Service Lateral,30.0
+PA497695,Boring Test Pit (Each Add'l),30.0
+PA497695,Boring Test Pit (Single),30.0
+PA497719,Repair Water Service Lateral,28.0
+PA497719,Boring Test Pit (Each Add'l),28.0
+PA497719,Boring Test Pit (Single),28.0
+PA497669,Repair Gas Main Line,0.0
+PA497676,Repair Gas Main Line,0.0
+PA497771,Gas Connection (Trench),16.0
+PA497772,Gas Connection (Trench),14.0
+PA497773,Gas Connection (Trench),13.0
+PA497776,Gas Connection (Trench),14.0
+PA497778,Gas Connection (Trench),12.0
+PA497780,Gas Connection (Trench),13.0
+PA497782,Repair Gas Main Line,1.0
+PA497785,Electric Connection (Trench),22.0
+PA497786,Repair Water Service Lateral,25.0
+PA497786,Boring Test Pit (Each Add'l),25.0
+PA497786,Boring Test Pit (Single),25.0
+PA497790,Repair Water Service Lateral,25.0
+PA497790,Boring Test Pit (Each Add'l),25.0
+PA497790,Boring Test Pit (Single),25.0
+PA497791,Repair Water Service Lateral,27.0
+PA497791,Boring Test Pit (Each Add'l),27.0
+PA497791,Boring Test Pit (Single),27.0
+PA497793,Repair Water Service Lateral,27.0
+PA497793,Boring Test Pit (Each Add'l),27.0
+PA497793,Boring Test Pit (Single),27.0
+PA497725,"Storm Lateral Conn over 4"" (Trench)",8.0
+PA497725,Clean Out (Sewer),8.0
+PA497730,"Water Lateral Connection to 2"" (Trench)",17.0
+PA497730,"Water Meter Pit (to 2"" pipe)",17.0
+PA497730,Water Service Lateral Abandonment (Trench),17.0
+PA497733,Repair Gas Main Line,0.0
+PA497737,Gas Connection (Trench),12.0
+PA497739,Gas Connection (Trench),7.0
+PA497741,Gas Connection (Trench),13.0
+PA497742,Repair Gas Main Line,0.0
+PA497743,Gas Connection (Trench),13.0
+PA497744,Gas Connection (Trench),7.0
+PA497745,Gas Connection (Trench),13.0
+PA497746,Gas Connection (Trench),19.0
+PA497749,Gas Connection (Trench),11.0
+PA497752,Gas Connection (Trench),7.0
+PA497758,Gas Service Abandonment,12.0
+PA497764,Gas Connection (Trench),19.0
+PA497765,Electric ML Conduit (Trench),14.0
+PA497766,Gas Connection (Trench),14.0
+PA497767,Gas Connection (Trench),14.0
+PA497769,Gas Connection (Trench),14.0
+PA497794,Repair Water Service Lateral,27.0
+PA497794,Boring Test Pit (Each Add'l),27.0
+PA497794,Boring Test Pit (Single),27.0
+PA497795,"Water Lateral Connection to 2"" (Trench)",30.0
+PA497795,"Water Meter Pit (to 2"" pipe)",30.0
+PA497795,Clean Out (Sewer),30.0
+PA497795,Water Service Lateral Abandonment (Trench),30.0
+PA497593,HANDHOLE,
+PA497593,Telecom  Connection (Trench),
+PA497596,HANDHOLE,
+PA497596,Telecom ML Conduits (Trench),
+PA497598,HANDHOLE,
+PA497598,Telecom ML Conduits (Trench),
+PA497809,Gas Connection (Trench),12.0
+PA497813,Repair Water Service Lateral,28.0
+PA497814,Gas Connection (Trench),12.0
+PA497815,Gas Service Abandonment,11.0
+PA497816,Gas Connection (Trench),10.0
+PA497820,Gas Connection (Trench),17.0
+PA497828,Repair Water Service Lateral,23.0
+PA497835,Gas Connection (Trench),13.0
+PA497836,Gas Service Abandonment,30.0
+PA497840,Electric Connection (Trench),8.0
+PA497841,Multiple House Connections (Utility Co. ONLY),36.0
+PA497841,Gas Main/Line Abandonment,36.0
+PA497842,Gas Connection (Trench),11.0
+PA497843,"Water Lateral Connection to 2"" (Trench)",10.0
+PA497843,"Sewer Lateral Connection to 4"" (Trench)",10.0
+PA497843,Clean Out (Sewer),10.0
+PA497843,"Water Meter Pit (to 2"" pipe)",10.0
+PA497845,Gas Connection (Trench),29.0
+PA497847,Gas Connection (Trench),1.0
+PA497850,Gas Service Abandonment,28.0
+PA497854,Gas Service Abandonment,9.0
+PA497855,Gas Service Abandonment,3.0
+PA497856,Gas Service Abandonment,15.0
+PA497857,Gas Service Abandonment,3.0
+PA497859,Gas Service Abandonment,1.0
+PA497864,Repair Gas Main Line,0.0
+PA497865,Repair Gas Main Line,0.0
+PA497866,Repair Gas Main Line,0.0
+PA497867,Repair Gas Main Line,0.0
+PA497870,Repair Gas Service (excavation),1.0
+PA497874,Repair Gas Main Line,1.0
+PA497876,"Water Lateral Conn over 2"" Pipe (Trench)",15.0
+PA497876,Fire Hydrant(s),15.0
+PA497876,Multiple House Connections (Utility Co. ONLY),15.0
+PA497876,Repair Water Main Line,15.0
+PA497876,Valves (Excavation),15.0
+PA497877,Repair Gas Main Line,1.0
+PA497878,"Water Lateral Conn over 2"" Pipe (Trench)",20.0
+PA497878,Fire Hydrant(s),20.0
+PA497878,Multiple House Connections (Utility Co. ONLY),20.0
+PA497878,Repair Water Main Line,20.0
+PA497878,Valves (Excavation),20.0
+PA497880,Repair Water Service Lateral,15.0
+PA497880,Boring Test Pit (Each Add'l),15.0
+PA497880,Boring Test Pit (Single),15.0
+PA497881,Repair Water Service Lateral,27.0
+PA497881,Boring Test Pit (Each Add'l),27.0
+PA497881,Boring Test Pit (Single),27.0
+PA497882,Repair Water Service Lateral,54.0
+PA497882,Boring Test Pit (Each Add'l),54.0
+PA497882,Boring Test Pit (Single),54.0
+PA497884,Repair Water Service Lateral,54.0
+PA497884,Boring Test Pit (Each Add'l),54.0
+PA497884,Boring Test Pit (Single),54.0
+PA497839,Repair Gas Service (excavation),0.0
+PA494071,Repair Gas Main Line,49.0
+PA494071,Gas Main/Line Abandonment,49.0
+PA497860,Water ML (Trench),27.0
+PA497860,"Water Lateral Conn over 2"" Pipe (Trench)",27.0
+PA497860,Fire Hydrant(s),27.0
+PA497860,Multiple House Connections (Utility Co. ONLY),27.0
+PA497860,Valves (Excavation),27.0
+PA497918,Gas Service Abandonment,8.0
+PA497919,"Water Lateral Conn over 2"" Pipe (Trench)",32.0
+PA497919,Fire Hydrant(s),32.0
+PA497919,Multiple House Connections (Utility Co. ONLY),32.0
+PA497919,Repair Water Main Line,32.0
+PA497919,Valves (Excavation),32.0
+PA497920,Water ML (Trench),16.0
+PA497920,"Water Lateral Conn over 2"" Pipe (Trench)",16.0
+PA497920,Fire Hydrant(s),16.0
+PA497920,Multiple House Connections (Utility Co. ONLY),16.0
+PA497920,Valves (Excavation),16.0
+PA497923,"Water Lateral Conn over 2"" Pipe (Trench)",32.0
+PA497923,Fire Hydrant(s),32.0
+PA497923,Multiple House Connections (Utility Co. ONLY),32.0
+PA497923,Repair Water Main Line,32.0
+PA497923,Valves (Excavation),32.0
+PA497924,Gas Service Abandonment,14.0
+PA497925,Gas Service Abandonment,14.0
+PA497927,Gas Service Abandonment,14.0
+PA497931,"Water Lateral Conn over 2"" Pipe (Trench)",32.0
+PA497931,Fire Hydrant(s),32.0
+PA497931,Multiple House Connections (Utility Co. ONLY),32.0
+PA497931,Repair Water Main Line,32.0
+PA497931,Valves (Excavation),32.0
+PA497965,Gas Connection (Trench),6.0
+PA497966,Gas Connection (Trench),14.0
+PA497973,Gas Main/Line Abandonment,35.0
+PA497968,Gas Connection (Trench),10.0
+PA497906,"Water Lateral Conn over 2"" Pipe (Trench)",32.0
+PA497906,Fire Hydrant(s),32.0
+PA497906,Multiple House Connections (Utility Co. ONLY),32.0
+PA497906,Repair Water Main Line,32.0
+PA497906,Valves (Excavation),32.0
+PA497910,"Water Lateral Conn over 2"" Pipe (Trench)",32.0
+PA497910,Fire Hydrant(s),32.0
+PA497910,Multiple House Connections (Utility Co. ONLY),32.0
+PA497910,Repair Water Main Line,32.0
+PA497910,Valves (Excavation),32.0
+PA497911,Gas Service Abandonment,14.0
+PA497912,Gas Service Abandonment,14.0
+PA497915,Gas Service Abandonment,14.0
+PA497936,Gas Connection (Trench),29.0
+PA497952,"Water Lateral Conn over 2"" Pipe (Trench)",32.0
+PA497952,Fire Hydrant(s),32.0
+PA497952,Multiple House Connections (Utility Co. ONLY),32.0
+PA497952,Repair Water Main Line,32.0
+PA497952,Valves (Excavation),32.0
+PA497974,Gas Connection (Trench),14.0
+PA497977,Electric Connection (Trench),13.0
+PA497982,Gas Main Line (Trench),14.0
+PA497982,Gas Main/Line Abandonment,14.0
+PA497986,"Water Lateral Connection to 2"" (Trench)",9.0
+PA497986,"Sewer Lateral Connection to 4"" (Trench)",9.0
+PA497986,Clean Out (Sewer),9.0
+PA497986,"Water Meter Pit (to 2"" pipe)",9.0
+PA497779,Gas Connection (Trench),13.0
+PA498000,Repair Water Service Lateral,53.0
+PA498000,Boring Test Pit (Each Add'l),53.0
+PA498000,Boring Test Pit (Single),53.0
+PA498001,Repair Water Service Lateral,27.0
+PA498001,Boring Test Pit (Each Add'l),27.0
+PA498001,Boring Test Pit (Single),27.0
+PA498002,Repair Water Service Lateral,26.0
+PA498002,Boring Test Pit (Each Add'l),26.0
+PA498002,Boring Test Pit (Single),26.0
+PA498003,Repair Water Service Lateral,26.0
+PA498003,Boring Test Pit (Each Add'l),26.0
+PA498003,Boring Test Pit (Single),26.0
+PA498004,Repair Water Service Lateral,26.0
+PA498004,Boring Test Pit (Each Add'l),26.0
+PA498004,Boring Test Pit (Single),26.0
+PA494456,Repair Water Service Lateral,75.0
+PA494456,Boring Test Pit (Each Add'l),75.0
+PA494456,Boring Test Pit (Single),75.0
+PA497698,Repair Water Service Lateral,29.0
+PA497698,Boring Test Pit (Each Add'l),29.0
+PA497698,Boring Test Pit (Single),29.0
+PA497711,Repair Water Service Lateral,28.0
+PA497711,Boring Test Pit (Each Add'l),28.0
+PA497711,Boring Test Pit (Single),28.0
+PA497712,Repair Water Service Lateral,31.0
+PA497712,Boring Test Pit (Each Add'l),31.0
+PA497712,Boring Test Pit (Single),31.0
+PA497722,Repair Water Service Lateral,28.0
+PA497722,Boring Test Pit (Each Add'l),28.0
+PA497722,Boring Test Pit (Single),28.0
+PA497723,Repair Water Service Lateral,28.0
+PA497723,Boring Test Pit (Each Add'l),28.0
+PA497723,Boring Test Pit (Single),28.0
+PA497787,Repair Water Service Lateral,27.0
+PA497787,Boring Test Pit (Each Add'l),27.0
+PA497787,Boring Test Pit (Single),27.0
+PA498028,Gas Connection (Trench),18.0
+PA498032,Gas Connection (Trench),13.0
+PA498047,Gas Connection (Trench),13.0
+PA498051,Gas Connection (Trench),21.0
+PA498062,Gas Connection (Trench),13.0
+PA498065,Gas Connection (Trench),13.0
+PA498069,Gas Connection (Trench),26.0
+PA498081,Gas Connection (Trench),6.0
+PA498101,Gas Connection (Trench),14.0
+PA498116,Gas Connection (Trench),11.0
+PA498121,Repair Water Service Lateral,13.0
+PA498121,Boring Test Pit (Each Add'l),13.0
+PA498121,Boring Test Pit (Single),13.0
+PA498124,Gas Connection (Trench),13.0
+PA498143,Gas Connection (Trench),20.0
+PA498145,Gas Connection (Trench),21.0
+PA498148,Gas Connection (Trench),13.0
+PA498150,Gas Connection (Trench),18.0
+PA498151,Gas Connection (Trench),13.0
+PA498181,Repair Electric Service (excavation),30.0
+PA498186,Electric Connection (Trench),17.0
+PA498213,Repair Gas Main Line,1.0
+PA498228,Repair Water Service Lateral,20.0
+PA498230,Repair Gas Main Line,0.0
+PA498246,Repair Gas Main Line,1.0
+PA498167,Repair Gas Main Line,0.0
+PA498189,Repair Gas Service (excavation),0.0
+PA498193,Repair Gas Service (excavation),0.0
+PA498206,Repair Gas Service (excavation),0.0
+PA497699,Repair Water Service Lateral,37.0
+PA497699,Boring Test Pit (Each Add'l),37.0
+PA497699,Boring Test Pit (Single),37.0
+PA497717,Repair Water Service Lateral,37.0
+PA497717,Boring Test Pit (Each Add'l),37.0
+PA497717,Boring Test Pit (Single),37.0
+PA497718,Repair Water Service Lateral,36.0
+PA497718,Boring Test Pit (Each Add'l),36.0
+PA497718,Boring Test Pit (Single),36.0
+PA497720,Repair Water Service Lateral,36.0
+PA497720,Boring Test Pit (Each Add'l),36.0
+PA497720,Boring Test Pit (Single),36.0
+PA497788,Repair Water Service Lateral,35.0
+PA497788,Boring Test Pit (Each Add'l),35.0
+PA497788,Boring Test Pit (Single),35.0
+PA497789,Repair Water Service Lateral,35.0
+PA497789,Boring Test Pit (Each Add'l),35.0
+PA497789,Boring Test Pit (Single),35.0
+PA497792,Repair Water Service Lateral,35.0
+PA497792,Boring Test Pit (Each Add'l),35.0
+PA497792,Boring Test Pit (Single),35.0
+PA498252,HANDHOLE,9.0
+PA498252,Telecom  Connection (Trench),9.0
+PA498253,Gas Connection (Trench),24.0
+PA498260,Electric Connection (Trench),40.0
+PA498275,HANDHOLE,25.0
+PA498275,Telecom ML Conduits (Trench),25.0
+PA498301,Repair Water Service Lateral,49.0
+PA498301,Boring Test Pit (Each Add'l),49.0
+PA498301,Boring Test Pit (Single),49.0
+PA498302,Repair Water Service Lateral,49.0
+PA498302,Boring Test Pit (Each Add'l),49.0
+PA498302,Boring Test Pit (Single),49.0
+PA498303,Repair Water Service Lateral,49.0
+PA498303,Boring Test Pit (Each Add'l),49.0
+PA498303,Boring Test Pit (Single),49.0
+PA498304,Repair Water Service Lateral,49.0
+PA498304,Boring Test Pit (Each Add'l),49.0
+PA498304,Boring Test Pit (Single),49.0
+PA498305,Repair Water Service Lateral,49.0
+PA498305,Boring Test Pit (Each Add'l),49.0
+PA498305,Boring Test Pit (Single),49.0
+PA497702,Repair Water Service Lateral,38.0
+PA497702,Boring Test Pit (Each Add'l),38.0
+PA497702,Boring Test Pit (Single),38.0
+PA497704,Repair Water Service Lateral,37.0
+PA497704,Boring Test Pit (Each Add'l),37.0
+PA497704,Boring Test Pit (Single),37.0
+PA497705,Repair Water Service Lateral,37.0
+PA497705,Boring Test Pit (Each Add'l),37.0
+PA497705,Boring Test Pit (Single),37.0
+PA497713,Repair Water Service Lateral,36.0
+PA497713,Boring Test Pit (Each Add'l),36.0
+PA497713,Boring Test Pit (Single),36.0
+PA497715,Repair Water Service Lateral,36.0
+PA497715,Boring Test Pit (Each Add'l),36.0
+PA497715,Boring Test Pit (Single),36.0
+PA498306,Repair Water Service Lateral,22.0
+PA498306,Boring Test Pit (Each Add'l),22.0
+PA498306,Boring Test Pit (Single),22.0
+PA498307,Repair Water Service Lateral,49.0
+PA498307,Boring Test Pit (Each Add'l),49.0
+PA498307,Boring Test Pit (Single),49.0
+PA498326,Repair Water Service Lateral,0.0
+PA498327,Repair Sewer Main Line,0.0
+PA498332,Repair Water Service Lateral,0.0
+PA498336,Repair Sewer Service Lateral,0.0
+PA498336,Clean Out (Sewer),0.0
+PA498337,Repair Gas Service (excavation),0.0
+PA498339,Repair Gas Main Line,0.0
+PA498344,Telecom ML Conduits (Trench),19.0
+PA498346,Repair Sewer Service Lateral,0.0
+PA498346,Clean Out (Sewer),0.0
+PA498347,Repair Gas Main Line,0.0
+PA498361,Electric Connection (Trench),8.0
+PA498373,"Water Lateral Conn over 2"" Pipe (Trench)",28.0
+PA498373,Fire Hydrant(s),28.0
+PA498373,Multiple House Connections (Utility Co. ONLY),28.0
+PA498373,Repair Water Main Line,28.0
+PA498373,Valves (Excavation),28.0
+PA498396,Fire Hydrant(s),1.0
+PA498397,Repair Sewer Service Lateral,1.0
+PA498329,Repair Gas Main Line,0.0
+PA498412,Repair Water Service Lateral,49.0
+PA498412,Boring Test Pit (Each Add'l),49.0
+PA498412,Boring Test Pit (Single),49.0
+PA498414,Repair Gas Main Line,0.0
+PA498415,Repair Gas Main Line,0.0
+PA498416,Clean Out (Sewer),0.0
+PA498417,Sewer ML (Trench),0.0
+PA498418,Repair Water Main Line,0.0
+PA498419,Repair Water Main Line,0.0
+PA498420,Storm Service Lateral Abandonment,0.0
+PA498421,Repair Water Service Lateral,0.0
+PA498422,Repair Water Service Lateral,0.0
+PA498423,Repair Water Service Lateral,0.0
+PA498424,Repair Water Service Lateral,0.0
+PA498425,Manhole Frame and Cover (Adjust),0.0
+PA498428,Repair Sewer Main Line,0.0
+PA498433,Repair Water Service Lateral,0.0
+PA498444,Gas Connection (Trench),14.0
+PA498446,Gas Connection (Trench),38.0
+PA498447,Gas Connection (Trench),12.0
+PA498450,Gas Connection (Trench),11.0
+PA498456,"Water Lateral Connection to 2"" (Trench)",26.0
+PA498456,"Storm Lateral Conn over 4"" (Trench)",26.0
+PA498462,Sewer ML (Trench),19.0
+PA498462,Manhole Installation,19.0
+PA498462,"Sewer Lateral Connection to 4"" (Trench)",19.0
+PA498462,Manhole Roof (Repair or Replace Only),19.0
+PA498499,Repair Water Main Line,1.0
+PA498500,Repair Water Main Line,1.0
+PA498501,Repair Water Main Line,1.0
+PA498502,Repair Storm Service Lateral,1.0
+PA498508,Boring Test Pit (Single),37.0
+PA498507,Electric Connection (Trench),14.0
+PA498512,Repair Gas Main Line,0.0
+PA498513,Repair Gas Service (excavation),0.0
+PA498514,Repair Gas Main Line,0.0
+PA498516,Repair Gas Main Line,0.0
+PA498567,Fire Hydrant(s),0.0
+PA498568,Repair Gas Service (excavation),0.0
+PA498579,Repair Gas Main Line,0.0
+PA498582,Repair Gas Main Line,0.0
+PA498584,Repair Gas Main Line,0.0
+PA498597,HANDHOLE,28.0
+PA498597,Telecom ML Conduits (Trench),28.0
+PA498604,Telecom  Connection (Trench),15.0
+PA498605,Repair Gas Main Line,0.0
+PA498635,HANDHOLE,14.0
+PA498635,Telecom ML Conduits (Trench),14.0
+PA498667,Gas Connection (Trench),20.0
+PA498668,"Water Lateral Connection to 2"" (Trench)",22.0
+PA498668,"Water Meter Pit (to 2"" pipe)",22.0
+PA498668,Water Service Lateral Abandonment (Trench),22.0
+PA498669,Gas Connection (Trench),12.0
+PA498670,Gas Connection (Trench),13.0
+PA498681,Gas Connection (Trench),26.0
+PA498682,Gas Connection (Trench),20.0
+PA498683,Gas Connection (Trench),14.0
+PA498684,Gas Service Abandonment,14.0
+PA498688,Gas Connection (Trench),14.0
+PA498690,Gas Connection (Trench),14.0
+PA498704,Manhole Installation,30.0
+PA498704,"Storm Lateral Conn over 4"" (Trench)",30.0
+PA498704,"Sewer Lateral Connection to 4"" (Trench)",30.0
+PA498704,Water Service Lateral Abandonment (Trench),30.0
+PA498704,Clean Out (Sewer),30.0
+PA498704,"Water Lateral Connection to 2"" (Trench)",30.0
+PA498704,"Water Meter Pit (to 2"" pipe)",30.0
+PA498706,Repair Water Service Lateral,21.0
+PA498706,Boring Test Pit (Each Add'l),21.0
+PA498706,Boring Test Pit (Single),21.0
+PA498707,Repair Water Service Lateral,27.0
+PA498707,Boring Test Pit (Each Add'l),27.0
+PA498707,Boring Test Pit (Single),27.0
+PA498708,Repair Water Service Lateral,27.0
+PA498708,Boring Test Pit (Each Add'l),27.0
+PA498708,Boring Test Pit (Single),27.0
+PA498709,Repair Water Service Lateral,27.0
+PA498709,Boring Test Pit (Each Add'l),27.0
+PA498709,Boring Test Pit (Single),27.0
+PA498710,Repair Water Service Lateral,27.0
+PA498710,Boring Test Pit (Each Add'l),27.0
+PA498710,Boring Test Pit (Single),27.0
+PA498713,Repair Water Service Lateral,27.0
+PA498713,Boring Test Pit (Each Add'l),27.0
+PA498713,Boring Test Pit (Single),27.0
+PA498714,Repair Water Service Lateral,28.0
+PA498714,Boring Test Pit (Each Add'l),28.0
+PA498714,Boring Test Pit (Single),28.0
+PA498716,Repair Water Service Lateral,28.0
+PA498716,Boring Test Pit (Each Add'l),28.0
+PA498716,Boring Test Pit (Single),28.0
+PA498641,Valves (Excavation),0.0
+PA498643,Repair Water Main Line,0.0
+PA498644,Repair Water Service Lateral,14.0
+PA498644,Boring Test Pit (Each Add'l),14.0
+PA498644,Boring Test Pit (Single),14.0
+PA498659,Repair Water Service Lateral,19.0
+PA498659,Boring Test Pit (Each Add'l),19.0
+PA498659,Boring Test Pit (Single),19.0
+PA498663,Repair Gas Main Line,0.0
+PA498664,Repair Water Service Lateral,0.0
+PA498666,Gas Connection (Trench),14.0
+PA498718,Repair Water Service Lateral,27.0
+PA498718,Boring Test Pit (Each Add'l),27.0
+PA498718,Boring Test Pit (Single),27.0
+PA498719,Repair Water Service Lateral,27.0
+PA498719,Boring Test Pit (Each Add'l),27.0
+PA498719,Boring Test Pit (Single),27.0
+PA498730,Repair Gas Service (excavation),0.0
+PA498750,Repair Water Main Line,1.0
+PA498784,Repair Water Service Lateral,44.0
+PA498784,Boring Test Pit (Each Add'l),44.0
+PA498784,Boring Test Pit (Single),44.0
+PA498755,Electric Connection (Trench),15.0
+PA498760,Repair Gas Main Line,1.0
+PA498774,Repair Water Service Lateral,26.0
+PA498774,Boring Test Pit (Each Add'l),26.0
+PA498774,Boring Test Pit (Single),26.0
+PA498775,Repair Water Service Lateral,26.0
+PA498775,Boring Test Pit (Each Add'l),26.0
+PA498775,Boring Test Pit (Single),26.0
+PA498777,Repair Water Service Lateral,26.0
+PA498777,Boring Test Pit (Each Add'l),26.0
+PA498777,Boring Test Pit (Single),26.0
+PA498782,Repair Water Service Lateral,13.0
+PA498782,Boring Test Pit (Each Add'l),13.0
+PA498782,Boring Test Pit (Single),13.0
+PA497694,Repair Water Service Lateral,37.0
+PA497694,Boring Test Pit (Each Add'l),37.0
+PA497694,Boring Test Pit (Single),37.0
+PA497697,Repair Water Service Lateral,37.0
+PA497697,Boring Test Pit (Each Add'l),37.0
+PA497697,Boring Test Pit (Single),37.0
+PA497700,Repair Water Service Lateral,37.0
+PA497700,Boring Test Pit (Each Add'l),37.0
+PA497700,Boring Test Pit (Single),37.0
+PA497710,Repair Water Service Lateral,36.0
+PA497710,Boring Test Pit (Each Add'l),36.0
+PA497710,Boring Test Pit (Single),36.0
+PA497714,Repair Water Service Lateral,36.0
+PA497714,Boring Test Pit (Each Add'l),36.0
+PA497714,Boring Test Pit (Single),36.0
+PA497716,Repair Water Service Lateral,36.0
+PA497716,Boring Test Pit (Each Add'l),36.0
+PA497716,Boring Test Pit (Single),36.0
+PA498503,Repair Water Service Lateral,29.0
+PA498503,Boring Test Pit (Each Add'l),29.0
+PA498503,Boring Test Pit (Single),29.0
+PA498800,Fire Hydrant(s),0.0
+PA498813,Repair Gas Main Line,0.0
+PA498816,Repair Gas Main Line,0.0
+PA498819,Repair Gas Service (excavation),0.0
+PA498822,Manhole Installation,24.0
+PA498822,Telecom ML Conduits (Trench),24.0
+PA498824,Manhole Installation,47.0
+PA498824,Sewer Service Lateral Abandonment,47.0
+PA498824,Catch Basin(s),47.0
+PA498824,"Storm Lateral Conn over 4"" (Trench)",47.0
+PA498824,Fire Hydrant(s),47.0
+PA498824,"Sewer Lateral Connection over 4"" Pipe (Trench)",47.0
+PA498830,Electric Connection (Trench),38.0
+PA498833,Electric Connection (Trench),14.0
+PA498834,Repair Gas Main Line,0.0
+PA498835,Electric Connection (Trench),20.0
+PA498837,Repair Gas Service (excavation),0.0
+PA498839,Repair Gas Service (excavation),0.0
+PA498843,Repair Gas Service (excavation),0.0
+PA498851,Repair Water Service Lateral,46.0
+PA498851,Boring Test Pit (Each Add'l),46.0
+PA498851,Boring Test Pit (Single),46.0
+PA498852,Repair Water Service Lateral,44.0
+PA498852,Boring Test Pit (Each Add'l),44.0
+PA498852,Boring Test Pit (Single),44.0
+PA498853,Repair Water Service Lateral,44.0
+PA498853,Boring Test Pit (Each Add'l),44.0
+PA498853,Boring Test Pit (Single),44.0
+PA498942,Repair Gas Main Line,0.0
+PA498869,Repair Gas Main Line,0.0
+PA498882,Repair Gas Main Line,0.0
+PA498903,Manhole Roof (Repair or Replace Only),11.0
+PA498909,Sewer ML (Trench),0.0
+PA498916,Sewer ML (Trench),0.0
+PA499021,Repair Water Service Lateral,16.0
+PA499021,Boring Test Pit (Each Add'l),16.0
+PA499021,Boring Test Pit (Single),16.0
+PA499030,Clean Out (Sewer),1.0
+PA499050,Repair Water Main Line,1.0
+PA499093,Repair Water Main Line,1.0
+PA499094,Repair Gas Main Line,0.0
+PA499101,Fire Hydrant(s),1.0
+PA499128,Repair Water Service Lateral,21.0
+PA499129,Repair Sewer Service Lateral,1.0
+PA499130,Repair Gas Main Line,1.0
+PA499143,Repair Gas Main Line,1.0
+PA498965,Repair Gas Main Line,0.0
+PA498846,Repair Water Service Lateral,26.0
+PA498846,Boring Test Pit (Each Add'l),26.0
+PA498846,Boring Test Pit (Single),26.0
+PA498847,Repair Water Service Lateral,26.0
+PA498847,Boring Test Pit (Each Add'l),26.0
+PA498847,Boring Test Pit (Single),26.0
+PA498849,Repair Water Service Lateral,26.0
+PA498849,Boring Test Pit (Each Add'l),26.0
+PA498849,Boring Test Pit (Single),26.0
+PA499190,Gas Connection (Trench),9.0
+PA499205,Electric Connection (Trench),54.0
+PA499216,Cathodic Protection,30.0
+PA499217,Gas Connection (Trench),16.0
+PA499218,Gas Connection (Trench),40.0
+PA499219,Gas Connection (Trench),3.0
+PA499220,Repair Gas Main Line,0.0
+PA499161,Repair Gas Main Line,0.0
+PA499162,Repair Gas Main Line,0.0
+PA499167,Repair Water Service Lateral,39.0
+PA499168,Repair Gas Main Line,0.0
+PA499170,Repair Gas Main Line,0.0
+PA499177,Gas Connection (Trench),13.0
+PA499178,Gas Connection (Trench),3.0
+PA499181,Gas Connection (Trench),16.0
+PA499182,Cathodic Protection,16.0
+PA499182,Gas Connection (Trench),16.0
+PA499183,Gas Connection (Trench),15.0
+PA499186,Cathodic Protection,15.0
+PA499188,Repair Gas Main Line,0.0
+PA499223,Gas Connection (Trench),22.0
+PA499230,Repair Water Service Lateral,13.0
+PA499232,Repair Water Service Lateral,13.0
+PA499237,Gas Connection (Trench),3.0
+PA499238,Gas Connection (Trench),31.0
+PA499239,DDOT Permit - DOEE Review,8.0
+PA499240,Gas Service Abandonment,3.0
+PA499241,Gas Service Abandonment,10.0
+PA499242,Gas Service Abandonment,30.0
+PA499243,Gas Connection (Trench),8.0
+PA499245,Gas Connection (Trench),22.0
+PA499247,Gas Service Abandonment,16.0
+PA499249,Gas Service Abandonment,16.0
+PA499262,Repair Gas Main Line,0.0
+PA499271,Repair Gas Main Line,0.0
+PA499275,Repair Water Service Lateral,38.0
+PA499276,Repair Water Service Lateral,12.0
+PA499277,Repair Water Service Lateral,12.0
+PA499185,Repair Sewer Service Lateral,0.0
+PA499185,Clean Out (Sewer),0.0
+PA499283,Gas Connection (Trench),6.0
+PA499286,Gas Connection (Trench),14.0
+PA499289,Repair Gas Main Line,0.0
+PA499290,Electric ML Conduit (Trench),17.0
+PA499291,Repair Gas Main Line,0.0
+PA499294,Clean Out (Sewer),0.0
+PA499296,Gas Connection (Trench),7.0
+PA499297,Manhole Frame and Cover (Adjust),0.0
+PA499298,Gas Connection (Trench),4.0
+PA499299,Repair Gas Main Line,0.0
+PA499300,Repair Sewer Service Lateral,0.0
+PA499302,Gas Service Abandonment,14.0
+PA499303,Repair Water Service Lateral,9.0
+PA499304,Gas Connection (Trench),5.0
+PA499312,Gas Connection (Trench),9.0
+PA499314,Repair Water Main Line,0.0
+PA499318,Gas Connection (Trench),9.0
+PA499327,Gas Connection (Trench),14.0
+PA499332,Electric Connection (Trench),29.0
+PA499334,Gas Connection (Trench),17.0
+PA499340,Gas Connection (Trench),4.0
+PA499343,Repair Gas Service (excavation),0.0
+PA499348,Gas Connection (Trench),18.0
+PA499349,Gas Connection (Trench),5.0
+PA499354,"Water Lateral Connection to 2"" (Trench)",23.0
+PA499354,"Water Meter Pit (to 2"" pipe)",23.0
+PA499354,Water Service Lateral Abandonment (Trench),23.0
+PA499358,Gas Connection (Trench),15.0
+PA499359,Gas Connection (Trench),15.0
+PA499360,Gas Service Abandonment,15.0
+PA499361,Gas Connection (Trench),5.0
+PA499367,Repair Water Service Lateral,41.0
+PA499367,Boring Test Pit (Each Add'l),41.0
+PA499367,Boring Test Pit (Single),41.0
+PA499368,Gas Connection (Trench),40.0
+PA499370,Gas Service Abandonment,21.0
+PA499371,Gas Connection (Trench),5.0
+PA499375,Repair Gas Main Line,1.0
+PA499377,Gas Connection (Trench),15.0
+PA499379,Electric ML Conduit (Trench),11.0
+PA499383,Gas Connection (Trench),5.0
+PA499279,Repair Gas Main Line,0.0
+PA499280,Repair Gas Main Line,0.0
+PA499409,Gas Connection (Trench),18.0
+PA499410,Repair Water Main Line,0.0
+PA499412,Gas Connection (Trench),4.0
+PA499425,Repair Water Main Line,0.0
+PA499389,Electric Connection (Trench),16.0
+PA499389,Manhole Installation,16.0
+PA499391,Gas Connection (Trench),4.0
+PA499393,Gas Connection (Trench),6.0
+PA499394,Gas Connection (Trench),31.0
+PA499397,Gas Connection (Trench),8.0
+PA499399,Gas Connection (Trench),14.0
+PA499401,Gas Connection (Trench),14.0
+PA499402,Gas Connection (Trench),20.0
+PA499404,Gas Connection (Trench),4.0
+PA499405,Gas Connection (Trench),4.0
+PA499406,Electric ML Conduit (Trench),8.0
+PA499416,Electric ML Conduit (Trench),18.0
+PA499431,Gas Connection (Trench),8.0
+PA499447,Repair Water Service Lateral,18.0
+PA499449,Repair Gas Main Line,0.0
+PA499433,Repair Water Service Lateral,0.0
+PA499434,Electric ML Conduit (Trench),8.0
+PA499435,Gas Connection (Trench),14.0
+PA499437,Gas Service Abandonment,8.0
+PA499438,Cathodic Protection,9.0
+PA499444,Gas Connection (Trench),30.0
+PA499451,Gas Connection (Trench),45.0
+PA499467,Gas Connection (Trench),14.0
+PA499470,Gas Service Abandonment,14.0
+PA499473,Gas Service Abandonment,14.0
+PA499474,Gas Connection (Trench),21.0
+PA499476,Gas Service Abandonment,21.0
+PA499477,Gas Connection (Trench),21.0
+PA499478,Gas Connection (Trench),14.0
+PA499479,Gas Connection (Trench),3.0
+PA499480,Cathodic Protection,3.0
+PA499481,Gas Connection (Trench),14.0
+PA499482,Cathodic Protection,14.0
+PA499483,Gas Connection (Trench),6.0
+PA499484,Repair Sewer Main Line,0.0
+PA499485,Gas Connection (Trench),14.0
+PA499486,Gas Service Abandonment,14.0
+PA499488,Gas Service Abandonment,14.0
+PA499489,Valves (Excavation),0.0
+PA499491,Cathodic Protection,6.0
+PA499492,Repair Storm Service Lateral,0.0
+PA499493,Repair Gas Main Line,0.0
+PA499494,Electric ML Conduit (Trench),14.0
+PA499495,Repair Sewer Main Line,1.0
+PA499497,Clean Out (Sewer),0.0
+PA499500,Valves (Excavation),0.0
+PA499502,Repair Water Service Lateral,24.0
+PA499505,Repair Water Service Lateral,13.0
+PA499507,Repair Water Service Lateral,8.0
+PA499510,Multiple House Connections (Utility Co. ONLY),3.0
+PA499511,Repair Water Service Lateral,22.0
+PA499511,Boring Test Pit (Each Add'l),22.0
+PA499511,Boring Test Pit (Single),22.0
+PA499461,Clean Out (Sewer),0.0
+PA499531,Repair Water Service Lateral,21.0
+PA499531,Boring Test Pit (Each Add'l),21.0
+PA499531,Boring Test Pit (Single),21.0
+PA499516,Multiple House Connections (Utility Co. ONLY),2.0
+PA499517,Repair Water Service Lateral,21.0
+PA499517,Boring Test Pit (Each Add'l),21.0
+PA499517,Boring Test Pit (Single),21.0
+PA499519,Multiple House Connections (Utility Co. ONLY),13.0
+PA499520,Repair Water Service Lateral,21.0
+PA499520,Boring Test Pit (Each Add'l),21.0
+PA499520,Boring Test Pit (Single),21.0
+PA499521,Gas Connection (Trench),2.0
+PA499392,Repair Gas Main Line,0.0
+PA499420,Repair Gas Service (excavation),0.0
+PA499430,Repair Gas Main Line,0.0
+PA499554,Repair Water Main Line,0.0
+PA499557,Repair Water Service Lateral,0.0
+PA499559,Catch Basin(s),0.0
+PA499563,Valves (Excavation),0.0
+PA499565,Repair Gas Main Line,0.0
+PA499566,Repair Sewer Service Lateral,0.0
+PA499567,Repair Sewer Service Lateral,0.0
+PA499567,Clean Out (Sewer),0.0
+PA499538,Boring Test Pit (Each Add'l),37.0
+PA499539,"Water Lateral Conn over 2"" Pipe (Trench)",23.0
+PA499539,Fire Hydrant(s),23.0
+PA499539,Multiple House Connections (Utility Co. ONLY),23.0
+PA499539,Repair Water Main Line,23.0
+PA499539,Valves (Excavation),23.0
+PA499540,Gas Connection (Trench),13.0
+PA499544,Repair Water Service Lateral,0.0
+PA499573,Repair Water Main Line,0.0
+PA499594,Repair Water Main Line,0.0
+PA499597,Repair Water Main Line,0.0
+PA499610,Repair Water Service Lateral,20.0
+PA499610,Boring Test Pit (Each Add'l),20.0
+PA499610,Boring Test Pit (Single),20.0
+PA499611,Repair Water Service Lateral,20.0
+PA499611,Boring Test Pit (Each Add'l),20.0
+PA499611,Boring Test Pit (Single),20.0
+PA499612,Repair Water Service Lateral,20.0
+PA499612,Boring Test Pit (Each Add'l),20.0
+PA499612,Boring Test Pit (Single),20.0
+PA499613,Repair Water Service Lateral,21.0
+PA499613,Boring Test Pit (Each Add'l),21.0
+PA499613,Boring Test Pit (Single),21.0
+PA499614,Repair Water Service Lateral,21.0
+PA499614,Boring Test Pit (Each Add'l),21.0
+PA499614,Boring Test Pit (Single),21.0
+PA499615,Repair Water Service Lateral,21.0
+PA499615,Boring Test Pit (Each Add'l),21.0
+PA499615,Boring Test Pit (Single),21.0
+PA499522,Repair Water Service Lateral,21.0
+PA499522,Boring Test Pit (Each Add'l),21.0
+PA499522,Boring Test Pit (Single),21.0
+PA499528,Repair Water Service Lateral,21.0
+PA499528,Boring Test Pit (Each Add'l),21.0
+PA499528,Boring Test Pit (Single),21.0
+PA499530,Repair Water Service Lateral,21.0
+PA499530,Boring Test Pit (Each Add'l),21.0
+PA499530,Boring Test Pit (Single),21.0
+PA499624,Electric ML Conduit (Trench),6.0
+PA499626,Repair Sewer Service Lateral,0.0
+PA499626,Repair Sewer Main Line,0.0
+PA499644,Repair Gas Main Line,0.0
+PA499659,Manhole Installation,16.0
+PA499659,Electric ML Conduit (Trench),16.0
+PA499662,Manhole Installation,16.0
+PA499662,Electric ML Conduit (Trench),16.0
+PA499663,Manhole Installation,16.0
+PA499663,Electric ML Conduit (Trench),16.0
+PA499664,Manhole Installation,15.0
+PA499664,Electric ML Conduit (Trench),15.0
+PA499665,Manhole Installation,12.0
+PA499665,Electric ML Conduit (Trench),12.0
+PA499678,Repair Gas Main Line,0.0
+PA499690,Repair Gas Main Line,1.0
+PA499680,Valves (Excavation),0.0
+PA499681,Valves (Excavation),0.0
+PA499682,Repair Water Main Line,0.0
+PA499687,Gas Connection (Trench),12.0
+PA499689,Gas Connection (Trench),14.0
+PA499696,Manhole Installation,13.0
+PA499623,Repair Gas Main Line,0.0
+PA499771,Electric Connection (Trench),13.0
+PA499777,Repair Water Service Lateral,12.0
+PA499778,Repair Gas Main Line,1.0
+PA499781,Repair Water Service Lateral,5.0
+PA499784,Repair Sewer Service Lateral,1.0
+PA499784,Clean Out (Sewer),1.0
+PA499786,Repair Water Service Lateral,14.0
+PA499791,Repair Water Service Lateral,2.0
+PA499706,Repair Water Service Lateral,30.0
+PA499706,Boring Test Pit (Each Add'l),30.0
+PA499706,Boring Test Pit (Single),30.0
+PA499708,Repair Water Service Lateral,26.0
+PA499708,Boring Test Pit (Each Add'l),26.0
+PA499708,Boring Test Pit (Single),26.0
+PA499715,Repair Sewer Service Lateral,0.0
+PA499715,Clean Out (Sewer),0.0
+PA499717,Boring Test Pit (Each Add'l),11.0
+PA499717,Boring Test Pit (Single),11.0
+PA499719,Valves (Excavation),0.0
+PA499723,Electric Connection (Trench),7.0
+PA499726,Repair Water Service Lateral,0.0
+PA499730,Repair Gas Main Line,0.0
+PA499731,Electric ML Conduit (Trench),5.0
+PA499734,Repair Gas Main Line,0.0
+PA499735,Repair Gas Main Line,0.0
+PA499748,Repair Gas Main Line,0.0
+PA499757,Repair Sewer Service Lateral,0.0
+PA499757,Clean Out (Sewer),0.0
+PA499759,Repair Water Main Line,0.0
+PA499763,Repair Water Service Lateral,14.0
+PA499764,Repair Gas Main Line,1.0
+PA499766,Repair Gas Main Line,1.0
+PA499795,Repair Gas Service (excavation),1.0
+PA499803,Gas Main Line (Trench),11.0
+PA499805,Manhole Installation,12.0
+PA499718,Repair Gas Main Line,0.0
+PA499722,Repair Gas Service (excavation),0.0
+PA499258,Boring Test Pit (Each Add'l),30.0
+PA499258,Boring Test Pit (Single),30.0
+PA499264,Boring Test Pit (Each Add'l),31.0
+PA499264,Boring Test Pit (Single),31.0
+PA499815,Fire Hydrant(s),0.0
+PA499826,Electric Connection (Trench),30.0
+PA499850,Valves (Excavation),0.0
+PA499855,Repair Gas Main Line,0.0
+PA499857,Repair Gas Main Line,0.0
+PA499859,Repair Gas Main Line,0.0
+PA499860,Electric Connection (Trench),14.0
+PA499863,Repair Gas Main Line,0.0
+PA499871,Repair Gas Main Line,0.0
+PA499873,Repair Gas Main Line,0.0
+PA499878,Repair Water Service Lateral,17.0
+PA499878,Boring Test Pit (Each Add'l),17.0
+PA499878,Boring Test Pit (Single),17.0
+PA499879,Repair Water Service Lateral,18.0
+PA499879,Boring Test Pit (Each Add'l),18.0
+PA499879,Boring Test Pit (Single),18.0
+PA499881,Repair Water Service Lateral,16.0
+PA499881,Boring Test Pit (Each Add'l),16.0
+PA499881,Boring Test Pit (Single),16.0
+PA499828,Repair Gas Main Line,0.0
+PA499833,Repair Gas Main Line,0.0
+PA499835,"Water Lateral Connection to 2"" (Trench)",11.0
+PA499835,"Water Meter Pit (to 2"" pipe)",11.0
+PA499835,Clean Out (Sewer),11.0
+PA499835,Water Service Lateral Abandonment (Trench),11.0
+PA499836,Repair Gas Main Line,0.0
+PA499838,Repair Gas Main Line,0.0
+PA499884,Repair Water Service Lateral,17.0
+PA499884,Boring Test Pit (Each Add'l),17.0
+PA499884,Boring Test Pit (Single),17.0
+PA499886,Repair Water Service Lateral,16.0
+PA499886,Boring Test Pit (Each Add'l),16.0
+PA499886,Boring Test Pit (Single),16.0
+PA499818,Repair Gas Main Line,0.0
+PA499935,Repair Gas Main Line,12.0
+PA499892,Repair Water Service Lateral,17.0
+PA499892,Boring Test Pit (Each Add'l),17.0
+PA499892,Boring Test Pit (Single),17.0
+PA499896,Telecom  Connection (Trench),15.0
+PA499899,Repair Sewer Service Lateral,0.0
+PA499899,Clean Out (Sewer),0.0
+PA499900,Repair Water Service Lateral,1.0
+PA499903,Repair Water Main Line,1.0
+PA499904,Gas Connection (Trench),8.0
+PA499905,Gas Service Abandonment,9.0
+PA499906,Repair Gas Main Line,0.0
+PA499908,Gas Connection (Trench),12.0
+PA499910,Gas Service Abandonment,11.0
+PA499947,Repair Gas Main Line,14.0
+PA499916,Gas Service Abandonment,12.0
+PA499918,Repair Gas Main Line,1.0
+PA499922,Repair Gas Main Line,1.0
+PA499923,Electric Connection (Trench),13.0
+PA499924,Repair Gas Main Line,11.0
+PA499929,Repair Gas Main Line,12.0
+PA499937,"Water Lateral Conn over 2"" Pipe (Trench)",10.0
+PA499937,Fire Hydrant(s),10.0
+PA499937,Multiple House Connections (Utility Co. ONLY),10.0
+PA499937,Repair Water Main Line,10.0
+PA499937,Valves (Excavation),10.0
+PA499946,Electric Connection (Trench),23.0
+PA499948,Repair Gas Main Line,26.0
+PA499949,Repair Gas Main Line,11.0
+PA499950,Repair Gas Main Line,12.0
+PA499952,Repair Gas Main Line,18.0
+PA499953,Repair Gas Main Line,11.0
+PA499954,Repair Gas Main Line,24.0
+PA499955,Electric Connection (Trench),23.0
+PA499956,Repair Gas Main Line,1.0
+PA499958,Gas Service Abandonment,9.0
+PA499961,Electric ML Conduit (Trench),11.0
+PA499962,Repair Gas Main Line,1.0
+PA499898,Repair Gas Main Line,0.0
+PA499911,Repair Gas Main Line,0.0
+PA499966,Repair Sewer Main Line,0.0
+PA499973,Electric Connection (Trench),15.0
+PA499984,Cathodic Protection,8.0
+PA499985,Cathodic Protection,8.0
+PA499987,Gas Service Abandonment,12.0
+PA499988,Repair Gas Service (excavation),0.0
+PA499992,Repair Gas Main Line,0.0
+PA499996,Repair Sewer Service Lateral,0.0
+PA499997,Repair Water Service Lateral,0.0
+PA499999,Repair Sewer Service Lateral,0.0
+PA499999,Clean Out (Sewer),0.0
+PA500000,Repair Water Service Lateral,0.0
+PA500004,Cathodic Protection,8.0
+PA500009,Gas Connection (Trench),26.0
+PA500011,Cathodic Protection,8.0
+PA500017,Repair Gas Main Line,1.0
+PA500018,Repair Sewer Service Lateral,1.0
+PA500020,Repair Water Main Line,1.0
+PA499976,Electric Connection (Trench),17.0
+PA499982,Repair Gas Main Line,0.0
+PA499951,"Storm Lateral Conn over 4"" (Trench)",41.0
+PA499951,Valves (Excavation),41.0
+PA499951,"Water Lateral Conn over 2"" Pipe (Trench)",41.0
+PA499951,Clean Out (Sewer),41.0
+PA500067,Repair Water Main Line,0.0
+PA500068,Repair Water Main Line,0.0
+PA500069,Clean Out (Sewer),0.0
+PA500071,Repair Sewer Main Line,0.0
+PA500072,Gas Service Abandonment,11.0
+PA500074,Cathodic Protection,16.0
+PA500075,Valves (Excavation),0.0
+PA500089,Gas Service Abandonment,7.0
+PA500101,Repair Gas Service (excavation),0.0
+PA500102,Repair Sewer Service Lateral,0.0
+PA500102,Clean Out (Sewer),0.0
+PA500106,Repair Gas Service (excavation),0.0
+PA500110,Gas Main Line (Trench),9.0
+PA500117,Repair Gas Main Line,0.0
+PA500121,Clean Out (Sewer),0.0
+PA500122,Gas Connection (Trench),6.0
+PA500128,Repair Gas Main Line,1.0
+PA500130,Electric ML Conduit (Trench),45.0
+PA500132,Clean Out (Sewer),1.0
+PA500149,Gas Service Abandonment,16.0
+PA500150,Gas Service Abandonment,7.0
+PA500152,Repair Water Main Line,0.0
+PA500157,Fire Hydrant(s),0.0
+PA500166,Repair Gas Main Line,0.0
+PA500176,Gas Main Line (Trench),17.0
+PA500176,Multiple House Connections (Utility Co. ONLY),17.0
+PA500176,Gas Main/Line Abandonment,17.0
+PA500196,Repair Gas Main Line,1.0
+PA500184,Repair Gas Main Line,0.0
+PA500185,Repair Gas Main Line,0.0
+PA500190,Fire Hydrant(s),0.0
+PA500192,Gas Service Abandonment,10.0
+PA500151,Repair Gas Service (excavation),0.0
+PA500155,Repair Gas Service (excavation),0.0
+PA500163,Repair Gas Main Line,0.0
+PA500224,Gas Connection (Trench),8.0
+PA500225,Repair Gas Main Line,0.0
+PA500228,Repair Water Service Lateral,15.0
+PA500228,Boring Test Pit (Each Add'l),15.0
+PA500228,Boring Test Pit (Single),15.0
+PA500229,Repair Water Service Lateral,15.0
+PA500229,Boring Test Pit (Each Add'l),15.0
+PA500229,Boring Test Pit (Single),15.0
+PA500238,Gas Connection (Trench),19.0
+PA500186,Manhole Installation,42.0
+PA500186,Storm Service Lateral Abandonment,42.0
+PA500186,"Sewer Lateral Connection over 4"" Pipe (Trench)",42.0
+PA500186,"Storm Lateral Conn over 4"" (Trench)",42.0
+PA500214,Repair Water Service Lateral,15.0
+PA500214,Boring Test Pit (Each Add'l),15.0
+PA500214,Boring Test Pit (Single),15.0
+PA500215,Clean Out (Sewer),0.0
+PA500217,Manhole Installation,21.0
+PA500217,Valves (Excavation),21.0
+PA500217,Water ML (Trench),21.0
+PA500257,Repair Gas Main Line,0.0
+PA500267,Repair Gas Main Line,0.0
+PA500206,Repair Gas Main Line,0.0
+PA500213,Repair Gas Main Line,0.0
+PA500258,"Water Lateral Connection to 2"" (Trench)",21.0
+PA500258,"Water Meter Pit (to 2"" pipe)",21.0
+PA500258,Water Service Lateral Abandonment (Trench),21.0
+PA500349,Valves (Excavation),0.0
+PA500326,Gas Connection (Trench),14.0
+PA500327,Gas Connection (Trench),34.0
+PA500328,Gas Connection (Trench),7.0
+PA500329,Manhole Installation,21.0
+PA500329,Electric ML Conduit (Trench),21.0
+PA500334,Manhole Installation,39.0
+PA500334,Water ML (Trench),39.0
+PA500334,"Water Lateral Conn over 2"" Pipe (Trench)",39.0
+PA500334,Storm Service Lateral Abandonment,39.0
+PA500334,"Storm Lateral Conn over 4"" (Trench)",39.0
+PA500334,Water Service Lateral Abandonment (Trench),39.0
+PA500334,Valves (Excavation),39.0
+PA500334,"Sewer Lateral Connection over 4"" Pipe (Trench)",39.0
+PA500334,Manhole Removal/Abandonment,39.0
+PA500344,Clean Out (Sewer),0.0
+PA500357,Fire Hydrant(s),0.0
+PA500366,Repair Sewer Service Lateral,1.0
+PA500396,Repair Sewer Service Lateral,1.0
+PA500400,Gas Connection (Trench),32.0
+PA500401,Electric ML Conduit (Trench),14.0
+PA500407,Repair Gas Service (excavation),10.0
+PA500411,Cathodic Protection,18.0
+PA500412,Gas Connection (Trench),10.0
+PA500414,Repair Gas Service (excavation),8.0
+PA500416,Repair Water Main Line,1.0
+PA500417,Repair Water Main Line,1.0
+PA500418,Repair Gas Service (excavation),4.0
+PA500423,Repair Water Service Lateral,0.0
+PA500424,Repair Water Main Line,0.0
+PA500426,Repair Water Main Line,0.0
+PA500435,Valves (Excavation),0.0
+PA500440,Electric ML Conduit (Trench),17.0
+PA500441,Repair Water Service Lateral,0.0
+PA500442,Repair Water Service Lateral,0.0
+PA500444,Cathodic Protection,24.0
+PA500446,Cathodic Protection,14.0
+PA500447,Gas Service Abandonment,8.0
+PA500448,Cathodic Protection,22.0
+PA500449,Cathodic Protection,17.0
+PA500450,Gas Connection (Trench),13.0
+PA500472,Electric ML Conduit (Trench),17.0
+PA500486,Cathodic Protection,15.0
+PA500488,Gas Connection (Trench),21.0
+PA500504,Electric ML Conduit (Trench),24.0
+PA500517,Repair Gas Service (excavation),2.0
+PA500519,Electric ML Conduit (Trench),14.0
+PA500522,Repair Water Main Line,2.0
+PA500523,Repair Gas Main Line,2.0
+PA500528,Electric ML Conduit (Trench),17.0
+PA500529,Repair Gas Main Line,2.0
+PA500530,Repair Water Service Lateral,14.0
+PA500531,Repair Water Service Lateral,17.0
+PA500532,Repair Water Service Lateral,17.0
+PA500533,Repair Water Service Lateral,24.0
+PA500534,Repair Gas Service (excavation),2.0
+PA500535,Repair Gas Main Line,4.0
+PA500325,Repair Gas Main Line,0.0
+PA500330,Repair Gas Main Line,0.0
+PA500331,Repair Gas Main Line,0.0
+PA500336,Repair Gas Main Line,0.0
+PA500338,Repair Gas Service (excavation),0.0
+PA500354,Repair Gas Service (excavation),0.0
+PA500398,Repair Gas Main Line,1.0
+PA500404,Repair Gas Service (excavation),1.0
+PA500405,Repair Gas Service (excavation),1.0
+PA500408,Repair Gas Main Line,1.0
+PA500437,Repair Gas Main Line,0.0
+PA500565,Valves (Excavation),1.0
+PA500567,Repair Sewer Service Lateral,1.0
+PA500567,Clean Out (Sewer),1.0
+PA500561,Fire Hydrant(s),1.0
+PA500562,Valves (Excavation),1.0
+PA500579,Repair Gas Main Line,1.0
+PA500581,Repair Gas Main Line,1.0
+PA500582,Repair Sewer Service Lateral,1.0
+PA500583,Repair Sewer Service Lateral,1.0
+PA500586,Repair Water Service Lateral,1.0
+PA500587,Repair Gas Main Line,1.0
+PA500591,Fire Hydrant(s),1.0
+PA500591,Manhole Installation,1.0
+PA500597,Repair Water Service Lateral,6.0
+PA500599,Fire Hydrant(s),1.0
+PA500600,Repair Sewer Service Lateral,1.0
+PA500600,Clean Out (Sewer),1.0
+PA500606,Repair Water Service Lateral,21.0
+PA500607,Repair Sewer Main Line,1.0
+PA500613,Repair Gas Service (excavation),1.0
+PA500618,Repair Gas Main Line,1.0
+PA500624,DDOT Permit - DOEE Review,13.0
+PA500626,Repair Gas Main Line,1.0
+PA500628,Repair Gas Main Line,1.0
+PA500569,Fire Hydrant(s),1.0
+PA500575,Repair Water Main Line,1.0
+PA500648,Repair Gas Main Line,1.0
+PA500630,Cathodic Protection,10.0
+PA500633,Gas Connection (Trench),28.0
+PA500637,Electric ML Conduit (Trench),13.0
+PA500638,Manhole Installation,25.0
+PA500638,Sewer Service Lateral Abandonment,25.0
+PA500638,"Water Lateral Conn over 2"" Pipe (Trench)",25.0
+PA500638,"Storm Lateral Conn over 4"" (Trench)",25.0
+PA500638,Water Service Lateral Abandonment (Trench),25.0
+PA500638,Vault(s) L'XW'XH',25.0
+PA500638,"Water Meter Pit (to 2"" pipe)",25.0
+PA500639,Repair Water Service Lateral,0.0
+PA500640,Cathodic Protection,15.0
+PA500642,Repair Sewer Service Lateral,0.0
+PA500642,Clean Out (Sewer),0.0
+PA500643,Gas Connection (Trench),11.0
+PA500644,Repair Gas Service (excavation),1.0
+PA500645,Gas Connection (Trench),8.0
+PA500646,Electric Connection (Trench),6.0
+PA500647,Gas Service Abandonment,14.0
+PA500649,Repair Sewer Service Lateral,0.0
+PA500650,Gas Service Abandonment,14.0
+PA500667,Electric Connection (Trench),16.0
+PA500671,Repair Gas Main Line,0.0
+PA500673,Repair Gas Main Line,1.0
+PA500676,Cathodic Protection,11.0
+PA500678,Valves (Excavation),0.0
+PA500679,Repair Gas Main Line,1.0
+PA500683,Repair Water Main Line,1.0
+PA500684,Valves (Excavation),1.0
+PA500699,Repair Gas Main Line,1.0
+PA500700,Repair Gas Main Line,1.0
+PA500701,Repair Gas Main Line,1.0
+PA500702,Repair Gas Main Line,1.0
+PA500655,Repair Sewer Service Lateral,0.0
+PA500662,Electric Connection (Trench),13.0
+PA500664,Boring Test Pit (Single),30.0
+PA498723,Gas Connection (Trench),50.0
+PA500736,Repair Water Service Lateral,20.0
+PA500736,Boring Test Pit (Each Add'l),20.0
+PA500736,Boring Test Pit (Single),20.0
+PA500739,Manhole Installation,14.0
+PA500739,Valves (Excavation),14.0
+PA500739,Water ML (Trench),14.0
+PA500741,Repair Water Service Lateral,1.0
+PA500742,Electric ML Conduit (Trench),20.0
+PA500743,Repair Water Service Lateral,1.0
+PA500745,Fire Hydrant(s),1.0
+PA500745,Valves (Excavation),1.0
+PA500746,Repair Sewer Service Lateral,1.0
+PA500746,Clean Out (Sewer),1.0
+PA500755,Repair Sewer Service Lateral,1.0
+PA500781,Electric Connection (Trench),34.0
+PA500782,"Water Lateral Connection to 2"" (Trench)",25.0
+PA500782,"Water Meter Pit (to 2"" pipe)",25.0
+PA500782,Water Service Lateral Abandonment (Trench),25.0
+PA500785,Repair Gas Main Line,0.0
+PA500793,Repair Gas Service (excavation),1.0
+PA500806,Repair Gas Main Line,1.0
+PA500796,Manhole Installation,19.0
+PA500796,Water ML (Trench),19.0
+PA500796,"Water Lateral Conn over 2"" Pipe (Trench)",19.0
+PA500796,Sewer ML (Trench),19.0
+PA500796,"Storm Lateral Conn over 4"" (Trench)",19.0
+PA500796,Vault(s) L'XW'XH',19.0
+PA500796,Valves (Excavation),19.0
+PA500796,"Sewer Lateral Connection over 4"" Pipe (Trench)",19.0
+PA500797,Electric Connection (Trench),14.0
+PA500798,Repair Gas Main Line,1.0
+PA500800,Repair Gas Service (excavation),8.0
+PA500807,Front Yard (In Public Space),17.0
+PA500724,Repair Gas Main Line,0.0
+PA500734,Repair Gas Service (excavation),0.0
+PA500810,"Storm Lateral Conn over 4"" (Trench)",9.0
+PA500810,Clean Out (Sewer),9.0
+PA500814,Gas Main Line (Trench),13.0
+PA500818,Fire Hydrant(s),0.0
+PA500820,Cathodic Protection,6.0
+PA500821,Fire Hydrant(s),0.0
+PA500831,Repair Gas Main Line,0.0
+PA500833,Electric ML Conduit (Trench),28.0
+PA500837,Repair Sewer Service Lateral,1.0
+PA500846,Valves (Excavation),1.0
+PA500847,Repair Gas Service (excavation),0.0
+PA500848,"Water Meter Pit (to 2"" pipe)",1.0
+PA500850,Repair Gas Main Line,3.0
+PA500851,Electric Connection (Trench),33.0
+PA500854,Repair Gas Service (excavation),1.0
+PA500855,Repair Gas Service (excavation),1.0
+PA500857,Repair Gas Main Line,1.0
+PA500859,Repair Water Service Lateral,1.0
+PA500834,Repair Gas Service (excavation),0.0
+PA500877,Repair Gas Main Line,0.0
+PA500881,Repair Water Service Lateral,1.0
+PA500886,Repair Water Main Line,1.0
+PA500895,Repair Water Main Line,1.0
+PA500899,Repair Sewer Service Lateral,1.0
+PA500899,Clean Out (Sewer),1.0
+PA500901,Repair Sewer Service Lateral,1.0
+PA500901,Clean Out (Sewer),1.0
+PA500902,Fire Hydrant(s),1.0
+PA500906,Repair Water Main Line,1.0
+PA500962,Electric Connection (Trench),13.0
+PA500977,Repair Gas Main Line,0.0
+PA500979,Repair Gas Main Line,0.0
+PA500989,Telecom ML Conduits (Trench),13.0
+PA500991,Repair Sewer Service Lateral,0.0
+PA501008,Valves (Excavation),1.0
+PA501014,Fire Hydrant(s),1.0
+PA501018,Repair Gas Main Line,0.0
+PA501020,Fire Hydrant(s),1.0
+PA501030,Repair Water Service Lateral,16.0
+PA501032,Repair Water Service Lateral,20.0
+PA501042,Repair Sewer Service Lateral,1.0
+PA501044,HANDHOLE,17.0
+PA501044,Telecom ML Conduits (Trench),17.0
+PA501045,Manhole Frame and Cover (Adjust),1.0
+PA501048,Repair Water Service Lateral,1.0
+PA501059,Cathodic Protection,10.0
+PA501061,Cathodic Protection,9.0
+PA501062,Cathodic Protection,13.0
+PA501065,Cathodic Protection,9.0
+PA501069,Repair Water Service Lateral,24.0
+PA501070,Cathodic Protection,13.0
+PA501072,Cathodic Protection,11.0
+PA501073,Valves (Excavation),0.0
+PA501074,Cathodic Protection,2.0
+PA501076,Repair Water Service Lateral,0.0
+PA501077,Cathodic Protection,35.0
+PA501078,Gas Service Abandonment,16.0
+PA501080,Gas Service Abandonment,7.0
+PA501081,Repair Gas Main Line,10.0
+PA501082,Cathodic Protection,11.0
+PA501116,Cathodic Protection,13.0
+PA501117,Cathodic Protection,6.0
+PA501118,Gas Service Abandonment,9.0
+PA501120,Valves (Excavation),0.0
+PA501122,Repair Water Service Lateral,0.0
+PA501123,Repair Sewer Service Lateral,0.0
+PA501124,Repair Sewer Service Lateral,0.0
+PA501124,Clean Out (Sewer),0.0
+PA501088,Cathodic Protection,6.0
+PA501094,Repair Gas Main Line,0.0
+PA501104,Gas Service Abandonment,21.0
+PA501067,Repair Gas Main Line,0.0
+PA501134,Repair Water Service Lateral,0.0
+PA501135,Repair Telecom Service (excavation),18.0
+PA501143,Repair Storm Service Lateral,1.0
+PA501146,Electric ML Conduit (Trench),10.0
+PA501147,Gas Service Abandonment,9.0
+PA501148,Cathodic Protection,11.0
+PA501157,Gas Main Line (Trench),12.0
+PA501164,Electric ML Conduit (Trench),10.0
+PA501177,Fire Hydrant(s),1.0
+PA501172,Repair Water Service Lateral,17.0
+PA501169,Repair Storm Service Lateral,1.0
+PA501175,Repair Water Service Lateral,14.0
+PA501173,Repair Water Service Lateral,1.0
+PA501179,Fire Hydrant(s),1.0
+PA501181,Cathodic Protection,11.0
+PA501182,Repair Gas Main Line,0.0
+PA501185,Gas Service Abandonment,12.0
+PA501196,Repair Gas Main Line,1.0
+PA501226,Manhole Installation,23.0
+PA501226,Telecom ML Conduits (Trench),23.0
+PA501231,"Water Lateral Connection to 2"" (Trench)",16.0
+PA501231,"Water Meter Pit (to 2"" pipe)",16.0
+PA501144,Repair Gas Main Line,0.0
+PA501165,Repair Water Service Lateral,
+PA501165,Boring Test Pit (Each Add'l),
+PA501165,Boring Test Pit (Single),
+PA501264,Electric Connection (Trench),14.0
+PA501281,Valves (Excavation),0.0
+PA501282,Repair Water Main Line,0.0
+PA501283,Fire Hydrant(s),0.0
+PA501284,Repair Water Service Lateral,0.0
+PA501285,Fire Hydrant(s),0.0
+PA501237,Cathodic Protection,9.0
+PA501238,Gas Service Abandonment,8.0
+PA501240,Repair Sewer Main Line,0.0
+PA501241,Repair Sewer Service Lateral,0.0
+PA501241,Clean Out (Sewer),0.0
+PA501242,Repair Sewer Service Lateral,0.0
+PA501242,Clean Out (Sewer),0.0
+PA501243,Repair Sewer Service Lateral,0.0
+PA501244,Repair Sewer Service Lateral,0.0
+PA501244,Clean Out (Sewer),0.0
+PA501247,Fire Hydrant(s),0.0
+PA501251,Repair Sewer Service Lateral,0.0
+PA501252,Repair Sewer Service Lateral,0.0
+PA501252,Clean Out (Sewer),0.0
+PA501257,Repair Electric Service (excavation),9.0
+PA501258,Repair Gas Service (excavation),0.0
+PA501260,Repair Water Service Lateral,22.0
+PA501267,Repair Gas Service (excavation),0.0
+PA501268,Repair Gas Service (excavation),0.0
+PA501272,Repair Gas Service (excavation),1.0
+PA501276,Repair Gas Service (excavation),0.0
+PA501277,Repair Gas Main Line,1.0
+PA501288,Valves (Excavation),0.0
+PA501289,Fire Hydrant(s),0.0
+PA501290,Repair Water Service Lateral,10.0
+PA501292,Valves (Excavation),1.0
+PA501303,Electric Connection (Trench),9.0
+PA501315,Repair Water Main Line,0.0
+PA501325,Repair Gas Service (excavation),0.0
+PA501327,Gas Connection (Trench),18.0
+PA501346,Repair Water Service Lateral,0.0
+PA501347,Repair Water Service Lateral,0.0
+PA501348,Repair Water Main Line,0.0
+PA501349,Repair Water Main Line,0.0
+PA501351,Repair Water Main Line,0.0
+PA501356,Manhole Frame and Cover (Adjust),0.0
+PA501357,Repair Gas Main Line,0.0
+PA501360,Repair Water Service Lateral,0.0
+PA501361,Repair Water Service Lateral,0.0
+PA501362,Electric Connection (Trench),19.0
+PA501362,Electric ML Conduit (Trench),19.0
+PA501363,Repair Sewer Service Lateral,0.0
+PA501363,Clean Out (Sewer),0.0
+PA501367,Telecom ML Conduits (Trench),24.0
+PA501328,Catch Basin(s),0.0
+PA501406,"Water Lateral Connection to 2"" (Trench)",31.0
+PA501406,"Water Meter Pit (to 2"" pipe)",31.0
+PA501406,"Sewer Lateral Connection over 4"" Pipe (Trench)",31.0
+PA501407,"Water Lateral Connection to 2"" (Trench)",13.0
+PA501407,"Water Meter Pit (to 2"" pipe)",13.0
+PA501418,Sewer Service Lateral Abandonment,4.0
+PA501418,"Sewer Lateral Connection to 4"" (Trench)",4.0
+PA501418,Water Service Lateral Abandonment (Trench),4.0
+PA501418,Clean Out (Sewer),4.0
+PA501418,"Water Lateral Connection to 2"" (Trench)",4.0
+PA501418,"Water Meter Pit (to 2"" pipe)",4.0
+PA501419,Repair Telecom Service (excavation),25.0
+PA501424,Repair Gas Service (excavation),0.0
+PA501427,Repair Gas Main Line,0.0
+PA501428,Repair Gas Main Line,0.0
+PA501431,Storm Service Lateral Abandonment,20.0
+PA501431,Water Service Lateral Abandonment (Trench),20.0
+PA501432,Repair Gas Main Line,1.0
+PA501435,Repair Gas Main Line,7.0
+PA501434,Repair Gas Service (excavation),11.0
+PA501437,Repair Gas Service (excavation),14.0
+PA501439,Repair Gas Main Line,7.0
+PA501441,Repair Gas Main Line,0.0
+PA501443,Repair Gas Service (excavation),4.0
+PA501444,Repair Gas Service (excavation),7.0
+PA501445,Repair Gas Main Line,0.0
+PA501446,Repair Gas Main Line,0.0
+PA501448,Repair Water Service Lateral,0.0
+PA501453,Valves (Excavation),0.0
+PA501455,Manhole Frame and Cover (Adjust),1.0
+PA501456,Repair Sewer Service Lateral,1.0
+PA501457,Gas Service Abandonment,9.0
+PA501458,Fire Hydrant(s),1.0
+PA501459,Repair Water Main Line,1.0
+PA501461,Repair Gas Main Line,1.0
+PA501462,Repair Water Main Line,1.0
+PA501463,Boring Test Pit (Each Add'l),17.0
+PA501463,Boring Test Pit (Single),17.0
+PA501469,Boring Test Pit (Each Add'l),12.0
+PA501469,Boring Test Pit (Single),12.0
+PA501465,Fire Hydrant(s),1.0
+PA501466,Repair Storm Main Line,1.0
+PA501470,Boring Test Pit (Each Add'l),12.0
+PA501470,Boring Test Pit (Single),12.0
+PA501473,Boring Test Pit (Each Add'l),15.0
+PA501473,Boring Test Pit (Single),15.0
+PA501471,Repair Sewer Service Lateral,1.0
+PA501471,Clean Out (Sewer),1.0
+PA501475,Boring Test Pit (Each Add'l),15.0
+PA501475,Boring Test Pit (Single),15.0
+PA501479,Boring Test Pit (Each Add'l),12.0
+PA501479,Boring Test Pit (Single),12.0
+PA501481,Boring Test Pit (Each Add'l),13.0
+PA501481,Boring Test Pit (Single),13.0
+PA501484,Boring Test Pit (Each Add'l),23.0
+PA501484,Boring Test Pit (Single),23.0
+PA501485,Boring Test Pit (Each Add'l),17.0
+PA501485,Boring Test Pit (Single),17.0
+PA501486,Repair Gas Main Line,1.0
+PA501488,Boring Test Pit (Each Add'l),17.0
+PA501488,Boring Test Pit (Single),17.0
+PA501489,Boring Test Pit (Each Add'l),17.0
+PA501489,Boring Test Pit (Single),17.0
+PA501490,Repair Gas Main Line,1.0
+PA501514,Repair Telecom ML Conduit,15.0
+PA501515,Electric Connection (Trench),12.0
+PA501515,Manhole Installation,12.0
+PA501515,Manhole Removal/Abandonment,12.0
+PA501517,Repair Gas Service (excavation),0.0
+PA501518,Repair Sewer Service Lateral,0.0
+PA501518,Clean Out (Sewer),0.0
+PA501523,Gas Connection (Trench),3.0
+PA501526,Gas Connection (Trench),13.0
+PA501529,Repair Gas Main Line,0.0
+PA501531,Repair Gas Main Line,0.0
+PA501533,Repair Gas Main Line,0.0
+PA501541,Repair Water Main Line,0.0
+PA501542,Repair Gas Main Line,0.0
+PA501543,Repair Water Main Line,0.0
+PA501545,Fire Hydrant(s),0.0
+PA501546,Repair Water Service Lateral,0.0
+PA501547,Repair Sewer Service Lateral,0.0
+PA501549,Repair Gas Main Line,0.0
+PA501550,Repair Sewer Service Lateral,0.0
+PA501551,Valves (Excavation),0.0
+PA501554,Repair Gas Main Line,0.0
+PA501555,Repair Gas Main Line,17.0
+PA501438,Bar & Test Boring,
+PA501571,Gas Service Abandonment,17.0
+PA501572,Repair Gas Main Line,0.0
+PA501577,Repair Gas Service (excavation),0.0
+PA501578,Repair Gas Main Line,0.0
+PA501590,Electric Connection (Trench),14.0
+PA501592,Repair Water Service Lateral,12.0
+PA501594,Clean Out (Sewer),0.0
+PA501596,Repair Gas Main Line,11.0
+PA501602,Repair Gas Service (excavation),0.0
+PA501603,Repair Gas Main Line,0.0
+PA501605,Repair Gas Main Line,1.0
+PA501606,Repair Gas Main Line,1.0
+PA501608,Valves (Excavation),1.0
+PA501609,Repair Sewer Main Line,1.0
+PA501610,Repair Gas Main Line,1.0
+PA501611,Repair Gas Main Line,1.0
+PA501559,Repair Gas Main Line,0.0
+PA501563,Repair Gas Service (excavation),0.0
+PA501575,Repair Gas Service (excavation),0.0
+PA501619,Repair Water Main Line,0.0
+PA501621,Repair Water Main Line,0.0
+PA501622,Repair Sewer Service Lateral,0.0
+PA501624,Clean Out (Sewer),0.0
+PA501634,Electric ML Conduit (Trench),5.0
+PA501668,Repair Gas Main Line,0.0
+PA501671,Repair Sewer Service Lateral,0.0
+PA501671,Clean Out (Sewer),0.0
+PA501683,Repair Gas Main Line,0.0
+PA501684,Repair Water Service Lateral,0.0
+PA501685,Repair Water Service Lateral,0.0
+PA501687,Valves (Excavation),0.0
+PA501689,Repair Gas Main Line,0.0
+PA501695,Repair Gas Main Line,0.0
+PA501698,Repair Gas Main Line,1.0
+PA501701,Repair Gas Main Line,1.0
+PA501704,Repair Gas Service (excavation),22.0
+PA501631,Repair Gas Service (excavation),0.0
+PA501643,Repair Gas Service (excavation),0.0
+PA501714,HANDHOLE,16.0
+PA501715,Valves (Excavation),0.0
+PA501767,Repair Gas Service (excavation),0.0
+PA501772,Repair Gas Service (excavation),0.0
+PA501794,Repair Water Main Line,0.0
+PA501797,Repair Gas Main Line,0.0
+PA501801,Repair Gas Main Line,0.0
+PA501803,Manhole Installation,19.0
+PA501803,Electric ML Conduit (Trench),19.0
+PA501805,Manhole Installation,21.0
+PA501805,Electric ML Conduit (Trench),21.0
+PA501730,Repair Gas Main Line,0.0
+PA501831,Clean Out (Sewer),0.0
+PA501839,Repair Water Service Lateral,0.0
+PA501843,Repair Sewer Main Line,0.0
+PA501901,Repair Gas Main Line,0.0
+PA501882,Repair Water Service Lateral,0.0
+PA501893,Gas Connection (Trench),13.0
+PA501897,Gas Connection (Trench),13.0
+PA501898,Repair Gas Service (excavation),0.0
+PA501902,Repair Gas Service (excavation),0.0
+PA501924,Repair Gas Service (excavation),0.0
+PA501929,Valves (Excavation),0.0
+PA501942,Gas Connection (Trench),13.0
+PA501943,Gas Connection (Trench),13.0
+PA501947,Repair Gas Main Line,0.0
+PA501948,Repair Gas Service (excavation),0.0
+PA501953,Repair Gas Service (excavation),0.0
+PA501972,Repair Gas Service (excavation),1.0
+PA501974,Repair Gas Service (excavation),1.0
+PA501973,Fire Hydrant(s),0.0
+PA501979,Telecom ML Conduits (Trench),15.0
+PA501983,Repair Sewer Service Lateral,0.0
+PA501983,Clean Out (Sewer),0.0
+PA501985,Repair Water Service Lateral,0.0
+PA501986,Clean Out (Sewer),0.0
+PA501990,Repair Gas Service (excavation),0.0
+PA501996,Gas Connection (Trench),11.0
+PA501997,Repair Gas Main Line,0.0
+PA502002,Repair Gas Main Line,0.0
+PA502003,Gas Connection (Trench),19.0
+PA502018,Repair Gas Main Line,0.0
+PA502022,Electric Connection (Trench),15.0
+PA502023,Repair Gas Main Line,0.0
+PA502024,Valves (Excavation),0.0
+PA502030,Boring Test Pit (Each Add'l),14.0
+PA502030,Boring Test Pit (Single),14.0
+PA502032,Repair Gas Main Line,0.0
+PA502039,Boring Test Pit (Each Add'l),15.0
+PA502039,Boring Test Pit (Single),15.0
+PA502037,Repair Water Service Lateral,1.0
+PA502038,Valves (Excavation),1.0
+PA502044,Repair Gas Main Line,1.0
+PA502046,Boring Test Pit (Each Add'l),14.0
+PA502046,Boring Test Pit (Single),14.0
+PA501980,Repair Gas Service (excavation),0.0
+PA501981,Repair Gas Main Line,0.0
+PA502056,Electric ML Conduit (Trench),21.0
+PA502383,Gas Connection (Trench),16.0
+PA502425,Repair Water Main Line,1.0
+PA502426,Repair Sewer Service Lateral,1.0
+PA502426,Clean Out (Sewer),1.0
+PA502439,Boring Test Pit (Each Add'l),18.0
+PA502456,Clean Out (Sewer),1.0
+PA502458,Clean Out (Sewer),1.0
+PA502459,Repair Water Service Lateral,1.0
+PA502461,Manhole Frame and Cover (Adjust),1.0
+PA502508,Repair Telecom ML Conduit,14.0
+PA502524,Repair Telecom ML Conduit,14.0
+PA502529,Repair Gas Main Line,12.0
+PA502553,Gas Connection (Trench),13.0
+PA502561,Repair Telecom Service (excavation),13.0
+PA502571,"Water Meter Pit (to 2"" pipe)",1.0
+PA502583,Fire Hydrant(s),1.0
+PA502585,Repair Sewer Service Lateral,0.0
+PA502585,Clean Out (Sewer),0.0
+PA502591,Boring Test Pit (Each Add'l),9.0
+PA502591,Boring Test Pit (Single),9.0
+PA502594,Boring Test Pit (Each Add'l),8.0
+PA502594,Boring Test Pit (Single),8.0
+PA502597,Repair Water Service Lateral,1.0
+PA502608,Repair Water Service Lateral,1.0
+PA502609,Gas Connection (Trench),12.0
+PA502610,Electric Connection (Trench),15.0
+PA502610,Manhole Installation,15.0
+PA502612,Gas Connection (Trench),12.0
+PA502614,Gas Connection (Trench),12.0
+PA502616,Gas Connection (Trench),11.0
+PA502620,Cathodic Protection,5.0
+PA502636,DDOT Permit - DOEE Review,13.0
+PA502652,Repair Gas Main Line,14.0
+PA502653,Valves (Excavation),1.0
+PA502654,Clean Out (Sewer),1.0
+PA502658,Repair Gas Service (excavation),12.0
+PA502660,Valves (Excavation),1.0
+PA502681,Telecom ML Conduits (Trench),17.0
+PA502683,Cathodic Protection,16.0
+PA502696,Gas Service Abandonment,13.0
+PA502697,Repair Gas Main Line,7.0
+PA502698,Gas Service Abandonment,13.0
+PA502701,Repair Gas Main Line,7.0
+PA502703,Repair Gas Main Line,11.0
+PA502710,Repair Gas Service (excavation),15.0
+PA502731,Gas Connection (Trench),12.0
+PA502737,Gas Service Abandonment,16.0
+PA502771,Repair Gas Service (excavation),10.0
+PA502837,Repair Water Service Lateral,1.0
+PA502838,Valves (Excavation),1.0
+PA502863,Gas Service Abandonment,14.0
+PA502884,Gas Connection (Trench),16.0
+PA502912,Repair Sewer Service Lateral,1.0
+PA502913,Repair Sewer Service Lateral,1.0
+PA503009,Repair Gas Main Line,11.0
+PA503083,Manhole Frame and Cover (Adjust),10.0
+PA503088,Cathodic Protection,8.0
+PA503088,Gas Connection (Trench),8.0
+PA503094,Cathodic Protection,14.0
+PA503097,Valves (Excavation),1.0
+PA503104,Repair Gas Main Line,9.0
+PA503132,Repair Sewer Service Lateral,0.0
+PA503132,Clean Out (Sewer),0.0
+PA503133,Gas Connection (Trench),13.0
+PA503135,Clean Out (Sewer),0.0
+PA503140,Repair Sewer Service Lateral,0.0
+PA503142,Clean Out (Sewer),1.0
+PA503154,Gas Service Abandonment,14.0
+PA503154,Gas Connection (Trench),14.0
+PA503155,Multiple House Connections (Utility Co. ONLY),14.0
+PA503162,Gas Connection (Trench),14.0
+PA503182,Multiple House Connections (Utility Co. ONLY),8.0
+PA503183,Water Service Lateral Abandonment (Trench),1.0
+PA503214,Repair Water Service Lateral,1.0
+PA503215,Gas Regulating Station,9.0
+PA503215,Repair Gas Main Line,9.0
+PA503217,Repair Water Main Line,1.0
+PA503221,Repair Gas Service (excavation),13.0
+PA503223,Electric Connection (Trench),13.0
+PA503245,Gas Service Abandonment,7.0
+PA503247,Valves (Excavation),0.0
+PA502147,Repair Water Service Lateral,10.0
+PA502169,"Water Lateral Connection to 2"" (Trench)",14.0
+PA502169,"Water Meter Pit (to 2"" pipe)",14.0
+PA502169,Water Service Lateral Abandonment (Trench),14.0
+PA503342,Repair Water Service Lateral,0.0
+PA503351,Fire Hydrant(s),0.0
+PA503351,Valves (Excavation),0.0
+PA503353,Repair Water Service Lateral,0.0
+PA503356,Repair Water Service Lateral,1.0
+PA503599,Clean Out (Sewer),0.0
+PA503703,Repair Sewer Main Line,0.0
+PA503750,Gas Service Abandonment,6.0
+PA503781,Clean Out (Sewer),0.0
+PA503790,Valves (Excavation),0.0
+PA503797,Repair Water Main Line,0.0
+PA503802,Repair Sewer Service Lateral,0.0
+PA503832,Valves (Excavation),0.0
+PA503840,Repair Sewer Service Lateral,0.0
+PA503840,Clean Out (Sewer),0.0
+PA503844,Fire Hydrant(s),0.0
+PA503855,Valves (Excavation),0.0
+PA503859,Repair Water Service Lateral,0.0
+PA503862,Repair Sewer Service Lateral,0.0
+PA503863,Repair Water Service Lateral,0.0
+PA503865,Repair Water Main Line,1.0
+PA503868,Repair Sewer Service Lateral,1.0
+PA503876,Repair Sewer Main Line,1.0
+PA503878,Catch Basin(s),1.0
+PA503879,Repair Sewer Service Lateral,1.0
+PA503879,Clean Out (Sewer),1.0
+PA503880,Manhole Removal/Abandonment,1.0
+PA503893,Repair Sewer Main Line,0.0
+PA503891,Repair Water Service Lateral,0.0
+PA503896,Repair Water Main Line,0.0
+PA503916,Repair Water Service Lateral,1.0
+PA503919,Repair Water Main Line,1.0
+PA503921,Repair Sewer Service Lateral,1.0
+PA503921,Clean Out (Sewer),1.0
+PA503922,Repair Sewer Service Lateral,1.0
+PA503923,Repair Sewer Service Lateral,1.0
+PA502048,Repair Sewer Service Lateral,0.0
+PA502048,Clean Out (Sewer),0.0
+PA502051,Repair Gas Service (excavation),0.0
+PA502055,Repair Gas Service (excavation),0.0
+PA502058,Valves (Excavation),1.0
+PA502062,Repair Sewer Main Line,1.0
+PA502063,Clean Out (Sewer),1.0
+PA502069,Repair Sewer Service Lateral,0.0
+PA502069,Clean Out (Sewer),0.0
+PA502087,Repair Gas Service (excavation),0.0
+PA502089,Repair Water Main Line,1.0
+PA502091,Repair Gas Main Line,0.0
+PA502093,Repair Sewer Service Lateral,1.0
+PA502097,Repair Sewer Main Line,1.0
+PA502098,Repair Gas Main Line,0.0
+PA502099,Repair Gas Main Line,0.0
+PA502100,Electric ML Conduit (Trench),13.0
+PA502108,Repair Gas Main Line,1.0
+PA502110,Repair Gas Main Line,1.0
+PA502121,Repair Water Main Line,0.0
+PA502122,Repair Gas Main Line,0.0
+PA502124,Repair Gas Main Line,0.0
+PA502127,Repair Gas Main Line,0.0
+PA502129,Repair Gas Service (excavation),0.0
+PA502145,Electric Connection (Trench),5.0
+PA502148,Clean Out (Sewer),0.0
+PA502150,Manhole Installation,0.0
+PA502153,Repair Water Main Line,0.0
+PA502154,Repair Water Main Line,2.0
+PA502155,Repair Water Main Line,2.0
+PA502156,Manhole Frame and Cover (Adjust),1.0
+PA502159,Repair Water Main Line,2.0
+PA502160,Repair Water Service Lateral,2.0
+PA502162,Repair Water Main Line,2.0
+PA502164,Manhole Installation,2.0
+PA502166,Repair Gas Service (excavation),1.0
+PA502179,Repair Sewer Service Lateral,1.0
+PA502179,Clean Out (Sewer),1.0
+PA502186,Repair Gas Main Line,0.0
+PA502202,Repair Water Service Lateral,0.0
+PA502246,Repair Storm Main Line,0.0
+PA502270,Repair Water Service Lateral,0.0
+PA502279,Repair Water Main Line,0.0
+PA502293,Valves (Excavation),0.0
+PA502303,Valves (Excavation),0.0
+PA502304,Repair Water Service Lateral,0.0
+PA502308,Repair Sewer Main Line,0.0
+PA502313,Valves (Excavation),0.0
+PA502314,Valves (Excavation),0.0
+PA502315,Repair Water Main Line,0.0
+PA502369,Fire Hydrant(s),1.0
+PA502371,Repair Water Service Lateral,1.0
+PA502386,Repair Gas Main Line,9.0
+PA502404,Valves (Excavation),1.0
+PA502398,Repair Water Main Line,1.0
+PA502475,Repair Gas Main Line,0.0
+PA502481,Repair Gas Service (excavation),0.0
+PA502483,Repair Gas Service (excavation),0.0
+PA502488,Repair Gas Service (excavation),0.0
+PA502499,Repair Gas Main Line,0.0
+PA502502,Repair Gas Main Line,0.0
+PA502581,Repair Gas Main Line,1.0
+PA502582,Repair Gas Main Line,1.0
+PA502596,Repair Sewer Service Lateral,1.0
+PA502621,Repair Gas Main Line,0.0
+PA502622,Repair Gas Service (excavation),0.0
+PA502740,Gas Service Abandonment,7.0
+PA502407,Repair Gas Main Line,0.0
+PA502438,Repair Gas Service (excavation),1.0
+PA502443,Repair Gas Main Line,1.0
+PA502463,Fire Hydrant(s),1.0
+PA502644,Repair Gas Service (excavation),0.0
+PA502665,Repair Gas Service (excavation),0.0
+PA502675,Repair Gas Service (excavation),0.0
+PA502702,Repair Gas Main Line,1.0
+PA502839,Manhole Frame and Cover (Adjust),1.0
+PA502860,Repair Gas Service (excavation),0.0
+PA502862,Repair Gas Service (excavation),0.0
+PA502867,Repair Gas Main Line,0.0
+PA502901,Repair Gas Main Line,0.0
+PA503096,Gas Service Abandonment,5.0
+PA503107,Repair Gas Service (excavation),1.0
+PA503195,Repair Gas Main Line,0.0
+PA503203,Repair Gas Service (excavation),0.0
+PA503211,Repair Gas Main Line,0.0
+PA503213,Repair Gas Service (excavation),0.0
+PA503216,Repair Gas Main Line,5.0
+PA503219,Repair Gas Service (excavation),0.0
+PA503219,Repair Gas Main Line,0.0
+PA503257,Repair Gas Main Line,0.0
+PA503281,Gas Connection (Trench),3.0
+PA503303,Repair Gas Main Line,0.0
+PA503345,Repair Gas Service (excavation),0.0
+PA503506,Repair Gas Service (excavation),0.0
+PA503670,Repair Gas Service (excavation),0.0
+PA503682,Valves (Excavation),1.0
+PA503782,Repair Gas Service (excavation),0.0
+PA503798,Repair Gas Service (excavation),0.0
+PA503906,Repair Gas Service (excavation),0.0
+PA503315,Boring Test Pit (Each Add'l),11.0
+PA503315,DDOT Permit - DOEE Review,11.0
+PA503965,"Storm Lateral Conn over 4"" (Trench)",6.0
+PA503965,"Sewer Lateral Connection to 4"" (Trench)",6.0
+PA503965,Clean Out (Sewer),6.0
+PA503965,"Water Lateral Connection to 2"" (Trench)",6.0
+PA503965,"Water Meter Pit (to 2"" pipe)",6.0
+PA503957,Repair Gas Service (excavation),0.0
+PA504077,Repair Sewer Service Lateral,0.0
+PA504077,Clean Out (Sewer),0.0
+PA504098,Repair Gas Service (excavation),1.0
+PA504096,Repair Gas Service (excavation),0.0
+PA504123,Repair Gas Main Line,0.0
+PA504124,Repair Gas Service (excavation),0.0
+PA504155,Repair Gas Main Line,0.0
+PA504156,Repair Gas Service (excavation),0.0
+PA504170,Repair Gas Service (excavation),0.0
+PA504206,Gas Service Abandonment,3.0
+PA504308,Repair Gas Service (excavation),0.0
+PA504353,Repair Gas Service (excavation),0.0
+PA504442,Repair Gas Service (excavation),0.0

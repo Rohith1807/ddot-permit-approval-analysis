@@ -1,0 +1,1368 @@
+{
+  "currentVersion": 11.5,
+  "cimVersion": "3.5.0",
+  "id": 23,
+  "name": "DDOT - Public Space Construction Permits - Status",
+  "type": "Feature Layer",
+  "description": "Construction Permits. A single point representing each permit which is extracted from Transportation Online Permitting System. The extraction is performed every night under the Transportation Integrated Enterpise System (TIES) framework ETL process.This dataset is stored and exported in WGS_1984_Web_Mercator_Auxiliary_Sphere - WKID: 3857 Authority: EPSG.METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "geometryType": "esriGeometryPoint",
+  "sourceSpatialReference": {
+    "wkid": 102100,
+    "latestWkid": 3857,
+    "xyTolerance": 0.001,
+    "zTolerance": 0.001,
+    "mTolerance": 0.001,
+    "falseX": -20037700,
+    "falseY": -30241100,
+    "xyUnits": 10000,
+    "falseZ": 0,
+    "zUnits": 1,
+    "falseM": 0,
+    "mUnits": 1
+  },
+  "spatialReference": {
+    "wkid": 102100,
+    "latestWkid": 3857,
+    "xyTolerance": 0.001,
+    "zTolerance": 0.001,
+    "mTolerance": 0.001,
+    "falseX": -20037700,
+    "falseY": -30241100,
+    "xyUnits": 144005822.14147583,
+    "falseZ": -100000,
+    "zUnits": 10000,
+    "falseM": -100000,
+    "mUnits": 10000
+  },
+  "copyrightText": "DDOT",
+  "parentLayer": {
+    "id": 0,
+    "name": "Toggleable Layers"
+  },
+  "subLayers": [],
+  "minScale": 0,
+  "maxScale": 0,
+  "referenceScale": 0.0,
+  "drawingInfo": {
+    "renderer": {
+      "type": "uniqueValue",
+      "field1": "StatusDescription",
+      "uniqueValueGroups": [
+        {
+          "heading": "",
+          "classes": [
+            {
+              "label": "PERMIT EXPIRED",
+              "description": "PERMIT EXPIRED",
+              "symbol": {
+                "type": "esriPMS",
+                "url": "be208d61f2459369440c97d5af9acd07",
+                "imageData": "iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAYAAADgKtSgAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA9klEQVRIid3UMSuFURgH8N/RHa4wWUwyWZUUmyLFZmS0KsmEumWhZJDFrCSTr+ALGC3KKF9AUrI8et07GO697733fW90/3VOnXPq99TTOaeij6kMDH6N5wLeGPZb4Rl8XACvDWbP/w4PRhIffcFxExwlHkvFgyWso4q10vBgCOeN5WqwnLgvBccWZn6tz4K59FO3AB6MNnlYs9jEbSEch5hosn8S3CW+esKDSey1OJ7CNi56wnGK4TbnteAq8dYVHixgI6f4OA4arescV796SX52g8vEax6+mE1VKvM8qY/cvLCDd0y3w1ey6RMPnag5+T+/Yrf5BjAKK5y+dQ97AAAAAElFTkSuQmCC",
+                "contentType": "image/png",
+                "width": 17,
+                "height": 17,
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0
+              },
+              "values": [
+                [
+                  "Permit Expired"
+                ]
+              ]
+            },
+            {
+              "label": "APPROVED (PENDING PAYMENT)",
+              "description": "APPROVED (PENDING PAYMENT)",
+              "symbol": {
+                "type": "esriPMS",
+                "url": "1f8c388eb8fa43e1ebced14839cbd2f9",
+                "imageData": "iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAYAAADgKtSgAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABMUlEQVRIieXUMUvDQBiA4ffaROrgKCRqV/UfODq5SKOLs7u46GQVBS3ipOAoIg4uIhUsbXHoH9D+AlEXQZqqq0gVSU5OCtLSSyKxg/qO+fI9gSOcQRcz/gx+BNzE8PqAJR2u4M0Y+GrosUw+MJbwuYwI3vd6jOTTNNoHHfFzi2rG5RSYCZMFZDvBWvwzjxWRZFqCiSYB1ZLNsW6uxctpbjM19hHM696RPosI5LdxlZkk9+4z2/wLWhOclIe4IKBA/MziyamzLSUbbaNXA7JBu6G46k2w0yOZAyy+2i3Y3BEXr1i8OC7rEvaajx4TJlthe5FwVcrmoFFnARgF1or9PPNTeF7gOS7LQC5lcxhlJzKuKg1QmKpxpT5EN27F4iDX//M+H4/pDQfhEzHxln7vmX8A7YBHdKUFzFUAAAAASUVORK5CYII=",
+                "contentType": "image/png",
+                "width": 17,
+                "height": 17,
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0
+              },
+              "values": [
+                [
+                  "Approved (Pending Payment)"
+                ]
+              ]
+            },
+            {
+              "label": "ISSUED",
+              "description": "ISSUED",
+              "symbol": {
+                "type": "esriPMS",
+                "url": "846553ed77b509c41b3d6e3184ebcd43",
+                "imageData": "iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAYAAADgKtSgAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABI0lEQVRIid3VPUvDQByA8edoRaE4CYVQ3ERdXYqbk7NTFGoqgoOrCKKIgqD4MombdColLULBj+HgN9BJKOG6dHERRPOX+DIopr1656DPGI7fHXeXJMsvlv03eA24tfCGgc00PIEPLPAd99tS0kUa3vXXx3Z40BqDzCGIDyg3eLmdR2QXZBUYSBvWH15u5xBZR+KN98PrmhnuS4YhvYLEe4Bnupbe+FI0h+hjhElT1AwPoglitQ/9w73xsHCDL1NvW0IySd4dntRUz0CFxc4F6nEbZA0YxCDz21IfuQe2WNbnPMUnoObd4R9VvTtggSA6Q6lThCIp/fwNDQtXINMEuoTiyC3+mhJC6vitS77JzYerOfpggs9YTjPeDZ+1xD/1d/+hL0dySHGoMFHSAAAAAElFTkSuQmCC",
+                "contentType": "image/png",
+                "width": 17,
+                "height": 17,
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0
+              },
+              "values": [
+                [
+                  "Issued"
+                ]
+              ]
+            },
+            {
+              "label": "PENDING",
+              "description": "PENDING",
+              "symbol": {
+                "type": "esriPMS",
+                "url": "d22b5bd7e9790ec91eaae1c239bdfdce",
+                "imageData": "iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAYAAADgKtSgAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABKElEQVRIid3VoUsDURzA8e+7HQOD3eLiWLSaTP4Blrs9mStmgwYVZphM0WQQjIIY9C6ZDWpTLNaBSdDoMURFdoz7yYUDDz3dcc+g3/bC+7wX3o9n84vZ/wY/BG4LeKPAShYewxsF8LWPixReLmOHIcZK4ZUK450Ol8Ci1lwbxeOUYhK48jyORVjVmntjeHIGMKsUM57HjmWx7Ti8mMKTRoBWFDHv+7S6XQ7abSIMv/MxEfZrNRZ8nyXX5cIknjQhwrnvc9LvM9ds8orhCT0VYf0nOC9+I8Ky1pwNu2EY/C6ePNflSCkkx2WycRECYLNUYs9xCOv1PGw2/qYUu5bFluPwlJ/MwIOAx8GAaqPBQxH0S7zX49kU/AkHpgp61e/w6YJ4qr/7h74DuetRiOZ4VmUAAAAASUVORK5CYII=",
+                "contentType": "image/png",
+                "width": 17,
+                "height": 17,
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0
+              },
+              "values": [
+                [
+                  "Pending"
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "uniqueValueInfos": [
+        {
+          "symbol": {
+            "type": "esriPMS",
+            "url": "be208d61f2459369440c97d5af9acd07",
+            "imageData": "iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAYAAADgKtSgAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA9klEQVRIid3UMSuFURgH8N/RHa4wWUwyWZUUmyLFZmS0KsmEumWhZJDFrCSTr+ALGC3KKF9AUrI8et07GO697733fW90/3VOnXPq99TTOaeij6kMDH6N5wLeGPZb4Rl8XACvDWbP/w4PRhIffcFxExwlHkvFgyWso4q10vBgCOeN5WqwnLgvBccWZn6tz4K59FO3AB6MNnlYs9jEbSEch5hosn8S3CW+esKDSey1OJ7CNi56wnGK4TbnteAq8dYVHixgI6f4OA4arescV796SX52g8vEax6+mE1VKvM8qY/cvLCDd0y3w1ey6RMPnag5+T+/Yrf5BjAKK5y+dQ97AAAAAElFTkSuQmCC",
+            "contentType": "image/png",
+            "width": 17,
+            "height": 17,
+            "angle": 0,
+            "xoffset": 0,
+            "yoffset": 0
+          },
+          "value": "Permit Expired",
+          "label": "PERMIT EXPIRED"
+        },
+        {
+          "symbol": {
+            "type": "esriPMS",
+            "url": "1f8c388eb8fa43e1ebced14839cbd2f9",
+            "imageData": "iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAYAAADgKtSgAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABMUlEQVRIieXUMUvDQBiA4ffaROrgKCRqV/UfODq5SKOLs7u46GQVBS3ipOAoIg4uIhUsbXHoH9D+AlEXQZqqq0gVSU5OCtLSSyKxg/qO+fI9gSOcQRcz/gx+BNzE8PqAJR2u4M0Y+GrosUw+MJbwuYwI3vd6jOTTNNoHHfFzi2rG5RSYCZMFZDvBWvwzjxWRZFqCiSYB1ZLNsW6uxctpbjM19hHM696RPosI5LdxlZkk9+4z2/wLWhOclIe4IKBA/MziyamzLSUbbaNXA7JBu6G46k2w0yOZAyy+2i3Y3BEXr1i8OC7rEvaajx4TJlthe5FwVcrmoFFnARgF1or9PPNTeF7gOS7LQC5lcxhlJzKuKg1QmKpxpT5EN27F4iDX//M+H4/pDQfhEzHxln7vmX8A7YBHdKUFzFUAAAAASUVORK5CYII=",
+            "contentType": "image/png",
+            "width": 17,
+            "height": 17,
+            "angle": 0,
+            "xoffset": 0,
+            "yoffset": 0
+          },
+          "value": "Approved (Pending Payment)",
+          "label": "APPROVED (PENDING PAYMENT)"
+        },
+        {
+          "symbol": {
+            "type": "esriPMS",
+            "url": "846553ed77b509c41b3d6e3184ebcd43",
+            "imageData": "iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAYAAADgKtSgAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABI0lEQVRIid3VPUvDQByA8edoRaE4CYVQ3ERdXYqbk7NTFGoqgoOrCKKIgqD4MombdColLULBj+HgN9BJKOG6dHERRPOX+DIopr1656DPGI7fHXeXJMsvlv03eA24tfCGgc00PIEPLPAd99tS0kUa3vXXx3Z40BqDzCGIDyg3eLmdR2QXZBUYSBvWH15u5xBZR+KN98PrmhnuS4YhvYLEe4Bnupbe+FI0h+hjhElT1AwPoglitQ/9w73xsHCDL1NvW0IySd4dntRUz0CFxc4F6nEbZA0YxCDz21IfuQe2WNbnPMUnoObd4R9VvTtggSA6Q6lThCIp/fwNDQtXINMEuoTiyC3+mhJC6vitS77JzYerOfpggs9YTjPeDZ+1xD/1d/+hL0dySHGoMFHSAAAAAElFTkSuQmCC",
+            "contentType": "image/png",
+            "width": 17,
+            "height": 17,
+            "angle": 0,
+            "xoffset": 0,
+            "yoffset": 0
+          },
+          "value": "Issued",
+          "label": "ISSUED"
+        },
+        {
+          "symbol": {
+            "type": "esriPMS",
+            "url": "d22b5bd7e9790ec91eaae1c239bdfdce",
+            "imageData": "iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAYAAADgKtSgAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABKElEQVRIid3VoUsDURzA8e+7HQOD3eLiWLSaTP4Blrs9mStmgwYVZphM0WQQjIIY9C6ZDWpTLNaBSdDoMURFdoz7yYUDDz3dcc+g3/bC+7wX3o9n84vZ/wY/BG4LeKPAShYewxsF8LWPixReLmOHIcZK4ZUK450Ol8Ci1lwbxeOUYhK48jyORVjVmntjeHIGMKsUM57HjmWx7Ti8mMKTRoBWFDHv+7S6XQ7abSIMv/MxEfZrNRZ8nyXX5cIknjQhwrnvc9LvM9ds8orhCT0VYf0nOC9+I8Ky1pwNu2EY/C6ePNflSCkkx2WycRECYLNUYs9xCOv1PGw2/qYUu5bFluPwlJ/MwIOAx8GAaqPBQxH0S7zX49kU/AkHpgp61e/w6YJ4qr/7h74DuetRiOZ4VmUAAAAASUVORK5CYII=",
+            "contentType": "image/png",
+            "width": 17,
+            "height": 17,
+            "angle": 0,
+            "xoffset": 0,
+            "yoffset": 0
+          },
+          "value": "Pending",
+          "label": "PENDING"
+        }
+      ],
+      "fieldDelimiter": ",",
+      "authoringInfo": {
+        "colorRamp": {
+          "type": "multipart",
+          "colorRamps": [
+            {
+              "type": "algorithmic",
+              "algorithm": "esriCIELabAlgorithm",
+              "fromColor": [
+                252,
+                189,
+                238,
+                255
+              ],
+              "toColor": [
+                252,
+                189,
+                238,
+                255
+              ]
+            },
+            {
+              "type": "algorithmic",
+              "algorithm": "esriCIELabAlgorithm",
+              "fromColor": [
+                185,
+                252,
+                182,
+                255
+              ],
+              "toColor": [
+                185,
+                252,
+                182,
+                255
+              ]
+            },
+            {
+              "type": "algorithmic",
+              "algorithm": "esriCIELabAlgorithm",
+              "fromColor": [
+                182,
+                238,
+                252,
+                255
+              ],
+              "toColor": [
+                182,
+                238,
+                252,
+                255
+              ]
+            },
+            {
+              "type": "algorithmic",
+              "algorithm": "esriCIELabAlgorithm",
+              "fromColor": [
+                252,
+                213,
+                179,
+                255
+              ],
+              "toColor": [
+                252,
+                213,
+                179,
+                255
+              ]
+            },
+            {
+              "type": "algorithmic",
+              "algorithm": "esriCIELabAlgorithm",
+              "fromColor": [
+                182,
+                190,
+                252,
+                255
+              ],
+              "toColor": [
+                182,
+                190,
+                252,
+                255
+              ]
+            },
+            {
+              "type": "algorithmic",
+              "algorithm": "esriCIELabAlgorithm",
+              "fromColor": [
+                235,
+                252,
+                212,
+                255
+              ],
+              "toColor": [
+                235,
+                252,
+                212,
+                255
+              ]
+            },
+            {
+              "type": "algorithmic",
+              "algorithm": "esriCIELabAlgorithm",
+              "fromColor": [
+                252,
+                179,
+                180,
+                255
+              ],
+              "toColor": [
+                252,
+                179,
+                180,
+                255
+              ]
+            },
+            {
+              "type": "algorithmic",
+              "algorithm": "esriCIELabAlgorithm",
+              "fromColor": [
+                179,
+                252,
+                230,
+                255
+              ],
+              "toColor": [
+                179,
+                252,
+                230,
+                255
+              ]
+            },
+            {
+              "type": "algorithmic",
+              "algorithm": "esriCIELabAlgorithm",
+              "fromColor": [
+                252,
+                215,
+                234,
+                255
+              ],
+              "toColor": [
+                252,
+                215,
+                234,
+                255
+              ]
+            },
+            {
+              "type": "algorithmic",
+              "algorithm": "esriCIELabAlgorithm",
+              "fromColor": [
+                212,
+                213,
+                252,
+                255
+              ],
+              "toColor": [
+                212,
+                213,
+                252,
+                255
+              ]
+            },
+            {
+              "type": "algorithmic",
+              "algorithm": "esriCIELabAlgorithm",
+              "fromColor": [
+                221,
+                182,
+                252,
+                255
+              ],
+              "toColor": [
+                221,
+                182,
+                252,
+                255
+              ]
+            },
+            {
+              "type": "algorithmic",
+              "algorithm": "esriCIELabAlgorithm",
+              "fromColor": [
+                250,
+                252,
+                182,
+                255
+              ],
+              "toColor": [
+                250,
+                252,
+                182,
+                255
+              ]
+            },
+            {
+              "type": "algorithmic",
+              "algorithm": "esriCIELabAlgorithm",
+              "fromColor": [
+                252,
+                233,
+                179,
+                255
+              ],
+              "toColor": [
+                252,
+                233,
+                179,
+                255
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "scaleSymbols": true,
+    "transparency": 0,
+    "labelingInfo": null
+  },
+  "defaultVisibility": false,
+  "extent": {
+    "xmin": -8584375.7419,
+    "ymin": 4694974.704499997,
+    "xmax": -8561530.4182,
+    "ymax": 4720953.540399998,
+    "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857,
+      "xyTolerance": 0.001,
+      "zTolerance": 0.001,
+      "mTolerance": 0.001,
+      "falseX": -20037700,
+      "falseY": -30241100,
+      "xyUnits": 144005822.14147583,
+      "falseZ": -100000,
+      "zUnits": 10000,
+      "falseM": -100000,
+      "mUnits": 10000
+    }
+  },
+  "hasAttachments": false,
+  "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+  "displayField": "TypeDetailNames",
+  "typeIdField": null,
+  "subtypeFieldName": null,
+  "subtypeField": null,
+  "defaultSubtypeCode": null,
+  "fields": [
+    {
+      "name": "OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID",
+      "domain": null
+    },
+    {
+      "name": "TrackingNumber",
+      "type": "esriFieldTypeInteger",
+      "alias": "TrackingNumber",
+      "domain": null
+    },
+    {
+      "name": "PermitNumber",
+      "type": "esriFieldTypeString",
+      "alias": "PermitNumber",
+      "length": 20,
+      "domain": null
+    },
+    {
+      "name": "StatusDescription",
+      "type": "esriFieldTypeString",
+      "alias": "StatusDescription",
+      "length": 50,
+      "domain": null
+    },
+    {
+      "name": "IntakeDate",
+      "type": "esriFieldTypeDate",
+      "alias": "IntakeDate",
+      "length": 8,
+      "domain": null
+    },
+    {
+      "name": "ApplicationDate",
+      "type": "esriFieldTypeDate",
+      "alias": "ApplicationDate",
+      "length": 8,
+      "domain": null
+    },
+    {
+      "name": "ReadyForReviewDate",
+      "type": "esriFieldTypeDate",
+      "alias": "ReadyForReviewDate",
+      "length": 8,
+      "domain": null
+    },
+    {
+      "name": "AssignedDate",
+      "type": "esriFieldTypeDate",
+      "alias": "AssignedDate",
+      "length": 8,
+      "domain": null
+    },
+    {
+      "name": "LastApprovalDate",
+      "type": "esriFieldTypeDate",
+      "alias": "LastApprovalDate",
+      "length": 8,
+      "domain": null
+    },
+    {
+      "name": "IssueDate",
+      "type": "esriFieldTypeDate",
+      "alias": "IssueDate",
+      "length": 8,
+      "domain": null
+    },
+    {
+      "name": "EffectiveDate",
+      "type": "esriFieldTypeDate",
+      "alias": "EffectiveDate",
+      "length": 8,
+      "domain": null
+    },
+    {
+      "name": "ExpirationDate",
+      "type": "esriFieldTypeDate",
+      "alias": "ExpirationDate",
+      "length": 8,
+      "domain": null
+    },
+    {
+      "name": "PermitFeesPaymentDate",
+      "type": "esriFieldTypeDate",
+      "alias": "PermitFeesPaymentDate",
+      "length": 8,
+      "domain": null
+    },
+    {
+      "name": "InspectionPaymentDate",
+      "type": "esriFieldTypeDate",
+      "alias": "InspectionPaymentDate",
+      "length": 8,
+      "domain": null
+    },
+    {
+      "name": "MeterPaymentDate",
+      "type": "esriFieldTypeDate",
+      "alias": "MeterPaymentDate",
+      "length": 8,
+      "domain": null
+    },
+    {
+      "name": "LastUpdateDate",
+      "type": "esriFieldTypeDate",
+      "alias": "LastUpdateDate",
+      "length": 8,
+      "domain": null
+    },
+    {
+      "name": "PCReviewStatusDate",
+      "type": "esriFieldTypeDate",
+      "alias": "PCReviewStatusDate",
+      "length": 8,
+      "domain": null
+    },
+    {
+      "name": "LastResubmissionDate",
+      "type": "esriFieldTypeDate",
+      "alias": "LastResubmissionDate",
+      "length": 8,
+      "domain": null
+    },
+    {
+      "name": "LastResubmissionRequestDate",
+      "type": "esriFieldTypeDate",
+      "alias": "LastResubmissionRequestDate",
+      "length": 8,
+      "domain": null
+    },
+    {
+      "name": "Status",
+      "type": "esriFieldTypeInteger",
+      "alias": "Status",
+      "domain": {
+        "type": "codedValue",
+        "name": "WS2_TOPSConstructionPermitStatus",
+        "description": "TOPS Construction Permit Status",
+        "codedValues": [
+          {
+            "name": "Trash/Delete",
+            "code": -4
+          },
+          {
+            "name": "Pending Application Fee",
+            "code": -3
+          },
+          {
+            "name": "Pending Document",
+            "code": -2
+          },
+          {
+            "name": "Incomplete",
+            "code": -1
+          },
+          {
+            "name": "Pending Assignment",
+            "code": 0
+          },
+          {
+            "name": "Approved (Pending Payment)",
+            "code": 1
+          },
+          {
+            "name": "Denied",
+            "code": 2
+          },
+          {
+            "name": "Cancel/Withdrawn",
+            "code": 3
+          },
+          {
+            "name": "Locked",
+            "code": 4
+          },
+          {
+            "name": "Revoked",
+            "code": 5
+          },
+          {
+            "name": "Undefined",
+            "code": 6
+          },
+          {
+            "name": "Lapsed",
+            "code": 7
+          },
+          {
+            "name": "Permit Expired",
+            "code": 8
+          },
+          {
+            "name": "Issued",
+            "code": 9
+          },
+          {
+            "name": "Revise and Resubmit",
+            "code": 10
+          },
+          {
+            "name": "Resubmitted",
+            "code": 11
+          },
+          {
+            "name": "Assigned",
+            "code": 12
+          },
+          {
+            "name": "Suspended",
+            "code": 13
+          },
+          {
+            "name": "Re-Opened",
+            "code": 14
+          },
+          {
+            "name": "Closed",
+            "code": 15
+          },
+          {
+            "name": "Not Paid",
+            "code": 16
+          }
+        ],
+        "mergePolicy": "esriMPTDefaultValue",
+        "splitPolicy": "esriSPTDefaultValue"
+      }
+    },
+    {
+      "name": "WorkDetail",
+      "type": "esriFieldTypeString",
+      "alias": "WorkDetail",
+      "length": 1073741822,
+      "domain": null
+    },
+    {
+      "name": "PCReviewStatus",
+      "type": "esriFieldTypeString",
+      "alias": "PCReviewStatus",
+      "length": 50,
+      "domain": null
+    },
+    {
+      "name": "SourcePermit",
+      "type": "esriFieldTypeString",
+      "alias": "SourcePermit",
+      "length": 20,
+      "domain": null
+    },
+    {
+      "name": "Renewal",
+      "type": "esriFieldTypeInteger",
+      "alias": "Renewal",
+      "domain": null
+    },
+    {
+      "name": "RenewalDescription",
+      "type": "esriFieldTypeString",
+      "alias": "RenewalDescription",
+      "length": 7,
+      "domain": null
+    },
+    {
+      "name": "ProcessNumber",
+      "type": "esriFieldTypeInteger",
+      "alias": "ProcessNumber",
+      "domain": null
+    },
+    {
+      "name": "ReviewProcess",
+      "type": "esriFieldTypeInteger",
+      "alias": "ReviewProcess",
+      "domain": null
+    },
+    {
+      "name": "EWRNumber",
+      "type": "esriFieldTypeString",
+      "alias": "EWRNumber",
+      "length": 51,
+      "domain": null
+    },
+    {
+      "name": "AddressLockedYN",
+      "type": "esriFieldTypeString",
+      "alias": "AddressLockedYN",
+      "length": 1,
+      "domain": null
+    },
+    {
+      "name": "WorkLocationFullAddress",
+      "type": "esriFieldTypeString",
+      "alias": "WorkLocationFullAddress",
+      "length": 100,
+      "domain": null
+    },
+    {
+      "name": "MultiAddresses",
+      "type": "esriFieldTypeString",
+      "alias": "MultiAddresses",
+      "length": 100,
+      "domain": null
+    },
+    {
+      "name": "TotalFee",
+      "type": "esriFieldTypeDouble",
+      "alias": "TotalFee",
+      "domain": null
+    },
+    {
+      "name": "PermitFee",
+      "type": "esriFieldTypeDouble",
+      "alias": "PermitFee",
+      "domain": null
+    },
+    {
+      "name": "PermitFeePaidYN",
+      "type": "esriFieldTypeString",
+      "alias": "PermitFeePaidYN",
+      "length": 1,
+      "domain": null
+    },
+    {
+      "name": "TechnologyFee",
+      "type": "esriFieldTypeDouble",
+      "alias": "TechnologyFee",
+      "domain": null
+    },
+    {
+      "name": "InspectionNumber",
+      "type": "esriFieldTypeString",
+      "alias": "InspectionNumber",
+      "length": 50,
+      "domain": null
+    },
+    {
+      "name": "InspectionAmount",
+      "type": "esriFieldTypeDouble",
+      "alias": "InspectionAmount",
+      "domain": null
+    },
+    {
+      "name": "InspectionPaidYN",
+      "type": "esriFieldTypeString",
+      "alias": "InspectionPaidYN",
+      "length": 50,
+      "domain": null
+    },
+    {
+      "name": "MeterAmount",
+      "type": "esriFieldTypeDouble",
+      "alias": "MeterAmount",
+      "domain": null
+    },
+    {
+      "name": "MeterInvoiceNumber",
+      "type": "esriFieldTypeString",
+      "alias": "MeterInvoiceNumber",
+      "length": 50,
+      "domain": null
+    },
+    {
+      "name": "MeterPaidYN",
+      "type": "esriFieldTypeString",
+      "alias": "MeterPaidYN",
+      "length": 1,
+      "domain": null
+    },
+    {
+      "name": "WetUtilityDepositAmount",
+      "type": "esriFieldTypeDouble",
+      "alias": "WetUtilityDepositAmount",
+      "domain": null
+    },
+    {
+      "name": "TypeDetailIDs",
+      "type": "esriFieldTypeString",
+      "alias": "TypeDetailIDs",
+      "length": 1073741822,
+      "domain": null
+    },
+    {
+      "name": "TypeDetailNames",
+      "type": "esriFieldTypeString",
+      "alias": "TypeDetailNames",
+      "length": 1073741822,
+      "domain": null
+    },
+    {
+      "name": "IsExcavation",
+      "type": "esriFieldTypeInteger",
+      "alias": "IsExcavation",
+      "domain": null
+    },
+    {
+      "name": "IsFixture",
+      "type": "esriFieldTypeInteger",
+      "alias": "IsFixture",
+      "domain": null
+    },
+    {
+      "name": "IsPaving",
+      "type": "esriFieldTypeInteger",
+      "alias": "IsPaving",
+      "domain": null
+    },
+    {
+      "name": "IsOccupancy",
+      "type": "esriFieldTypeInteger",
+      "alias": "IsOccupancy",
+      "domain": null
+    },
+    {
+      "name": "IsLandscaping",
+      "type": "esriFieldTypeInteger",
+      "alias": "IsLandscaping",
+      "domain": null
+    },
+    {
+      "name": "IsProjections",
+      "type": "esriFieldTypeInteger",
+      "alias": "IsProjections",
+      "domain": null
+    },
+    {
+      "name": "IsPSRental",
+      "type": "esriFieldTypeInteger",
+      "alias": "IsPSRental",
+      "domain": null
+    },
+    {
+      "name": "IsOverHeadWork",
+      "type": "esriFieldTypeInteger",
+      "alias": "IsOverHeadWork",
+      "domain": null
+    },
+    {
+      "name": "IsAnnualPermit",
+      "type": "esriFieldTypeInteger",
+      "alias": "IsAnnualPermit",
+      "domain": null
+    },
+    {
+      "name": "ContractorName",
+      "type": "esriFieldTypeString",
+      "alias": "ContractorName",
+      "length": 1073741822,
+      "domain": null
+    },
+    {
+      "name": "OwnerName",
+      "type": "esriFieldTypeString",
+      "alias": "OwnerName",
+      "length": 1073741822,
+      "domain": null
+    },
+    {
+      "name": "PermitteeName",
+      "type": "esriFieldTypeString",
+      "alias": "PermitteeName",
+      "length": 1073741822,
+      "domain": null
+    },
+    {
+      "name": "WorkLocationAddressID",
+      "type": "esriFieldTypeInteger",
+      "alias": "WorkLocationAddressID",
+      "domain": null
+    },
+    {
+      "name": "PermitType",
+      "type": "esriFieldTypeInteger",
+      "alias": "PermitType",
+      "domain": {
+        "type": "codedValue",
+        "name": "WS2_TOPSConstructionPermitType",
+        "description": "TOPS Construction Permit Type",
+        "codedValues": [
+          {
+            "name": "New",
+            "code": 0
+          },
+          {
+            "name": "Replace",
+            "code": 1
+          },
+          {
+            "name": "Repair",
+            "code": 2
+          }
+        ],
+        "mergePolicy": "esriMPTDefaultValue",
+        "splitPolicy": "esriSPTDefaultValue"
+      }
+    },
+    {
+      "name": "PermitTypeDescription",
+      "type": "esriFieldTypeString",
+      "alias": "PermitTypeDescription",
+      "length": 7,
+      "domain": null
+    },
+    {
+      "name": "RoadwaySegID",
+      "type": "esriFieldTypeInteger",
+      "alias": "RoadwaySegID",
+      "domain": null
+    },
+    {
+      "name": "StreetSegID",
+      "type": "esriFieldTypeInteger",
+      "alias": "StreetSegID",
+      "domain": null
+    },
+    {
+      "name": "WorkLocationWard",
+      "type": "esriFieldTypeString",
+      "alias": "WorkLocationWard",
+      "length": 10,
+      "domain": null
+    },
+    {
+      "name": "WorkLocationANC",
+      "type": "esriFieldTypeString",
+      "alias": "WorkLocationANC",
+      "length": 50,
+      "domain": null
+    },
+    {
+      "name": "WorkLocationSMD",
+      "type": "esriFieldTypeString",
+      "alias": "WorkLocationSMD",
+      "length": 50,
+      "domain": null
+    },
+    {
+      "name": "WorkLocationLot",
+      "type": "esriFieldTypeString",
+      "alias": "WorkLocationLot",
+      "length": 1073741822,
+      "domain": null
+    },
+    {
+      "name": "WorkLocationSquare",
+      "type": "esriFieldTypeString",
+      "alias": "WorkLocationSquare",
+      "length": 1073741822,
+      "domain": null
+    },
+    {
+      "name": "WorkLocationZip",
+      "type": "esriFieldTypeString",
+      "alias": "WorkLocationZip",
+      "length": 10,
+      "domain": null
+    },
+    {
+      "name": "FiscalYear",
+      "type": "esriFieldTypeInteger",
+      "alias": "FiscalYear",
+      "domain": null
+    },
+    {
+      "name": "Ward",
+      "type": "esriFieldTypeString",
+      "alias": "Ward",
+      "length": 3,
+      "domain": null
+    },
+    {
+      "name": "Quadrant",
+      "type": "esriFieldTypeString",
+      "alias": "Quadrant",
+      "length": 2,
+      "domain": null
+    },
+    {
+      "name": "ZipCode",
+      "type": "esriFieldTypeString",
+      "alias": "ZipCode",
+      "length": 5,
+      "domain": null
+    },
+    {
+      "name": "ANC",
+      "type": "esriFieldTypeString",
+      "alias": "ANC",
+      "length": 2,
+      "domain": null
+    },
+    {
+      "name": "SMD",
+      "type": "esriFieldTypeString",
+      "alias": "SMD",
+      "length": 4,
+      "domain": null
+    },
+    {
+      "name": "NeighborhoodClusters",
+      "type": "esriFieldTypeString",
+      "alias": "NeighborhoodClusters",
+      "length": 50,
+      "domain": null
+    },
+    {
+      "name": "NeighborhoodNames",
+      "type": "esriFieldTypeString",
+      "alias": "NeighborhoodNames",
+      "length": 50,
+      "domain": null
+    },
+    {
+      "name": "BID",
+      "type": "esriFieldTypeString",
+      "alias": "BID",
+      "length": 100,
+      "domain": null
+    },
+    {
+      "name": "AWI",
+      "type": "esriFieldTypeString",
+      "alias": "AWI",
+      "length": 100,
+      "domain": null
+    },
+    {
+      "name": "EDZ",
+      "type": "esriFieldTypeString",
+      "alias": "EDZ",
+      "length": 100,
+      "domain": null
+    },
+    {
+      "name": "NIF",
+      "type": "esriFieldTypeString",
+      "alias": "NIF",
+      "length": 100,
+      "domain": null
+    },
+    {
+      "name": "HistoricDistrict",
+      "type": "esriFieldTypeString",
+      "alias": "HistoricDistrict",
+      "length": 100,
+      "domain": null
+    },
+    {
+      "name": "Zoning",
+      "type": "esriFieldTypeString",
+      "alias": "Zoning",
+      "length": 10,
+      "domain": null
+    },
+    {
+      "name": "PUD",
+      "type": "esriFieldTypeString",
+      "alias": "PUD",
+      "length": 100,
+      "domain": null
+    },
+    {
+      "name": "CFAR",
+      "type": "esriFieldTypeString",
+      "alias": "CFAR",
+      "length": 100,
+      "domain": null
+    },
+    {
+      "name": "PSA",
+      "type": "esriFieldTypeString",
+      "alias": "PSA",
+      "length": 5,
+      "domain": null
+    },
+    {
+      "name": "PD",
+      "type": "esriFieldTypeString",
+      "alias": "PD",
+      "length": 5,
+      "domain": null
+    },
+    {
+      "name": "CPB",
+      "type": "esriFieldTypeString",
+      "alias": "CPB",
+      "length": 16,
+      "domain": null
+    },
+    {
+      "name": "DaysToAssign",
+      "type": "esriFieldTypeInteger",
+      "alias": "DaysToAssign",
+      "domain": null
+    },
+    {
+      "name": "DaysToApprove",
+      "type": "esriFieldTypeInteger",
+      "alias": "DaysToApprove",
+      "domain": null
+    },
+    {
+      "name": "DaysToIssue",
+      "type": "esriFieldTypeInteger",
+      "alias": "DaysToIssue",
+      "domain": null
+    },
+    {
+      "name": "XCoord",
+      "type": "esriFieldTypeDouble",
+      "alias": "XCoord",
+      "domain": null
+    },
+    {
+      "name": "YCoord",
+      "type": "esriFieldTypeDouble",
+      "alias": "YCoord",
+      "domain": null
+    },
+    {
+      "name": "OnSegX",
+      "type": "esriFieldTypeDouble",
+      "alias": "OnSegX",
+      "domain": null
+    },
+    {
+      "name": "OnSegY",
+      "type": "esriFieldTypeDouble",
+      "alias": "OnSegY",
+      "domain": null
+    },
+    {
+      "name": "Shape",
+      "type": "esriFieldTypeGeometry",
+      "alias": "Shape",
+      "domain": null
+    },
+    {
+      "name": "ApplicantCompany",
+      "type": "esriFieldTypeString",
+      "alias": "ApplicantCompany",
+      "length": 50,
+      "domain": null
+    },
+    {
+      "name": "Longitude",
+      "type": "esriFieldTypeDouble",
+      "alias": "Longitude",
+      "domain": null
+    },
+    {
+      "name": "Latitude",
+      "type": "esriFieldTypeDouble",
+      "alias": "Latitude",
+      "domain": null
+    },
+    {
+      "name": "GlobalID",
+      "type": "esriFieldTypeGlobalID",
+      "alias": "GlobalID",
+      "length": 38,
+      "domain": null
+    },
+    {
+      "name": "SmallCellStreetLightId",
+      "type": "esriFieldTypeString",
+      "alias": "SmallCellStreetLightId",
+      "length": 50,
+      "domain": null
+    },
+    {
+      "name": "CellInstallationStatus",
+      "type": "esriFieldTypeString",
+      "alias": "CellInstallationStatus",
+      "length": 25,
+      "domain": null
+    },
+    {
+      "name": "CellInstallationDate",
+      "type": "esriFieldTypeDate",
+      "alias": "CellInstallationDate",
+      "length": 8,
+      "domain": null
+    }
+  ],
+  "geometryField": {
+    "name": "Shape",
+    "type": "esriFieldTypeGeometry",
+    "alias": "Shape"
+  },
+  "indexes": [
+    {
+      "name": "R14_pk",
+      "fields": "OBJECTID",
+      "isAscending": true,
+      "isUnique": true,
+      "description": ""
+    },
+    {
+      "name": "I14PermitNumber",
+      "fields": "PermitNumber",
+      "isAscending": true,
+      "isUnique": false,
+      "description": ""
+    },
+    {
+      "name": "I14StatusDescrip",
+      "fields": "StatusDescription",
+      "isAscending": true,
+      "isUnique": false,
+      "description": ""
+    },
+    {
+      "name": "I14TrackingNumbe",
+      "fields": "TrackingNumber",
+      "isAscending": true,
+      "isUnique": false,
+      "description": ""
+    },
+    {
+      "name": "isx_conStatus",
+      "fields": "Status",
+      "isAscending": true,
+      "isUnique": false,
+      "description": ""
+    },
+    {
+      "name": "UUID_14",
+      "fields": "GlobalID",
+      "isAscending": true,
+      "isUnique": false,
+      "description": ""
+    },
+    {
+      "name": "wlAdressid",
+      "fields": "WorkLocationAddressID",
+      "isAscending": true,
+      "isUnique": false,
+      "description": ""
+    },
+    {
+      "name": "S6_idx",
+      "fields": "Shape",
+      "isAscending": true,
+      "isUnique": true,
+      "description": ""
+    }
+  ],
+  "subtypes": [],
+  "relationships": [],
+  "canModifyLayer": true,
+  "canScaleSymbols": false,
+  "hasLabels": false,
+  "capabilities": "Map,Query,Data",
+  "maxRecordCount": 2000,
+  "maxSelectionCount": 2000,
+  "supportsStatistics": true,
+  "supportsExceedsLimitStatistics": true,
+  "supportsAdvancedQueries": true,
+  "supportedQueryFormats": "JSON, geoJSON, PBF",
+  "isDataVersioned": false,
+  "ownershipBasedAccessControlForFeatures": {
+    "allowOthersToQuery": true
+  },
+  "useStandardizedQueries": true,
+  "supportedSpatialRelationships": [
+    "esriSpatialRelIntersects",
+    "esriSpatialRelContains",
+    "esriSpatialRelCrosses",
+    "esriSpatialRelEnvelopeIntersects",
+    "esriSpatialRelIndexIntersects",
+    "esriSpatialRelOverlaps",
+    "esriSpatialRelTouches",
+    "esriSpatialRelWithin",
+    "esriSpatialRelRelation"
+  ],
+  "advancedQueryCapabilities": {
+    "useStandardizedQueries": true,
+    "supportsStatistics": true,
+    "supportsPercentileStatistics": true,
+    "supportsHavingClause": true,
+    "supportsOrderBy": true,
+    "supportsDistinct": true,
+    "supportsCountDistinct": true,
+    "supportsAdvancedQueryRelated": true,
+    "supportsQueryRelatedPagination": true,
+    "supportsPagination": true,
+    "supportsLod": false,
+    "supportsQueryWithLodSR": false,
+    "supportsTrueCurve": true,
+    "supportsQueryWithDatumTransformation": true,
+    "supportsReturningQueryExtent": true,
+    "supportsQueryWithDistance": true,
+    "supportsSqlExpression": true,
+    "supportsTimeRelation": true,
+    "supportsSqlFormat": false,
+    "supportsQueryAnalytic": true,
+    "supportsCurrentUserQueries": true
+  },
+  "supportsDatumTransformation": true,
+  "advancedQueryAnalyticCapabilities": {
+    "supportsLinearRegression": true,
+    "supportsAsync": false,
+    "supportsPercentileAnalytic": true
+  },
+  "dateFieldsTimeReference": {
+    "timeZone": "Eastern Standard Time",
+    "timeZoneIANA": "America/New_York",
+    "respectsDaylightSaving": true
+  },
+  "preferredTimeReference": null,
+  "datesInUnknownTimezone": false,
+  "hasMetadata": true,
+  "isDataArchived": false,
+  "archivingInfo": {
+    "supportsQueryWithHistoricMoment": false,
+    "startArchivingMoment": -1
+  },
+  "supportsCoordinatesQuantization": true,
+  "supportsDynamicLegends": true
+}

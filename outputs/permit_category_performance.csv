@@ -1,0 +1,9 @@
+PermitCategory,TotalPermits,ValidApprovals,AverageDays,MedianDays,P90Days,SameDayApprovals,MissingApprovals
+Excavation,2689,2684,20.15014903129657,12.0,53.0,657,5
+Mixed Work Types,112,112,51.026785714285715,36.0,109.9,2,0
+Fixture,69,69,34.15942028985507,24.0,79.2,3,0
+Over Head Work,62,62,27.903225806451612,18.5,53.09999999999999,2,0
+Paving,46,46,39.43478260869565,26.5,95.5,0,0
+Landscaping,9,9,52.77777777777778,33.0,117.60000000000001,0,0
+Projections,9,9,35.888888888888886,25.0,78.4,0,0
+Mixed / Unclassified,1,1,15.0,15.0,15.0,0,0
