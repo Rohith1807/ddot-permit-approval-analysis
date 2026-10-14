@@ -1,3 +1,7 @@
+"""
+Investigates records identified in the previous validation step with missing
+approval dates to determine their status and assess their impact on the analysis.
+"""
 
 from pathlib import Path
 import pandas as pd

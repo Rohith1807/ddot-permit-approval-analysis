@@ -1,3 +1,8 @@
+"""
+Creates mutually exclusive permit categories based on the exploration results.
+Validates category assignments against source indicators and compares
+average approval times without double-counting permits.
+"""
 
 from pathlib import Path
 import pandas as pd

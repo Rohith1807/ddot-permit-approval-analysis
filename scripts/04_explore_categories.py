@@ -1,3 +1,8 @@
+"""
+Explores available permit classifications after establishing the overall
+approval baseline. Identifies overlapping work categories and detailed
+activities to inform a defensible segmentation strategy.
+"""
 
 from pathlib import Path
 from collections import Counter

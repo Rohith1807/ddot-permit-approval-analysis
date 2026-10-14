@@ -1,3 +1,8 @@
+"""
+Calculates approval duration for each unique permit using validated dates.
+Excludes weekends and observed DC holidays, tests calculation accuracy,
+and establishes the overall approval-performance baseline.
+"""
 
 from pathlib import Path
 import numpy as np

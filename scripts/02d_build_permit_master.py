@@ -1,3 +1,8 @@
+"""
+Builds a one-row-per-permit dataset after validating repeated records.
+Preserves geographic relationships separately to prevent duplicate source
+rows from disproportionately influencing approval-time calculations.
+"""
 
 from pathlib import Path
 import pandas as pd

@@ -1,3 +1,8 @@
+"""
+Investigates excavation activities after identifying Excavation as the
+dominant permit category. Compares approval times across detailed activities
+to identify meaningful segments for deeper operational exploration.
+"""
 
 from pathlib import Path
 import pandas as pd

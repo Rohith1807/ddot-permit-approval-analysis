@@ -1,3 +1,8 @@
+"""
+Extracts FY2026 candidate construction permit records from the DDOT ArcGIS REST API.
+Retrieves records in batches and validates completeness before beginning analysis.
+"""
+
 
 from pathlib import Path
 from datetime import datetime, timezone

@@ -1,3 +1,8 @@
+"""
+Validates findings from the excavation activity analysis by examining
+overlapping activities and zero-business-day approvals. Ensures reported
+insights accurately reflect the underlying permit relationships.
+"""
 
 from pathlib import Path
 import pandas as pd

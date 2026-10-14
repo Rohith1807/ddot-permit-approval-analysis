@@ -1,3 +1,8 @@
+"""
+Investigates repeated permit numbers discovered during data validation.
+Determines the true unit of analysis and checks whether repeated records
+contain conflicting information before permit-level consolidation.
+"""
 
 from pathlib import Path
 import pandas as pd

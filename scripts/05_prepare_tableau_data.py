@@ -1,3 +1,8 @@
+"""
+Prepares the validated analysis for Tableau using separate permit-level
+and excavation activity datasets. Reconciles key metrics to ensure the
+dashboard reproduces the Python results without unintended double-counting.
+"""
 
 from pathlib import Path
 import pandas as pd

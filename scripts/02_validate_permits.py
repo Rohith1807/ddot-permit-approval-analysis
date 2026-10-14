@@ -1,3 +1,8 @@
+"""
+Examines the extracted records to establish which permits qualify as new.
+Validates renewal classifications, permit statuses, and date consistency
+before defining the eligible analysis population.
+"""
 
 from pathlib import Path
 import pandas as pd
