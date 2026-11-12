@@ -76,6 +76,8 @@ The packaged Tableau workbook contains an executive dashboard and supporting wor
 
 The dashboard uses validated permit-level metrics and identifies differences in approval duration without attempting to explain their underlying causes.
 
+![alt text](<Screenshot 2026-11-12 120638.png>)
+
 ## 5. Reproducibility
 
 The repository contains the Python scripts used for data extraction, validation, transformation, and Tableau dataset preparation.
